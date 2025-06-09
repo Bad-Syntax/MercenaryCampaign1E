@@ -1,0 +1,34 @@
+UnitName	Example Unit
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Command		1st Recon Company		-			-			4	Wolverine	N	
+2	Command		1st Recon Company		-			-			4	Wolverine	N	
+3	Command		1st Recon Company		-			-			3	Wolverine	N	
+4	Command		1st Recon Company		-			-			3	Wolverine	N	
+5	Strike		1st Recon Company		-			-			4	Locust	N	
+6	Strike		1st Recon Company		-			-			4	Locust	N	
+7	Strike		1st Recon Company		-			-			3	Locust	N	
+8	Strike		1st Recon Company		-			-			4	Locust	N	
+9	Support		1st Recon Company		-			-			3	Pegasus	N	
+10	Support		1st Recon Company		-			-			3	Pegasus	N	
+11	Support		1st Recon Company		-			-			3	Pegasus	N	
+12	Support		1st Recon Company		-			-			3	Pegasus	N	
+13	Air		1st Recon Company								4	Sparrow Hawk	N	
+14	Air		1st Recon Company								4	Sparrow Hawk	N	
+15	Recon		1st Recon Company								4	Locust	N	
+16	Recon		1st Recon Company								4	Scout	N	
+17	Recon		1st Recon Company								4	Scout	N	
+18	Recon		1st Recon Company								3	Scout	N	
+19	Recon		1st Recon Company								3	Scout	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	
+--	Tech		1st Recon Company								3	Tech	N	

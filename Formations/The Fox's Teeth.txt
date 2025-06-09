@@ -1,0 +1,14 @@
+UnitName	The Fox's Teeth
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Command		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	Captain	Ian McKinnon	3	Marauder MAD-3R	N	Piloting 4, Gunnery 3, AC/5 aJams on 9+ and cannot be repaired in combat. 
+2	Command		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	George Lytton	3	Warhammer WHM-6R	N	Piloting 4, Gunnery 3, +5 Heat per Turn.  
+3	Command		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	Paul Danton	3	Phoenix Hawk PXH-1K	N	Piloting 5, Gunnery 3
+4	Command		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	Austin Vorster	2	Stinger STG-3R	N	Piloting 6, Gunnery 4, if move/jump must make PSR to avoid falling down.  Max 4 armor on head.  
+5	Ryder's Medium		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	Lieutenant	Karl Ryder	3	Crusader CRD-3R	N	Piloting 5, Gunnery 3
+6	Ryder's Medium		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	Iskoru Chipende	2	Phoenix Hawk PXH-1K	N	Piloting 5, Gunnery 4.  Max 10 armor on LL.  
+7	Ryder's Medium		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	Ernst Lang	3	Rifleman RFL-3N	N	Piloting 4, Gunnery 3, Max 5 armor on RA and -1 Heat sink.  
+8	Ryder's Medium		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers		Henrik Dekker	2	Wasp WSP-1A	N	Piloting 5, Gunnery 4.  
+9	Nomura's Recon		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	Lieutenant	Kate Nomura	2	Griffin GRF-1N	N	Piloting 4, Gunnery 4, Roll 9+ before LRM fired to go to 1d6 1-3 1 hex right or 4-6 1 hex left.  -1 Jump.  -2 Heat Sink.  
+10	Nomura's Recon		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	Mark McKinnon	2	Shadow Hawk SHD-2H	N	Piloting 5, Gunnery 4.  Max 9 RT armor.  
+11	Nomura's Recon		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	Mateo Alvarez	2	Wasp WSP-1A	N	Piloting 4, Gunnery 4.  8+ each turn to lose 2 heat sinks for turn.  
+12	Nomura's Recon		McKinnon's Raiders	The Fox's Teeth		Vanur's Battalion		7th Crucis Lancers	MechWarrior	Robert Gray	2	Stinger STG-3R	N	Piloting 5, Gunnery 3.  Roll 9+ before firing ML to do only 3 damage and 5 heat.  

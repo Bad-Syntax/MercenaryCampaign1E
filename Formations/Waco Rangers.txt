@@ -1,0 +1,294 @@
+UnitName	Waco Rangers
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Remarks
+0	Waco's Command Lance		Waco's Command Company		-		The Waco Rangers Regiment		Colonel	Wayne Waco	4	BattleMaster BLR-1G	N
+1	Waco's Command Lance		Waco's Command Company		-		The Waco Rangers Regiment		Captain	Akida Samsun	3	Marauder MAD-3R	N
+2	Waco's Command Lance		Waco's Command Company		-		The Waco Rangers Regiment		Captain	Reggie Randall	3	Wasp WSP-1A	N
+3	Waco's Command Lance		Waco's Command Company		-		The Waco Rangers Regiment		Sergeant	Lenny Markbright	3	Cyclops CP-10-Z	N
+4	Sung's Air Lance		Waco's Command Company		-		The Waco Rangers Regiment		Captain	Su Ching Sung	3	Transgressor TR-13	N
+5	Sung's Air Lance		Waco's Command Company		-		The Waco Rangers Regiment		Lieutenant	Jac "the Rammer" O'Rourke	3	Transgressor TR-13	N
+6	Sung's Air Lance		Waco's Command Company		-		The Waco Rangers Regiment		Lieutenant	Jimmy "the Spike" Inuit	2	Transgressor TR-13	N
+7	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Overlord (2762)	N
+8	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Union (2708)	N
+9	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Union (2708)	N
+10	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Union (2708)	N
+11	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Union (2708)	N
+12	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Union (2708)	N
+13	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Leopard (2537)	N
+14	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Leopard (2537)	N
+15	McCarthy's DropShip Group		Waco's Command Company		-		The Waco Rangers Regiment				2	Leopard (2537)	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				4	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+16	Technical Support Group		Waco's Command Company		-		The Waco Rangers Regiment				3	1 Tech + Astech Squad	N
+58	Noble's Command Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Major	Paulus Noble	4	Banshee BNC-3E	N
+59	Noble's Command Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Captain	Jorge Delphinus	3	Cyclops CP-10-Z	N
+60	Noble's Command Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Daverius Bunkerara	3	Quickdraw QKD-4G	N
+61	Noble's Command Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Marcus Aeolus Wernke	3	Warhammer WHM-6R	N
+62	Sanchuie's Scout Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Troy Sanchuie	2	Javelin JVN-10N	N
+63	Sanchuie's Scout Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Sergeant	Erica Long	2	Javelin JVN-10N	N
+64	Sanchuie's Scout Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment			Jolly Jim Smith	2	Locust LCT-1V	N
+65	Sanchuie's Scout Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment			Anita Michel	1	Locust LCT-1V	N
+66	Pointers' Heavy Air Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Alfred Pointers	3	Slayer SL-15	N
+67	Pointers' Heavy Air Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment			Nate "the Bug" Arachnar	2	Slayer SL-15	N
+68	Pointers' Heavy Air Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment			Charlie Migele	2	Slayer SL-15	N
+69	Faust's Light Air Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	JoJo Faust	4	Sholagar SL-21	N
+70	Faust's Light Air Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment			Chalton Liard	3	Sholagar SL-21	N
+71	Ponotowski's Medium Air Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Sasha Ponotowski	2	Shilone SL-17	N
+72	Ponotowski's Medium Air Lance		Noble's Headquarters Company		Noble's Assault Battalion		The Waco Rangers Regiment			Ross Lamone	1	Shilone SL-17	N
+73	Romy's Command Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment		Captain	Jacques Romy	3	Atlas AS7-D	N
+74	Romy's Command Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment		Sergeant	Giles Jefferson	3	Awesome AWS-8Q	N
+75	Romy's Command Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment			Willi "The Whiner" James	2	Orion ON1-K	N
+76	Romy's Command Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment			Jane Khorgul	2	Warhammer WHM-6R	N
+77	Smithers' Assault Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Rich Smithers	3	Atlas AS7-D	N
+78	Smithers' Assault Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment		Sergeant	Gordon McPherson	3	Awesome AWS-8Q	N
+79	Smithers' Assault Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment			Eli Ellerson	2	Crusader CRD-3R	N
+80	Smithers' Assault Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment			Suli El Hambra	1	Centurion CN9-A	N
+81	Swyccfer's Scout Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Geoffrey Swyccfer	3	Stinger STG-3R	N
+82	Swyccfer's Scout Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment		Sergeant	"Mad Jack" Livermore	2	Stinger STG-3R	N
+83	Swyccfer's Scout Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment			Lopez Martinelli	2	Wasp WSP-1A	N
+84	Swyccfer's Scout Lance		Romy's Assault Company		Noble's Assault Battalion		The Waco Rangers Regiment			Shelli Britan	1	Wasp WSP-1A	N
+85	Henry's Command Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment		Captain	Charles Henry	4	Atlas AS7-D	N
+86	Henry's Command Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment		Sergeant	Ted "Slim" Atkins	3	Archer ARC-2R	N
+87	Henry's Command Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment			Roland Rogers	2	Crusader CRD-3R	N
+88	Henry's Command Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment			Barry Manson	2	Wasp WSP-1A	N
+89	Ryan's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	Lyndon "Red" Ryan	3	Marauder MAD-3R	N
+90	Ryan's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment		Sergeant	Biii"The Basher" McCoy	3	Archer ARC-2R	N
+91	Ryan's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment			Alexandra Chunitza	2	Warhammer WHM-6R	N
+92	Ryan's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment			Ahmed "The Sage" Sandar	3	Stinger STG-3R	N
+93	Klane's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment		Lieutenant	"Smilin' John" Klane	3	BattleMaster BLR-1G	N
+94	Klane's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment		Sergeant	"Tiny Jim" Sundercrest	2	Archer ARC-2R	N
+95	Klane's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment			lkito Senmai	2	Wolverine WVR-6R	N
+96	Klane's Fire Lance		Henry's Support Company		Noble's Assault Battalion		The Waco Rangers Regiment			Miromo Ndeni	2	Stinger STG-3R	N
+97	Kelly's Command Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Major	Albright Kelly	4	Hunchback HBK-4G	N
+98	Kelly's Command Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Captain	Rictor Van Owen	3	Trebuchet TBT-5N	N
+99	Kelly's Command Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	Horace Nelson	3	Rifleman RFL-3N	N
+100	Kelly's Command Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	Bethier Stocker	3	Blackjack BJ-1	N
+101	Winston's Scout Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	D. D. Winston	3	Javelin JVN-10N	N
+102	Winston's Scout Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Anita Chu Lai	3	Javelin JVN-10N	N
+103	Winston's Scout Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment			Joe "Mr X" Zeek	2	Firestarter FS9-H	N
+104	Winston's Scout Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment			Peggy Sue Keith	1	Locust LCT-1V	N
+105	Tagedes' Medium Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	Thomas Tagedes	3	Clint CLNT-2-3T	N
+106	Tagedes' Medium Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Billy "Paleface" Palton	3	Hermes II HER-2S	N
+107	Tagedes' Medium Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment			Leonard "Mace" McCarthy	2	Hatchetman HCT-3F	N
+108	Tagedes' Medium Lance		Kelly's Headquarters Company		Kelly's Support Battalion		The Waco Rangers Regiment			Lyle "Lilly" Singawa	1	Whitworth WTH-1	N
+109	Warren's Command Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Captain	Douglas Warren	2	Panther PNT-9R	N
+110	Warren's Command Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Milo "The Old Man" Mcleish	3	Vulcan VL-2T	N
+111	Warren's Command Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Ehrates Jones	2	Centurion CN9-A	N
+112	Warren's Command Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Malachai Onerret	3	Stinger STG-3R	N
+113	Neal's Medium Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	Don Neal	3	Vindicator VND-1R	N
+114	Neal's Medium Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Jose Sargossa	2	Griffin GRF-1N	N
+115	Neal's Medium Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Chou Thoc Mai	2	Ostroc OSR-2C	N
+116	Neal's Medium Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Archy "Bare Bones" Boniface	1	Phoenix Hawk PXH-1	N
+117	Kristi's Scout Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	Sally "The She-Devil" Kristi	2	Panther PNT-9R	N
+118	Kristi's Scout Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Melissa Marshall	2	Jenner JR7-D	N
+119	Kristi's Scout Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Peter van Hoenger	2	Assassin ASN-21	N
+120	Kristi's Scout Lance		Warren's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Donna de Ia Kalbe	1	Wasp WSP-1A	N
+121	Preston's Command Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	"Buzz" Preston	3	Wolverine WVR-6R	N
+122	Preston's Command Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Walt "The Stare" Rickles	3	Wolverine WVR-6R	N
+123	Preston's Command Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Sevis "No Justice" Sims	2	Griffin GRF-1N	N
+124	Preston's Command Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Tracy "The Cheek" Thomas	2	Crusader CRD-3R	N
+125	Nathaniel's Medium Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	N.C Nathaniel	2	Phoenix Hawk PXH-1	N
+126	Nathaniel's Medium Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Marty Filmore	3	Shadow Hawk SHD-2H	N
+127	Nathaniel's Medium Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Teresa Williams	2	Thunderbolt TDR-5S	N
+128	Nathaniel's Medium Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Lieutenant	Wayne Rogers	3	Ostscout OTT-7J	N
+129	Rogers' Scout Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment		Sergeant	Dale Whittiker	3	Javelin JVN-10N	N
+130	Rogers' Scout Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Josh Winfield	2	Wasp WSP-1A	N
+131	Rogers' Scout Lance		Preston's Medium Company		Kelly's Support Battalion		The Waco Rangers Regiment			Amy Zimmers	1	Cicada CDA-2A	N
+132	Keller's Command Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Major	C. H. G. "Charger" Keller	3	Awesome AWS-8Q	N
+133	Keller's Command Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Captain	Eric "Action" Idlewild	3	Thunderbolt TDR-5S	N
+134	Keller's Command Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Will Reynolds	3	Blackjack BJ-1	N
+135	Keller's Command Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Mike "The Wit" Banks	2	Phoenix Hawk PXH-1	N
+136	lse's Support Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Myodo lse	2	Griffin GRF-1N	N
+137	lse's Support Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Billy Onoro	2	Crusader CRD-3R	N
+138	lse's Support Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Gerty "Moms" Montoya	3	Enforcer ENF-4R	N
+139	Reeman's Scout Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Doug Reeman	3	Stinger STG-3R	N
+140	Reeman's Scout Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Osaida Jijoro	3	Stinger STG-3R	N
+141	Reeman's Scout Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Odo "Nasty" Nastica	2	Wasp WSP-1A	N
+142	Reeman's Scout Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Cochees Shirotan	2	Dervish DV-6M	N
+143	Wright's Medium Air Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	P. D. "Buster" Wright	3	Shilone SL-17	N
+144	Wright's Medium Air Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Jan Van Allen	2	Shilone SL-17	N
+145	Wright's Medium Air Lance		Keller's Headquarters Company		Keller's Reserve Battalion		The Waco Rangers Regiment			C. C. Crane	2	Shilone SL-17	N
+146	Yuri's Comand Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Bend Ari Yuri	3	Victor VTR-9B	N
+147	Yuri's Comand Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Rualto Fibrini	2	Warhammer WHM-6R	N
+148	Yuri's Comand Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Festus "The Spook" Shelhan	2	Archer ARC-2R	N
+149	Reis's Assault Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	James "Striker" Reis	3	Dervish DV-6M	N
+150	Reis's Assault Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Solia Simanon	2	Ostsol OTL-4D	N
+151	Reis's Assault Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment			George "Shiny" Fellardo	2	Vulcan VL-2T	N
+152	Crespo's Urban Scout Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Saetta Crespo	3	Hunchback HBK-4G	N
+153	Crespo's Urban Scout Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Abere "Fats" Hatsuse	3	UrbanMech UM-R60	N
+154	Crespo's Urban Scout Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Belt Grim	2	UrbanMech UM-R60	N
+155	Crespo's Urban Scout Lance		Yuri's SpecOps Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Seth Grim	2	UrbanMech UM-R60	N
+156	Tragedor's Command Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Nigel Tragedor	2	Vindicator VND-1R	N
+157	Tragedor's Command Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Mark Nesrick	2	Vindicator VND-1R	N
+158	Tragedor's Command Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Alace d'Erlon	1	Javelin JVN-10N	N
+159	Tragedor's Command Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Amber Selliasson 	1	Javelin JVN-10N	N
+160	Myron's Support Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Mick Myron	2	Archer ARC-2R	N
+161	Myron's Support Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Oreon McNee	2	Catapult CPLT-C1	N
+162	Myron's Support Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Morice Berengar	1	Shadow Hawk SHD-2H	N
+163	Shuni's Scout Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Lieutenant	Willis Shuni	3	Valkyrie VLK-QA	N
+164	Shuni's Scout Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment		Sergeant	Zoniah "Zony" Rogers	2	Cicada CDA-2A	N
+165	Shuni's Scout Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Olan "Beamer" Phoron	1	Commando COM-2D	N
+166	Shuni's Scout Lance		Tragedor's Reserve Company		Keller's Reserve Battalion		The Waco Rangers Regiment			Chetoc Sinn	1	Locust LCT-1V	N

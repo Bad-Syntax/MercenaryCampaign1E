@@ -1,0 +1,20 @@
+UnitName	Wilson's Hussars
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State
+1	Command		Wilson's Hussars						Captain	David Wilson	Veteran	Marauder MAD-3R	N
+2	Command		Wilson's Hussars							Keth Sukarno	Veteran	Phoenix Hawk PXH-1	S
+3	Command		Wilson's Hussars							Michael Durant	Regular	Griffin GRF-1N	S
+4	Command		Wilson's Hussars							Joan Macklin	Veteran	Blackjack BJ-1	S
+5	Assault		Wilson's Hussars						Lieutenant	Bryce MacDowell	Veteran	Awesome AWS-8Q	D
+6	Assault		Wilson's Hussars							Andrew Blaine	Veteran	Warhammer WHM-6R	N
+7	Assault		Wilson's Hussars							Gerald Walker	Regular	Hunchback HBK-4G	D
+8	Assault		Wilson's Hussars							Charles Vincent	Regular	Rifleman RFL-3N	S
+9	Fire		Wilson's Hussars						Lieutenant	Arthur Blankenship	Regular	Archer ARC-2R	N
+10	Fire		Wilson's Hussars							Susan Hayes	Regular	Enforcer ENF-4R	S
+11	Fire		Wilson's Hussars							Anton Jones	Regular	Jenner JR7-D	N
+12	Fire		Wilson's Hussars							Richard Garvey	Regular	Wasp WSP-1A	S
+13	Recon		Wilson's Hussars						Lieutenant	Paula Stilson	Veteran	Ostroc OSR-2C	N
+14	Recon		Wilson's Hussars							Jan Leflar	Regular	Wasp WSP-1A	S
+15	Recon		Wilson's Hussars							Dai Chin	Regular	Stinger STG-3R	N
+16	Recon		Wilson's Hussars							Kim Yaro	Regular	Locust LCT-1V	D
+17	Technical Support Group		Wilson's Hussars						Tech	Rob Sharp	Regular	Tech	S
+18	Technical Support Group		Wilson's Hussars						Tech	Milo Thompson	Regular	Tech	D

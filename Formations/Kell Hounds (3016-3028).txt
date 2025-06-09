@@ -1,0 +1,27 @@
+UnitName	Kell Hounds
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Command		Mech		-		Kell Hounds (<3029)		Lieutenant Colonel	Patrick M. Kell	4	Thunderbolt		
+2	Command		Mech		-		Kell Hounds (<3029)		Lieutenant	Anne Finn	3	Orion		
+3	Command		Mech		-		Kell Hounds (<3029)		Sergeant	Cat Wilson	4	Marauder		
+4	Command		Mech		-		Kell Hounds (<3029)			Bethany Connor	2	Marauder		
+5	Assault		Mech		-		Kell Hounds (<3029)		Major	Salome Ward	4	Wolverine		
+6	Assault		Mech		-		Kell Hounds (<3029)		Lieutenant	Mike Fitzhugh	3	Catapult		
+7	Assault		Mech		-		Kell Hounds (<3029)		Sergeant	Diane McWilliams	3	Trebuchet		
+8	Assault		Mech		-		Kell Hounds (<3029)			Mary Lasker	2	Rifleman		
+9	Scout		Mech		-		Kell Hounds (<3029)		Captain	Daniel W. Allard	3	Valkyrie		
+10	Scout		Mech		-		Kell Hounds (<3029)		Lieutenant	Austin Brand	3	Commando		
+11	Scout		Mech		-		Kell Hounds (<3029)		Sergeant	Meg Lang	2	Wasp		
+12	Scout		Mech		-		Kell Hounds (<3029)			Eddie Baker	2	Jenner		
+13	Air Lance		Aerofighter		-		Kell Hounds (<3029)		Major	Seamus Fitzpatrick	4	Shilone		
+14	Air Lance		Aerofighter		-		Kell Hounds (<3029)			Patrick McMahan	3	Shilone		
+15	Air Lance		Aerofighter		-		Kell Hounds (<3029)		Lieutenant	R.O.B. "Rob" Kirk	3	Slayer		
+16	Air Lance		Aerofighter		-		Kell Hounds (<3029)			Kim Frost	2	Slayer		
+17	Air Lance		Aerofighter		-		Kell Hounds (<3029)		Lieutenant	Marie d'Or	3	Shilone		
+18	Air Lance		Aerofighter		-		Kell Hounds (<3029)			William Hanrahan	2	Shilone		
+19	Infantry Platoon		Infantry		-		Kell Hounds (<3029)		Major	Richard O'Cieran	3			
+20	Infantry Platoon		Infantry		-		Kell Hounds (<3029)				3			
+21	Infantry Platoon		Infantry		-		Kell Hounds (<3029)				3			
+22	Transportation Division		-		-		Kell Hounds (<3029)		Captain	Janos Vandermeer	4	Invader Jumpship	N	Name is Cucamulus
+23	Transportation Division		-		-		Kell Hounds (<3029)		Captain	Tom Helmer	3	Overlord	N	Name is Lugh
+24	Transportation Division		-		-		Kell Hounds (<3029)		Captain	Cadel O'Brien	3	Union	N	Name is Nuada Argetlan
+25	Transportation Division		-		-		Kell Hounds (<3029)		Captain	Hugh MacCool	2	Leopard	N	Name is Manannon MacLir

@@ -1,0 +1,121 @@
+UnitName	Wolf's Dragoons
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+0	Dropship		-		-		Gamma		-	Orca	-	Intruder	N	
+1	Dropship		-		-		Gamma		-	Phoenix	-	Overlord	N	
+2	Dropship		-		-		Gamma		-	Cetawayo	-	Union	N	
+3	Dropship		-		-		Gamma		-	Bellingham	-	Union	N	
+4	Dropship		-		-		Gamma		-	Dunnigan	-	Union	N	
+5	Dropship		-		-		Gamma		-	Addiscombe	-	Union	N	
+6	Dropship		-		-		Gamma		-	Bellatrix	-	Union	N	
+7	Dropship		-		-		Gamma		-	Graf Berek	-	Union	N	
+8	Regimental Command Lance		-		-		Gamma		Colonel	Wilhelmina Korsht	4	Marauder II	N	
+9	Regimental Command Lance		-		-		Gamma		-	Hal Blumberg	4	Blackjack	N	
+10	Regimental Command Lance		-		-		Gamma		Lieutenant	Jeremy Barron	4	Griffin	N	
+11	Regimental Command Lance		-		-		Gamma		Sergeant	Theodora Del Floro	4	Imp	N	
+12	Command Lance		1st Provisional Company		-		Gamma		Lieutenant	Norah Jane Stokes	4	Griffin	N	
+13	Command Lance		1st Provisional Company		-		Gamma		-	Hal Meskline	3	Thunderbolt	N	
+14	Command Lance		1st Provisional Company		-		Gamma		-	Torvald Vanney	3	Trebuchet	N	
+15	Command Lance		1st Provisional Company		-		Gamma		Captain	Mohammad Raisul	4	Orion	N	
+16	Heavy Lance		1st Provisional Company		-		Gamma		Lieutenant	Harold Spim	4	Catapult	N	
+17	Heavy Lance		1st Provisional Company		-		Gamma		Sergeant	Simon Prosser	4	Crusader	N	
+18	Heavy Lance		1st Provisional Company		-		Gamma		-	Shelton Woolrich	3	Crusader	N	
+19	Heavy Lance		1st Provisional Company		-		Gamma		-	Wallace Chagall	3	Firefly	N	
+20	Recon Lance		1st Provisional Company		-		Gamma		-	Maurice Frenn	4	Falcon	N	
+21	Recon Lance		1st Provisional Company		-		Gamma		Lieutenant	Samantha "Misty" Ryker	4	Panther	N	
+22	Recon Lance		1st Provisional Company		-		Gamma		Sergeant	Gary Himmer	4	Stinger	N	
+23	Recon Lance		1st Provisional Company		-		Gamma		-	Ludwig Ralst	3	Wasp	N	
+24	Assault Lance		2nd Provisional Company		-		Gamma		-	Conrad Crispwell	4	Catapult	N	
+25	Assault Lance		2nd Provisional Company		-		Gamma		Sergeant	Tedra McDonnell	4	Marauder II	N	
+26	Assault Lance		2nd Provisional Company		-		Gamma		-	Omar Fazio	3	Shogun	N	
+27	Assault Lance		2nd Provisional Company		-		Gamma		Lieutenant	Stanley Seleen	4	Warhammer	N	
+28	Command Lance		2nd Provisional Company		-		Gamma		Sergeant	Irwin Tyrell	4	Cataphracht	N	
+29	Command Lance		2nd Provisional Company		-		Gamma		-	Sylvan Greenspan	4	Orion	N	
+30	Command Lance		2nd Provisional Company		-		Gamma		Lieutenant	John Parker	4	Archer	N	
+31	Command Lance		2nd Provisional Company		-		Gamma		Captain	Roger Singh	4	Marauder	N	
+32	Fire Lance		2nd Provisional Company		-		Gamma		Lieutenant	Kent "Lobo" Levoy	4	Marauder	N	
+33	Fire Lance		2nd Provisional Company		-		Gamma		-	Frea Thomas	3	Annihilator	N	
+34	Fire Lance		2nd Provisional Company		-		Gamma		-	Ashara Hummali	4	Victor	N	
+35	Fire Lance		2nd Provisional Company		-		Gamma		Sergeant	Grace Seihara	4	Thunderbolt	N	
+36	Command Lance		3rd Provisional Company		-		Gamma		-	Thor Masnyk	4	Phoenix Hawk	N	
+37	Command Lance		3rd Provisional Company		-		Gamma		Lieutenant	Michael Takata	3	Thunderbolt	N	
+38	Command Lance		3rd Provisional Company		-		Gamma		Captain	Frank Woomack	4	Warhammer	N	
+39	Command Lance		3rd Provisional Company		-		Gamma		-	Kathy Keegan	4	Wolverine	N	
+40	Heavy Lance		3rd Provisional Company		-		Gamma		-	Arthur Kaneko	3	Dervish	N	
+41	Heavy Lance		3rd Provisional Company		-		Gamma		-	Arnold Zoslow	2	Phoenix Hawk	N	
+42	Heavy Lance		3rd Provisional Company		-		Gamma		Sergeant	Thomas Van Zyl	3	Quickdraw	N	
+43	Heavy Lance		3rd Provisional Company		-		Gamma		Lieutenant	James McLean	4	Victor	N	
+44	Recon Lance		3rd Provisional Company		-		Gamma		-	Steven Geiger	4	Hatchetman	N	Has stinger, but lost it on the Udibi raid.
+45	Recon Lance		3rd Provisional Company		-		Gamma		Lieutenant	Bill "Bullseye" Target	4	Phoenix Hawk	N	
+46	Recon Lance		3rd Provisional Company		-		Gamma		Sergeant	Rick Pahner	3	Shadow Hawk	N	
+47	Recon Lance		3rd Provisional Company		-		Gamma		-	Ford Anderson	4	Whitworth	N	
+48	Assault Lance		4th Provisional Company		-		Gamma		Sergeant	Terrance Truly	3	Zeus	N	
+49	Assault Lance		4th Provisional Company		-		Gamma		-	Timothy Storrs	2	Charger	N	
+50	Assault Lance		4th Provisional Company		-		Gamma		-	April January	2	Wolfhound	N	
+51	Assault Lance		4th Provisional Company		-		Gamma		Lieutenant	Robert "Gallipoli" Becker	3	Marauder	N	
+52	Command Lance		4th Provisional Company		-		Gamma		Lieutenant	Leslie Kawalli	4	Davion Enforcer	N	
+53	Command Lance		4th Provisional Company		-		Gamma		-	Hobart McCarthy	3	JagerMech	N	
+54	Command Lance		4th Provisional Company		-		Gamma		-	Pozner Grant	4	Ostsol	N	
+55	Command Lance		4th Provisional Company		-		Gamma		Major	Arthur Dumont	4	Battlemaster	N	
+56	Heavy Lance		4th Provisional Company		-		Gamma		Sergeant	Greg Kinsel	3	Blackjack	N	
+57	Heavy Lance		4th Provisional Company		-		Gamma		-	Adam Virozova	3	Davion Enforcer	N	
+58	Heavy Lance		4th Provisional Company		-		Gamma		-	Sierra Jems	3	Griffin	N	
+59	Heavy Lance		4th Provisional Company		-		Gamma		Lieutenant	Scott Casabier	4	Victor	N	
+														
+61	Dropship		-		-		Epsilon		-	Otsu		Fortress	N	
+62	Dropship		-		-		Epsilon		-	Hawken		Overlord	N	
+63	Dropship		-		-		Epsilon		-	Ise		Overlord	N	
+64	Dropship		-		-		Epsilon		-	Sunniva		Union	N	
+65	Dropship		-		-		Epsilon		-	Hebrides		Union	N	
+66	Dropship		-		-		Epsilon		-	Mt. Suribachi		Union	N	
+67	Regimental Command Lance		-		-		Epsilon		-	Jennifer Archoski	3	Imp	N	
+68	Regimental Command Lance		-		-		Epsilon		Sergeant	John Marlowe	4	Zeus	N	
+69	Regimental Command Lance		-		-		Epsilon		Colonel	Baxter Arbuthnot	4	Archer	N	
+70	Regimental Command Lance		-		-		Epsilon		Lieutenant	James Riker	4	Imp	N	
+71	Command Lance		1st Provisional Company		-		Epsilon		Major	Stuart Fields	4	Battlemaster	N	
+72	Command Lance		1st Provisional Company		-		Epsilon		-	Peter Divisadero	3	Centurion	N	
+73	Command Lance		1st Provisional Company		-		Epsilon		Lieutenant	Kimberly Dixon	4	Hoplite	N	
+74	Command Lance		1st Provisional Company		-		Epsilon		Sergeant	Vikham Komthouvong	4	Stalker	N	
+75	Heavy Lance		1st Provisional Company		-		Epsilon		Captain	Julie Sunstrom	4	Victor	N	
+76	Heavy Lance		1st Provisional Company		-		Epsilon		Sergeant	Jennie Gerald	4	Griffin	N	
+77	Heavy Lance		1st Provisional Company		-		Epsilon		-	Martin Dietrick	3	Panther	N	
+78	Heavy Lance		1st Provisional Company		-		Epsilon		-	Vincent Casca	4	Vindicator	N	
+79	Scout Lance		1st Provisional Company		-		Epsilon		Captain	Sun Cho	4	Phoenix Hawk	N	
+80	Scout Lance		1st Provisional Company		-		Epsilon		-	Zdislaw Wawrzynczak	4	Shadow Hawk	N	
+81	Scout Lance		1st Provisional Company		-		Epsilon		-	Warren Kujalla	3	Assassin	N	
+82	Scout Lance		1st Provisional Company		-		Epsilon		Sergeant	Austin Bell	4	Firefly	N	
+83	Assault Lance		2nd Provisional Company		-		Epsilon		Lieutenant	Kristine Yedinak	4	Archer	N	
+84	Assault Lance		2nd Provisional Company		-		Epsilon		Captain	Michael Mercier	4	Battlemaster	N	
+85	Assault Lance		2nd Provisional Company		-		Epsilon		-	Basil Farnham	3	Marauder II	N	
+86	Assault Lance		2nd Provisional Company		-		Epsilon		-	Wilson Smullen	4	Shogun	N	
+87	Command Lance		2nd Provisional Company		-		Epsilon		Lieutenant	Mary Kirby	4	Crusader	N	
+88	Command Lance		2nd Provisional Company		-		Epsilon		-	Patrick Finnegan	4	Ostsol	N	
+89	Command Lance		2nd Provisional Company		-		Epsilon		Sergeant	Samuel Yonkers	3	Griffin	N	
+90	Command Lance		2nd Provisional Company		-		Epsilon		Major	Richard Jarrett	4	Archer	N	
+91	Fire Lance		2nd Provisional Company		-		Epsilon		Lieutenant	John "Rally" Porseth	4	Catapult	N	
+92	Fire Lance		2nd Provisional Company		-		Epsilon		-	Henry Bolan	4	Phoenix Hawk	N	
+93	Fire Lance		2nd Provisional Company		-		Epsilon		Sergeant	Steven Hess	4	Shadow Hawk	N	
+94	Command Lance		3rd Provisional Company		-		Epsilon		Captain	Elizabeth Nichole	4	Davion Enforcer	N	
+95	Command Lance		3rd Provisional Company		-		Epsilon		-	Donald Larrios	2	Griffin	N	
+96	Command Lance		3rd Provisional Company		-		Epsilon		Lieutenant	Gerald Buskirk	3	Phoenix Hawk	N	
+97	Command Lance		3rd Provisional Company		-		Epsilon		-	Hugh Minthorne	2	Wasp	N	
+98	Fire Lance		3rd Provisional Company		-		Epsilon		Lieutenant	Peter Geffen	3	Damaged Archer	N	
+99	Fire Lance		3rd Provisional Company		-		Epsilon		Sergeant	Marjory Rayborn	4	Damaged Archer	N	
+100	Fire Lance		3rd Provisional Company		-		Epsilon		-	Rufus Denney	2	Damaged Griffin	N	
+101	Fire Lance		3rd Provisional Company		-		Epsilon		-	Vittorio Visteen	4	Shadow Hawk	N	
+102	Strike Lance		3rd Provisional Company		-		Epsilon		Sergeant	Ross Thorssen	3	Phoenix Hawk	N	
+103	Strike Lance		3rd Provisional Company		-		Epsilon		Lieutenant	Carter "Broker" Trent	4	Stinger	N	
+104	Strike Lance		3rd Provisional Company		-		Epsilon		-	Elvira Boswell	2	Stinger	N	
+105	Strike Lance		3rd Provisional Company		-		Epsilon		-	Michala Parenteaus	2	Stinger	N	
+106	Command Lance		4th Provisional Company		-		Epsilon		-	Raymond Jatos	3	Panther	N	
+107	Command Lance		4th Provisional Company		-		Epsilon		Sergeant	William Harrington	4	Shadow Hawk	N	
+108	Command Lance		4th Provisional Company		-		Epsilon		Lieutenant	Norton Conner	3	Wolverine	N	
+109	Command Lance		4th Provisional Company		-		Epsilon		Major	Hussein Tajdar	4	Whitworth	N	
+110	Fire Lance		4th Provisional Company		-		Epsilon		Lieutenant	Arthur Figgis	4	Dervish	N	
+111	Fire Lance		4th Provisional Company		-		Epsilon		-	Clarence Grogan	3	Cicada	N	
+112	Fire Lance		4th Provisional Company		-		Epsilon		-	Dale "Penguin" Horowitz	3	Clint	N	
+113	Fire Lance		4th Provisional Company		-		Epsilon		Sergeant	Paul Sandino	4	Firestarter	N	
+114	Fire Lance		4th Provisional Company		-		Epsilon		-	Mitchell Zeeman	2	Ostscout	N	
+115	Medium Lance		4th Provisional Company		-		Epsilon		Lieutenant	George Fillis	4	Griffin	N	
+116	Medium Lance		4th Provisional Company		-		Epsilon		-	Ted Heyden	4	Valkyrie	N	
+117	Medium Lance		4th Provisional Company		-		Epsilon		-	Charles Bruen	2	Dervish	N	
+118	Medium Lance		4th Provisional Company		-		Epsilon		Sergeant	Reubin Haas	2	Spider	N	

@@ -1,0 +1,1265 @@
+UnitName	Eridani Light Horse
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+0	Command		High Command		-		-		Brevit General	Nathan L. Armstrong	4	Atlas AS7-D	N	
+1	Command		High Command		-		-		Major	Wendall F. TeCarr	3	Archer ARC-2R	N	
+2	Command		High Command		-		-		Major	Major David Reese	3	Phoenix Hawk PXH-1	N	
+3	Jumpship Group		High Command		-		-		-		2	Monolith JumpShip (Standard)	N	
+4	Jumpship Group		High Command		-		-		-		2	Monolith JumpShip (Standard)	N	
+5	Jumpship Group		High Command		-		-		-		2	Monolith JumpShip (Standard)	N	
+6	Jumpship Group		High Command		-		-		-		2	Star Lord JumpShip (Standard)	N	
+7	Jumpship Group		High Command		-		-		-		2	Star Lord JumpShip (Standard)	N	
+8	Jumpship Group		High Command		-		-		-		2	Star Lord JumpShip (Standard)	N	
+9	Jumpship Group		High Command		-		-		-		2	Invader JumpShip (Standard)	N	
+10	Jumpship Group		High Command		-		-		-		2	Invader JumpShip (Standard)	N	
+11	Jumpship Group		High Command		-		-		-		2	Invader JumpShip (Standard)	N	
+12	Jumpship Group		High Command		-		-		-		2	Invader JumpShip (Standard)	N	
+13	Jumpship Group		High Command		-		-		-		2	Invader JumpShip (Standard)	N	
+14	Jumpship Group		High Command		-		-		-		2	Invader JumpShip (Standard)	N	
+15	Dropship Group		High Command		-		-		-		2	Overlord (2762)	N	
+16	Dropship Group		High Command		-		-		-		2	Overlord (2762)	N	
+17	Dropship Group		High Command		-		-		-		2	Overlord (2762)	N	
+18	Dropship Group		High Command		-		-		-		2	Overlord (2762)	N	
+19	Dropship Group		High Command		-		-		-		2	Overlord (2762)	N	
+20	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+21	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+22	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+23	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+24	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+25	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+26	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+27	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+28	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+29	Dropship Group		High Command		-		-		-		2	Union (2708)	N	
+30	Dropship Group		High Command		-		-		-		2	Leopard (2537)	N	
+31	Dropship Group		High Command		-		-		-		2	Excaliber (2786)	N	
+32	Dropship Group		High Command		-		-		-		2	Gazelle (2531)	N	
+33	Dropship Group		High Command		-		-		-		2	Gazelle (2531)	N	
+34	Dropship Group		High Command		-		-		-		2	Gazelle (2531)	N	
+35	Dropship Group		High Command		-		-		-		2	Triumph (2593)	N	
+36	Dropship Group		High Command		-		-		-		2	Triumph (2593)	N	
+37	Tech		High Command		-		-		-		4	1 Tech + Astech Squad	N	
+38	Tech		High Command		-		-		-		4	1 Tech + Astech Squad	N	
+39	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+40	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+41	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+42	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+43	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+44	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+45	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+46	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+47	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+48	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+49	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+50	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+51	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+52	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+53	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+54	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+55	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+56	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+57	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+58	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+59	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+60	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+61	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+62	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+63	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+64	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+65	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+66	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+67	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+68	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+69	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+70	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+71	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+72	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+73	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+74	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+75	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+76	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+77	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+78	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+79	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+80	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+81	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+82	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+83	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+84	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+85	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+86	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+87	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+88	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+89	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+90	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+91	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+92	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+93	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+94	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+95	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+96	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+97	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+98	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+99	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+100	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+101	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+102	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+103	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+104	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+105	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+106	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+107	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+108	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+109	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+110	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+111	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+112	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+113	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+114	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+115	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+116	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+117	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+118	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+119	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+120	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+121	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+122	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+123	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+124	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+125	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+126	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+127	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+128	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+129	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+130	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+131	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+132	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+133	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+134	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+135	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+136	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+137	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+138	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+139	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+140	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+141	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+142	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+143	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+144	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+145	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+146	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+147	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+148	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+149	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+150	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+151	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+152	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+153	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+154	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+155	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+156	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+157	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+158	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+159	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+160	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+161	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+162	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+163	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+164	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+165	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+166	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+167	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+168	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+169	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+170	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+171	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+172	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+173	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+174	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+175	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+176	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+177	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+178	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+179	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+180	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+181	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+182	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+183	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+184	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+185	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+186	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+187	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+188	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+189	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+190	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+191	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+192	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+193	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+194	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+195	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+196	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+197	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+198	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+199	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+200	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+201	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+202	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+203	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+204	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+205	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+206	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+207	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+208	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+209	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+210	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+211	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+212	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+213	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+214	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+215	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+216	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+217	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+218	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+219	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+220	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+221	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+222	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+223	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+224	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+225	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+226	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+227	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+228	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+229	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+230	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+231	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+232	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+233	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+234	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+235	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+236	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+237	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+238	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+239	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+240	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+241	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+242	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+243	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+244	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+245	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+246	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+247	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+248	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+249	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+250	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+251	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+252	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+253	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+254	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+255	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+256	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+257	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+258	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+259	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+260	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+261	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+262	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+263	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+264	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+265	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+266	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+267	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+268	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+269	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+270	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+271	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+272	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+273	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+274	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+275	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+276	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+277	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+278	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+279	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+280	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+281	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+282	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+283	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+284	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+285	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+286	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+287	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+288	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+289	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+290	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+291	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+292	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+293	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+294	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+295	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+296	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+297	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+298	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+299	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+300	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+301	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+302	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+303	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+304	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+305	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+306	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+307	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+308	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+309	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+310	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+311	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+312	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+313	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+314	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+315	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+316	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+317	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+318	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+319	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+320	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+321	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+322	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+323	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+324	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+325	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+326	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+327	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+328	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+329	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+330	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+331	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+332	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+333	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+334	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+335	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+336	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+337	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+338	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+339	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+340	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+341	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+342	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+343	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+344	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+345	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+346	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+347	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+348	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+349	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+350	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+351	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+352	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+353	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+354	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+355	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+356	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+357	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+358	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+359	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+360	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+361	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+362	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+363	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+364	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+365	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+366	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+367	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+368	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+369	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+370	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+371	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+372	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+373	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+374	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+375	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+376	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+377	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+378	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+379	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+380	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+381	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+382	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+383	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+384	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+385	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+386	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+387	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+388	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+389	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+390	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+391	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+392	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+393	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+394	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+395	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+396	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+397	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+398	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+399	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+400	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+401	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+402	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+403	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+404	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+405	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+406	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+407	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+408	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+409	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+410	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+411	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+412	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+413	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+414	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+415	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+416	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+417	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+418	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+419	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+420	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+421	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+422	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+423	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+424	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+425	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+426	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+427	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+428	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+429	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+430	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+431	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+432	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+433	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+434	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+435	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+436	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+437	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+438	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+439	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+440	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+441	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+442	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+443	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+444	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+445	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+446	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+447	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+448	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+449	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+450	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+451	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+452	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+453	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+454	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+455	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+456	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+457	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+458	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+459	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+460	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+461	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+462	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+463	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+464	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+465	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+466	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+467	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+468	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+469	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+470	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+471	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+472	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+473	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+474	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+475	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+476	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+477	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+478	Tech		High Command		-		-		-		3	1 Tech + Astech Squad	N	
+479	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+480	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+481	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+482	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+483	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+484	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+485	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+486	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+487	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+488	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+489	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+490	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+491	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+492	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+493	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+494	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+495	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+496	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+497	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+498	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+499	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+500	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+501	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+502	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+503	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+504	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+505	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+506	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+507	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+508	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+509	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+510	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+511	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+512	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+513	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+514	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+515	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+516	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+517	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+518	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+519	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+520	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+521	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+522	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+523	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+524	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+525	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+526	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+527	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+528	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+529	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+530	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+531	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+532	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+533	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+534	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+535	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+536	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+537	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+538	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+539	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+540	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+541	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+542	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+543	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+544	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+545	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+546	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+547	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+548	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+549	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+550	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+551	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+552	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+553	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+554	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+555	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+556	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+557	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+558	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+559	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+560	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+561	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+562	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+563	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+564	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+565	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+566	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+567	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+568	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+569	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+570	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+571	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+572	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+573	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+574	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+575	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+576	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+577	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+578	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+579	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+580	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+581	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+582	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+583	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+584	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+585	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+586	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+587	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+588	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+589	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+590	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+591	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+592	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+593	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+594	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+595	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+596	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+597	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+598	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+599	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+600	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+601	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+602	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+603	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+604	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+605	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+606	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+607	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+608	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+609	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+610	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+611	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+612	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+613	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+614	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+615	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+616	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+617	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+618	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+619	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+620	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+621	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+622	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+623	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+624	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+625	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+626	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+627	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+628	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+629	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+630	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+631	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+632	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+633	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+634	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+635	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+636	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+637	Tech		High Command		-		-		-		2	1 Tech + Astech Squad	N	
+638	Tech		High Command		-		-		-		1	1 Tech + Astech Squad	N	
+639	Command Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Colonel	William Petersen	4	Atlas AS7-D	N	
+640	Command Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	Bruce Hall	3	Warhammer WHM-6R	N	
+641	Command Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	-	Daniel Umstont	2	Phoenix Hawk PXH-1	N	
+642	Command Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	-	Alicia Lantzem	3	Phoenix Hawk PXH-1	N	
+643	Security Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Captain	Captain Kurt Newman , Veteran Marauder	3	Marauder MAD-3R	N	
+644	Security Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	-	Gilda Sarah Partain , Veteran Enforcer	3	Enforcer ENF-4R	N	
+645	Security Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	-	Phillip Ivester. Jr. , Regular Enforcer	2	Enforcer ENF-4R	N	
+646	Security Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	-	Henry Fischle, Veteran Dervish	3	Dervish DV-6M	N	
+647	Artillery Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Captain	Boris Pasernak	3	Dervish DV-6M	N	
+648	Artillery Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Captain	Kenny Hitter	3	Long Tom III	N	
+649	Artillery Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	Olson Truman	2	Long Tom III	N	
+650	Artillery Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	lvon Capulet	3	Long Tom III	N	
+651	Artillery Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	Leonard Rector	3	Long Tom III	N	
+652	Artillery Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	Peter Rench	4	Galleon GAL-100	N	
+653	Artillery Lance		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	Erik Kloster	2	Galleon GAL-100	N	
+654	1st Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	Kevin Cinders	4	Motorized MG Infantry	N	XO Sergeant Larry Leon
+655	1st Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Corporal	Gregory Henderson	2	Motorized MG Infantry	N	
+656	1st Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Corporal	Fen Lang	2	Motorized MG Infantry	N	
+657	1st Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Corporal	Xerxes Tully	3	Motorized MG Infantry	N	
+658	2nd Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Lieutenant	Yolanda Wilburs	3	Motorized Flamer Infantry	N	XO Sergeant Loribeth Winters
+659	2nd Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Corporal	Dagne Edgewood	3	Motorized Flamer Infantry	N	
+660	2nd Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Corporal	Christopher Elliot	2	Motorized Flamer Infantry	N	
+661	2nd Motorized Infantry Platoon		Command Company	Petersen's Own	-		71st Light Horse	White Horse Regiment	Corporal	Wichita Loss	1	Motorized Flamer Infantry	N	
+														
+212	Command Lance	Gray's Bodyguards	-		11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Major	Major Steve Gray	4	Valkyrie VLK-QA	N	
+213	Command Lance	Gray's Bodyguards	-		11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Katl1y Lykken	3	Shadow Hawk SHD-2H	N	
+214	Command Lance	Gray's Bodyguards	-		11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Gerald Brodegan	2	Stinger STG-3R	N	
+215	Command Lance	Gray's Bodyguards	-		11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Luther DeIotter	3	Javelin JVN-10N	N	
+216	Command Lance	Gray's Bodyguards	-		11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Ingrid Rumion	3	Long Tom III	N	
+217	Command Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Captain	Rod Tripp	3	Quickdraw QKD-4G	N	
+218	Command Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Leo Groves	3	Enforcer ENF-4R	N	
+219	Command Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Bob Cody	2	Griffin GRF-1N	N	
+220	Command Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Tamara Felver	3	Dervish DV-6M	N	
+221	Strike Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Gerny lngulson	3	Scorpion SCP-1N	N	
+222	Strike Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	R. C. Gutjahr	2	Whitworth WTH-1	N	
+223	Strike Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	lnex Scentimore	2	Trebuchet TBT-5N	N	
+224	Strike Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	David Straub, Jr.	3	Assassin ASN-21	N	
+225	Strike Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Gus Lundstrom, Jr.	3	Galleon GAL-100	N	
+226	Strike Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Mike Myozoko	2	Galleon GAL-100	N	
+227	Air Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Sandra Horning	3	Sparrowhawk SPR-H5	N	
+228	Air Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Kurtis Gorham	2	Sparrowhawk SPR-H5	N	
+229	Recon Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Charles Greely	3	Wasp WSP-1A	N	
+230	Recon Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Einar Kloben	2	Darter	N	
+231	Recon Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Diana Muschinsky	4	Packrat PKR-T5	N	
+232	Recon Lance		3rd Recon	Slashers	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Emma Meyers	3	Jump Flamer Infantry	N	
+233	Command Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Captain	Dean Wagner	3	Rifleman RFL-3N	N	
+234	Command Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Simca Hixsonvill	2	Hunchback HBK-4G	N	
+235	Command Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Diane Fuqua	2	Hunchback HBK-4G	N	
+236	Command Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Stanley Crosetti	2	Wolverine WVR-6R	N	
+237	Strike Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Le Than	3	Dervish DV-6M	N	
+238	Strike Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Josephine Metler	2	Enforcer ENF-4R	N	
+239	Strike Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Lee Lemire	2	Trebuchet TBT-5N	N	
+240	Strike Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Tad Hendricks	4	Galleon GAL-100	N	
+241	Air Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Bradford Dresbeck	3	Corsair CSR-V12	N	
+242	Air Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Rosendo Deman	2	Corsair CSR-V12	N	
+243	Recon Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Kurt Stevens	2	Darter	N	
+244	Recon Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	John Ruschine	4	Packrat PKR-T5	N	
+245	Recon Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Elmer Beard	2	Locust LCT-1V	N	
+246	Recon Lance		10th Recon	Wagner's Company	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Lance LaFrancis	3	Jump Flamer Infantry	N	
+247	Command Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Captain	Laurie Macomber	3	Crusader CRD-3R	N	
+248	Command Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Ellsworth Blues	2	Ostsol OTL-4D	N	
+249	Command Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Sylvia Pontischell	2	Phoenix Hawk PXH-1	N	
+250	Command Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Maitland Gree	2	Jenner JR7-D	N	
+251	Strike Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Adrian Mayadrag	3	Dervish DV-6M	N	
+252	Strike Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Stephen Parashaw	2	Centurion CN9-A	N	
+253	Strike Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Elmo Salady	2	Clint CLNT-2-3T	N	
+254	Strike Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Russel Stricklan	1	Commando COM-2D	N	
+255	Strike Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Roy Calbeck	3	Galleon GAL-100	N	
+256	Strike Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Alex Geerson	3	Galleon GAL-100	N	
+257	Air Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Thomas Strid	3	Sparrowhawk SPR-H5	N	
+258	Air Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Jonathan Seminole	2	Sparrowhawk SPR-H5	N	
+259	Recon Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Lieutenant	Teri Mize	2	Locust LCT-1V	N	
+260	Recon Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Timothy Zulik	2	Darter	N	
+261	Recon Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	-	Carol Daunais	4	Packrat PKR-T5	N	
+262	Recon Lance		11th Recon	Macomber's Unicorns	11th Recon	Alley Cats	71st Light Horse	White Horse Regiment	Sergeant	Gary Madlend	3	Jump Flamer Infantry	N	
+														
+264	Command Lance	McCracken's Highlanders	-		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Major	Jim McCracken	4	Awesome AWS-8Q	N	
+265	Command Lance	McCracken's Highlanders	-		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Fletcher Danielson	3	Orion ON1-K	N	
+266	Command Lance	McCracken's Highlanders	-		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Emil Gaetans	3	JagerMech JM6-S	N	
+267	Command Lance	McCracken's Highlanders	-		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Sulene Rause	3	Archer ARC-2R	N	
+268	Command Lance	McCracken's Highlanders	-		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Glenda Mobley	3	Sniper Artillery	N	
+269	Command Lance	McCracken's Highlanders	-		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Lyle Larsen	3	Sniper Artillery	N	
+270	Command Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Captain	Paul Klintworth	3	Rifleman RFL-3N	N	
+271	Command Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Setsuo Omoto	4	Phoenix Hawk PXH-1	N	
+272	Command Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Stanley Lazer	2	Blackjack BJ-1	N	
+273	Command Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Eldon Hield	2	Cicada CDA-2A	N	
+274	Strike Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	Alfred Collins	3	Valkyrie VLK-QA	N	
+275	Strike Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Jamal Duhamel	2	Spider SDR-5V	N	
+276	Strike Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Lela Severson	2	Stinger STG-3R	N	
+277	Strike Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Nancy Carlson	1	Wasp WSP-1A	N	
+278	Strike Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Richard Le Tan	3	Galleon GAL-100	N	
+279	Strike Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Fritz Jappe	2	Galleon GAL-100	N	
+280	Air Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	Randy Callow	3	Sparrowhawk SPR-H5	N	
+281	Air Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Sid Helbechuck	2	Sparrowhawk SPR-H5	N	
+282	Recon Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	Donald Grover	2	Ostscout OTT-7J	N	
+283	Recon Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Rob Griffiths	2	Swiftwind	N	
+284	Recon Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Eric Lingon	3	Packrat PKR-T5	N	
+285	Recon Lance		14th Recon		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Allied Equine	3	Jump Rifle Infantry	N	
+286	Command Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Captain	Chris Haynes	3	Wolverine WVR-6R	N	
+287	Command Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Jonathan Letellier	2	Wolverine WVR-6R	N	
+288	Command Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Robert Edenwohl	2	Clint CLNT-2-3T	N	
+289	Command Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Harold DiGiovanni	2	Vulcan VL-2T	N	
+290	Strike Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	Joseph Dimerc	3	Spider SDR-5V	N	
+291	Strike Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Maude Lebo	2	Firestarter FS9-H	N	
+292	Strike Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Michael Jones	2	Griffin GRF-1N	N	
+293	Strike Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Sylvia Simpson	2	Wasp WSP-1A	N	
+294	Strike Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Grant ian	3	Galleon GAL-100	N	
+295	Strike Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Warren Cleeg	3	Galleon GAL-100	N	
+296	Air Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	Bernard Hughes	3	Corsair CSR-V12	N	
+297	Air Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Quentin Caledon	2	Corsair CSR-V12	N	
+298	Recon Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	PatriciaN. Eveline	2	Swiftwind	N	
+299	Recon Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Lorena Richards	2	Locust LCT-1V	N	
+300	Recon Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Allen Hager	3	Packrat PKR-T5	N	
+301	Recon Lance		16th Recon	Haynes' Chargers	17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Sergeant	Jimmy Langert	3	Jump Rifle Infantry	N	
+302	Command Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Captain	Jennifer McCauley	4	Phoenix Hawk LAM PHX-HK2	N	
+303	Command Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Bonnie Schieken	3	Phoenix Hawk LAM PHX-HK2	N	
+304	Command Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Trenton Stitt	2	Corsair CSR-V12	N	
+305	Command Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Steven Haruza	3	Corsair CSR-V12	N	
+306	Strike Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	Orland Mercen	3	Stinger LAM STG-A5	N	
+307	Strike Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Annie Striklend	2	Stinger LAM STG-A5	N	
+308	Strike Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Norma Guariz	2	Lucifer LCF-R15	N	
+309	Recon Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	Lieutenant	Cecil Bukowski	3	Wasp LAM WSP-105	N	
+310	Recon Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Paul Coester	3	Wasp LAM WSP-105	N	
+311	Recon Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Carlos Markweld	2	Sparrowhawk SPR-H5	N	
+312	Recon Lance		101st Air Cavalry		17th Recon	Screaming Eagles	71st Light Horse	White Horse Regiment	-	Deane Robinson	2	Sparrowhawk SPR-H5	N	
+														
+314	Command Lance		-		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Major	Major George Thomas	3	BattleMaster BLR-1G	N	
+315	Command Lance		-		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Donna Pullon	3	Grasshopper GHR-5H	N	
+316	Command Lance		-		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Jimmy Norman	2	Warhammer WHM-6R	N	
+317	Command Lance		-		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Dennis DeSalvo	2	Marauder MAD-3R	N	
+318	Command Lance		-		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Sergeant	Brian Montgomery Jr.	4	Long Tom III	N	
+319	Command Lance		-		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Sergeant	Sandra Oathout	3	Long Tom III	N	
+320	Command Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Captain	"Dashing John" MacAllister	4	Thunderbolt TDR-5S	N	
+321	Command Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Rip Thelmana	2	JagerMech JM6-S	N	
+322	Command Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Cassai Golden	3	Crusader CRD-3R	N	
+323	Command Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Kimberly Clark	2	Phoenix Hawk PXH-1	N	
+324	Strike Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Martin Coronet	3	Valkyrie VLK-QA	N	
+325	Strike Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Gregory Snevel	2	Commando COM-2D	N	
+326	Strike Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Ted McComsky	3	Sparrowhawk SPR-H5	N	
+327	Strike Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Earl LeBerge	2	Sparrowhawk SPR-H5	N	
+328	Support Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Gerald Boyer	3	Demolisher	N	
+329	Support Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Eagle Two Swords	4	Long Tom III	N	
+330	Support Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Rodney Mullenix	3	Long Tom III	N	
+331	Support Lance		41st Support		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Larry Mutah	3	Long Tom III	N	
+332	Command Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Captain	"One-Eyed" Weidman	3	Von Luckner VNL-K65N	N	
+333	Command Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	William Caroline	2	Von Luckner VNL-K65N	N	
+334	Command Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Bruce Landau	3	Von Luckner VNL-K65N	N	
+335	Command Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Terry Death	3	Von Luckner VNL-K65N	N	
+336	Fire Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Lorie Brady	3	Vedette	N	
+337	Fire Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	James Mye	3	Vedette	N	
+338	Fire Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	David Reckner	3	Vedette	N	
+339	Fire Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Rudolph Shovert	3	Vedette	N	
+340	Strike Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Stanley Boris	3	Galleon GAL-100	N	
+341	Strike Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Daniel Snuffin	4	Galleon GAL-100	N	
+342	Strike Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Iris lrkwall	3	Galleon GAL-100	N	
+343	Strike Lance		81st Tank		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Maynard Ferguson	4	Galleon GAL-100	N	
+344	Alpha Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Captain	Mison Templer	3	Motorized Laser Infantry	N	XO Lieutenant Caspar Lance and Sergeant Hap Green
+345	Alpha Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Yves Trtle	3	Motorized Laser Infantry	N	
+346	Alpha Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Gerhard Benders	3	Motorized Laser Infantry	N	
+347	Alpha Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Havelind Mich	2	Motorized Laser Infantry	N	
+348	Bravo Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	R.C. Rivers	3	Motorized Laser Infantry	N	XO Sergeant Karen Lewis
+349	Bravo Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Francois Fields	3	Motorized Laser Infantry	N	
+350	Bravo Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Guy Henderson	3	Motorized Laser Infantry	N	
+351	Bravo Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Nathan Miller	2	Motorized Laser Infantry	N	
+352	Charlie Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Danny Kinsey	3	Motorized Laser Infantry	N	XO Sergeant Kingsley Lubbers
+353	Charlie Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	EsteBan Ewber	3	Motorized Laser Infantry	N	
+354	Charlie Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Beau Viners	3	Motorized Laser Infantry	N	
+355	Charlie Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Elias Washington	3	Motorized Laser Infantry	N	
+356	Delta Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Gregory Henson	3	Motorized Laser Infantry	N	XO Sergeant Hans Yoln
+357	Delta Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Gerston Halley	3	Motorized Laser Infantry	N	
+358	Delta Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Norton Mitchell	3	Motorized Laser Infantry	N	
+359	Delta Platoon		12th Motorized		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Corporal	Telemachus Zeek	2	Motorized Laser Infantry	N	
+360	Command Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Captain	Greg Oliphant	3	Banshee BNC-3E	N	
+361	Command Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Murry Kelfelman	2	Stalker STK-3F	N	
+362	Command Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Lyman Miller	2	Warhammer WHM-6R	N	
+363	Command Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Ellen Wyse	1	Awesome AWS-8Q	N	
+364	Strike Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Chonna Poblete	3	Marauder MAD-3R	N	
+365	Strike Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Scott Hinesick	2	Archer ARC-2R	N	
+366	Strike Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Eugene Ga lsen Jr.	1	Grasshopper GHR-5H	N	
+367	Strike Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Daniel Lee	1	Archer ARC-2R	N	
+368	Recon Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Ron enkins	3	Thunderbolt TDR-5S	N	
+369	Recon Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Jack Fayette	2	Warhammer WHM-6R	N	
+370	Recon Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Kelvin Coogan	2	Dervish DV-6M	N	
+371	Recon Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Troy Epstein	1	Phoenix Hawk PXH-1	N	
+372	Air Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Kevin Equifax	2	Sholagar SL-21	N	
+373	Air Lance		4th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Max Enguland	2	Sholagar SL-21	N	
+374	Command Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Captain	Susan Reinbold	3	Cyclops CP-10-Z	N	
+375	Command Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Ruben Avilla	2	Orion ON1-K	N	
+376	Command Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Edvin Corcus	2	Orion ON1-K	N	
+377	Command Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Zip Kensington	2	Crusader CRD-3R	N	
+378	Strike Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	LieuteAant Mike Yaw	3	Catapult CPLT-C1	N	
+379	Strike Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Petko Kineret	2	Awesome AWS-8Q	N	
+380	Strike Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Wilbur Fraser	2	Warhammer WHM-6R	N	
+381	Strike Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Walter Mexelty	2	Archer ARC-2R	N	
+382	Recon Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Cindy Penn Warren	3	Wolverine WVR-6R	N	
+383	Recon Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	David Edwards	2	Marauder MAD-3R	N	
+384	Recon Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Gary	2	Griffin GRF-1N	N	
+385	Recon Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Gregory Saltmarsh	2	Enforcer ENF-4R	N	
+386	Air Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	Lieutenant	Gus Avery	3	Eagle EGL-R6	N	
+387	Air Lance		6th Heavy Assault		82nd Heavy Cavalry		71st Light Horse	White Horse Regiment	-	Poter Erickson	2	Eagle EGL-R6	N	
+														
+389	Command Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Colonel	Charles Winston	4	BattleMaster BLR-1G	N	
+390	Command Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Sarah Clemly	3	Phoenix Hawk PXH-1	N	
+391	Command Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	-	Mitch Rewarna	2	Shadow Hawk SHD-2H	N	
+392	Command Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	-	Raymond Biel	3	Marauder MAD-3R	N	
+393	Security Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Captain	Jennifer Kent	3	Orion ON1-K	N	
+394	Security Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	-	T. L. Roethke	2	Enforcer ENF-4R	N	
+395	Security Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	-	Glenn Shock	1	Hunchback HBK-4G	N	
+396	Security Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	-	Carmel Meyers	3	Dervish DV-6M	N	
+397	Artillery Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Captain	Raymond Telbrook	3	Rifleman RFL-3N	N	
+398	Artillery Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Elizabeth Lyman	3	Long Tom III	N	
+399	Artillery Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Eugene Patrickson	3	Long Tom III	N	
+400	Artillery Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Stanley French	3	Long Tom III	N	
+401	Artillery Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	California Winston	3	Long Tom III	N	
+402	Artillery Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Kevin Costner	3	Galleon GAL-100	N	
+403	Artillery Lance		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Seji Hendrich	3	Galleon GAL-100	N	
+404	1st Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Greg Tyler	3	Motorized MG Infantry	N	XO Sergeant Vincent Kowolski
+405	1st Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Corporal	Ferris Jefferson	2	Motorized MG Infantry	N	
+406	1st Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Corporal	Kendall Long	2	Motorized MG Infantry	N	
+407	1st Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Corporal	Roscoe Washburn	1	Motorized MG Infantry	N	
+408	2nd Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Lieutenant	Oscar Rett	3	Motorized Flamer Infantry	N	XO Sergeant Arthur Simpson
+409	2nd Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Corporal	Frank Wenton	2	Motorized Flamer Infantry	N	
+410	2nd Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Corporal	Grant Veitch	2	Motorized Flamer Infantry	N	
+411	2nd Motorized Infantry Platoon		Command Company	Winston's Guards	-		21st Striker	Winston's Moonrakers	Corporal	Delores Alvos	1	Motorized Flamer Infantry	N	
+														
+413	Command Lance	Jamal's Guards	-	-	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Major	Major Jamal Fallehy	4	Hunchback HBK-4G	N	
+414	Command Lance	Jamal's Guards	-	-	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Frank Stocker	3	Griffin GRF-1N	N	
+415	Command Lance	Jamal's Guards	-	-	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Elren Ramirez	3	Phoenix Hawk PXH-1	N	
+416	Command Lance	Jamal's Guards	-	-	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Alvin Lausund	3	Spider SDR-5V	N	
+417	Command Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Captain	Brent Kentrick	3	Wolverine WVR-6R	N	
+418	Command Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Leo Graves	2	Ostsol OTL-4D	N	
+419	Command Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Clayton Jellicoe	2	Enforcer ENF-4R	N	
+420	Command Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Duane Brockway	1	Shadow Hawk SHD-2H	N	
+421	Strike Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Lieutenant	David Armstrong	3	Trebuchet TBT-5N	N	
+422	Strike Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Ernest Stemack	2	Dervish DV-6M	N	
+423	Strike Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Raymond Bayliss	2	Griffin GRF-1N	N	
+424	Strike Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Addie Mathiason	3	Griffin GRF-1N	N	
+425	Recon Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Lieutenant	Richard Regts	3	Phoenix Hawk PXH-1	N	
+426	Recon Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Peggy Castanares	2	Wasp WSP-1A	N	
+427	Recon Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Gregory Ford	2	Wasp WSP-1A	N	
+428	Recon Lance		9th Company	Kentrick's Company	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Gary Chop	1	Locust LCT-1V	N	
+429	Command Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Captain	Cynthia Paulson	3	Trebuchet TBT-5N	N	
+430	Command Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Ralph Goodson	2	Whitworth WTH-1	N	
+431	Command Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Jim Ciensinski	2	Centurion CN9-A	N	
+432	Command Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Edward MacCormac	3	Griffin GRF-1N	N	
+433	Strike Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Lieutenant	Thomas Hemphill	3	Wolverine WVR-6R	N	
+434	Strike Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	lato Kusaka	2	Enforcer ENF-4R	N	
+435	Strike Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Mike Dunn	2	Firestarter FS9-H	N	
+436	Strike Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	George Kuhr Jr.	1	Stinger STG-3R	N	
+437	Recon Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Lieutenant	Victor Lyon	3	Ostscout OTT-7J	N	
+438	Recon Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Francis Millay	3	Wasp WSP-1A	N	
+439	Recon Lance		14th Company	Paulson's Roadrunners	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Ronald Middaugh	2	Wasp WSP-1A	N	
+440	Command Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Captain	Nathaniel Benton	3	Stuka STU-K5	N	
+441	Command Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Ignacio Andrews	3	Stuka STU-K5	N	
+442	Support Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Lieutenant	Roy Gambrel	3	Shilone SL-17	N	
+443	Support Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Roy Gambrel Jr.	1	Shilone SL-17	N	
+444	Strike Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Lieutenant	Victoria Holst	4	Stingray F-90	N	
+445	Strike Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	David Hoogestat	2	Stingray F-90	N	
+446	Recon Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	Lieutenant	Mike Gafke	2	Seydlitz SYD-21	N	
+447	Recon Lance		85th Company	Benton's Brown Bombers	3rd Striker	Jamal's Plague	21st Striker	Winston's Moonrakers	-	Kenneth Birkenfield	1	Seydlitz SYD-21	N	
+														
+449	Command Lance	Dirkson's Guards	-	-	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Major	Earl Dirkson	4	Victor VTR-9B	N	
+450	Command Lance	Dirkson's Guards	-	-	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Charley Hess	3	Archer ARC-2R	N	
+451	Command Lance	Dirkson's Guards	-	-	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Warren Koons	2	Archer ARC-2R	N	
+452	Command Lance	Dirkson's Guards	-	-	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	D.J. Novac	3	Firestarter FS9-H	N	
+453	Command Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Captain	Gregory Pinter	3	Dervish DV-6M	N	
+454	Command Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Heo Fronst	3	Phoenix Hawk PXH-1	N	
+455	Command Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Troy Epting	2	Enforcer ENF-4R	N	
+456	Command Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	C.J. Blackling	2	Valkyrie VLK-QA	N	
+457	Strike Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Kennet Hendershott	3	Hunchback HBK-4G	N	
+458	Strike Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Max Luzzi	1	Dervish DV-6M	N	
+459	Strike Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Gene Moran	3	Wasp WSP-1A	N	
+460	Strike Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Roger Abundis	3	Shadow Hawk SHD-2H	N	
+461	Recon Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Annie Colter	4	Phoenix Hawk PXH-1	N	
+462	Recon Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Rober Firkus	3	Stinger STG-3R	N	
+463	Recon Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Victory Embler	2	Stinger STG-3R	N	
+464	Recon Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Franklin Brechler	1	Locust LCT-1V	N	
+465	Air Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Donna Councilor	2	Sparrowhawk SPR-H5	N	
+466	Air Lance		4th Company	Pinter's Axmen	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Gary Chreyson	3	Sparrowhawk SPR-H5	N	
+467	Command Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Captain	Talmo Tanaka	3	Enforcer ENF-4R	N	
+468	Command Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Robert Thrall	2	Clint CLNT-2-3T	N	
+469	Command Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Raugh Rarick	2	Cicada CDA-2A	N	
+470	Command Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Leslie Peachy	2	Hunchback HBK-4G	N	
+471	Strike Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Darrell Egaas	3	Quickdraw QKD-4G	N	
+472	Strike Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Gary Bittnern	2	Blackjack BJ-1	N	
+473	Strike Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Melvin Gordy	2	Blackjack BJ-1	N	
+474	Strike Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Shi Phang Koh	2	Wasp WSP-1A	N	
+475	Recon Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Blair O. Kipola	3	Phoenix Hawk PXH-1	N	
+476	Recon Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	J.F. Pendras	3	Wasp WSP-1A	N	
+477	Recon Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Clarence Eliasen	2	Stinger STG-3R	N	
+478	Recon Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Larry Einspahr	1	Locust LCT-1V	N	
+479	Air Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Tony Littleton	3	Corsair CSR-V12	N	
+480	Air Lance		7th Company	Tanaka's Company	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Richard Moore	1	Corsair CSR-V12	N	
+481	Command Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Captain	Kent Seflo	3	Stalker STK-3F	N	
+482	Command Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Alva Skoog	3	Banshee BNC-3E	N	
+483	Command Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Gary Vardh	2	Stalker STK-3F	N	
+484	Command Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Steven Young Jr.	1	Thunderbolt TDR-5S	N	
+485	Strike Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Morilles Ulrich	3	BattleMaster BLR-1G	N	
+486	Strike Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Isabella Tooley	2	Warhammer WHM-6R	N	
+487	Strike Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Rusty Zommers	2	Awesome AWS-8Q	N	
+488	Strike Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Evonne Wiltbank	1	Marauder MAD-3R	N	
+489	1st Air Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Lee Walter-Hayklin	3	Lucifer LCF-R15	N	
+490	1st Air Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Gregory Stancich	2	Lucifer LCF-R15	N	
+491	2nd Air Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	Lieutenant	Victor Tan	2	Corsair CSR-V12	N	
+492	2nd Air Lance		25th Heavy Assault	Seflo's Sledgehammers	5th Striker	Dirkson's Dragonslayers	21st Striker	Winston's Moonrakers	-	Mich Metternich	2	Corsair CSR-V12	N	
+														
+494	Command Lance	Nigel's Guards	-	-	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Major	Jameson Nigel	3	Victor VTR-9B	N	
+495	Command Lance	Nigel's Guards	-	-	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Donna Passo	3	JagerMech JM6-S	N	
+496	Command Lance	Nigel's Guards	-	-	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Orten Orgleby	2	Archer ARC-2R	N	
+497	Command Lance	Nigel's Guards	-	-	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Marge Norsica	3	Centurion CN9-A	N	
+498	Red Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Captain	Timothy Pelham	3	Warhammer WHM-6R	N	
+499	Red Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Harry Frazee	3	Phoenix Hawk PXH-1	N	
+500	Red Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Gordy Gumpton	2	Warhammer WHM-6R	N	
+501	Red Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Robert Morzani	2	Wasp WSP-1A	N	
+502	Blue Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	Lewis Cassiday	3	Shadow Hawk SHD-2H	N	
+503	Blue Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Salvatore Morgan	2	Griffin GRF-1N	N	
+504	Blue Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Michael Osheal	3	Wasp WSP-1A	N	
+505	Blue Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Zephrem Hill	3	Stinger STG-3R	N	
+506	Gold Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	Arthur Wicks	3	Crusader CRD-3R	N	
+507	Gold Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Harrell Kirby	3	Phoenix Hawk PXH-1	N	
+508	Gold Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Caroline Hart	1	Shadow Hawk SHD-2H	N	
+509	Gold Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Odaniel Lockridge	2	Griffin GRF-1N	N	
+510	Gold Seven Lance		11th Company	Pelham's Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Cecil Rosback	3	Sabre SB-27	N	
+511	Silver Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Captain	Li Hsien	3	Archer ARC-2R	N	
+512	Silver Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Arron Mondlach	2	Archer ARC-2R	N	
+513	Silver Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Alex Novinsky	2	Griffin GRF-1N	N	
+514	Silver Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Abner LeTourneau	2	Locust LCT-1V	N	
+515	Black Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	George Hawkinson	3	Rifleman RFL-3N	N	
+516	Black Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Miri Gareis	2	Shadow Hawk SHD-2H	N	
+517	Black Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	John Flick	2	Enforcer ENF-4R	N	
+518	Black Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Kenneth Jolgren	3	Phoenix Hawk PXH-1	N	
+519	Purple Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	Ben lzzoman	3	Wolverine WVR-6R	N	
+520	Purple Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Alberto Loga	2	Valkyrie VLK-QA	N	
+521	Purple Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Roman Steven	2	Wasp WSP-1A	N	
+522	Purple Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Peter Joncas	1	Locust LCT-1V	N	
+523	Brown Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	Billy Mitchell Jr.	3	Seydlitz SYD-21	N	
+524	Brown Lance		12th Company	Lightning Company	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Cyrus Clarenbern	1	Seydlitz SYD-21	N	
+525	Green Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Major	Pierre Bouchard	4	Crusader CRD-3R	N	
+526	Green Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	K.M. Daley	3	Archer ARC-2R	N	
+527	Green Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Gary Svardh	2	Stalker STK-3F	N	
+528	Green Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Arley Bjelland	2	Thunderbolt TDR-5S	N	
+529	White Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	Deborah Brazina	3	Trebuchet TBT-5N	N	
+530	White Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Stephen Cagwin	2	Rifleman RFL-3N	N	
+531	White Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Glen Cultum	2	Hunchback HBK-4G	N	
+532	Platinum Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	Lieutenant	"Jackpot" Johnson	3	Phoenix Hawk LAM PHX-HK2	N	
+533	Platinum Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Ernest Breckleson	2	Locust LCT-1V	N	
+534	Platinum Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Cheryl Carmace	3	Stinger STG-3R	N	
+535	Platinum Lance		27th Company	Wolfhounds	7th Striker	Nigel's Nightslayers	21st Striker	Winston's Moonrakers	-	Cynthia Smallwood	2	Transgressor TR-13	N	
+														
+537	Command Lance	Rock's Rollers	-		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Major	Samuel 'The Rock' Perrow	4	Cicada CDA-2A	N	
+538	Command Lance	Rock's Rollers	-		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	-	Rick Kenderson	3	Spider SDR-5V	N	
+539	Command Lance	Rock's Rollers	-		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	-	Lyle Peters	2	Spider SDR-5V	N	
+540	Command Lance	Rock's Rollers	-		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	-	Sally Remand	2	Locust LCT-1V	N	
+541	Command Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Captain	Klaus Hesse	4	Von Luckner VNL-K65N	N	
+542	Command Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Cindy Telkirk	3	Von Luckner VNL-K65N	N	
+543	Command Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Stanley Petroviff	3	Von Luckner VNL-K65N	N	
+544	Command Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Terry Liesner	2	Von Luckner VNL-K65N	N	
+545	Command Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Patrice Gubsen	3	Von Luckner VNL-K65N	N	
+546	Strike Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Llewellyn Trent	3	Scorpion Light Tank	N	
+547	Strike Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Yolanda Drac	3	Scorpion Light Tank	N	
+548	Strike Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Jonathan Sting	2	Scorpion Light Tank	N	
+549	Strike Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Nicholas Skalabrim	3	Scorpion Light Tank	N	
+550	Strike Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Steven Richardson	3	Galleon GAL-100	N	
+551	Strike Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Donald Hunter	3	Galleon GAL-100	N	
+552	Recon Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Careen Stratton	3	Pegasus	N	
+553	Recon Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Norman Clevon	3	Pegasus	N	
+554	Recon Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Timothy Villings	2	Pegasus	N	
+555	Recon Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Evelyn Snodgrass	3	Pegasus	N	
+556	Recon Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Thomas Manner	2	Pegasus	N	
+557	Recon Lance		Tin Can		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Sergeant	Hoyt Stows	2	Pegasus	N	
+558	1st Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Captain	Lila Oakwood	3	Motorized Laser Infantry	N	XO Lieutenant Hector Torres and Sergeant Ginny Verne
+559	1st Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Vincent Nelson	3	Motorized Laser Infantry	N	
+560	1st Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Kanpo lamoto	2	Motorized Laser Infantry	N	
+561	1st Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	"Yeller" Heller	2	Motorized Laser Infantry	N	
+562	2nd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Tuck Miller	2	Motorized Laser Infantry	N	XO Sergeant Christian Fenny
+563	2nd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Donald Erikson	2	Motorized Laser Infantry	N	
+564	2nd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Ries Tunney	2	Motorized Laser Infantry	N	
+565	2nd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Fennimore Vekman	2	Motorized Laser Infantry	N	
+566	3rd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Richard Diego	3	Motorized SRM Infantry	N	XO Sergeant Terry Welby
+567	3rd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Barbara Miner	2	Motorized SRM Infantry	N	
+568	3rd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Carlos Petersen	2	Motorized SRM Infantry	N	
+569	3rd Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Xi Daniels	2	Motorized SRM Infantry	N	
+570	4th Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Vince Tulane	3	Motorized SRM Infantry	N	XO Sergeant Gerald Lenders
+571	4th Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Regina Bounder	2	Motorized SRM Infantry	N	
+572	4th Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Fung Tau	2	Motorized SRM Infantry	N	
+573	4th Platoon		Alpha Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Yoto Chin	1	Motorized SRM Infantry	N	
+574	1st Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Captain	Ernest Torsak	4	Jump Rifle Infantry	N	XO Lieutenant Walter Sizneck and Sergeant Frank Delany
+575	1st Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Samuel Washington	3	Jump Rifle Infantry	N	
+576	1st Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Glenn Lofall	3	Jump Rifle Infantry	N	
+577	1st Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Kyoto Naguchi	3	Jump Rifle Infantry	N	
+578	2nd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	G.R. Jefferson	4	Jump MG Infantry	N	XO Sergeant Beulah Olson
+579	2nd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Delanore Evers	3	Jump MG Infantry	N	
+580	2nd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Roberta Bremeton	2	Jump MG Infantry	N	
+581	2nd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Verne Atahugh	2	Jump MG Infantry	N	
+582	3rd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Henry Van Thaller	3	Jump Laser Infantry	N	XO Sergeant Dmitri Iota
+583	3rd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Harston Lima	3	Jump Laser Infantry	N	
+584	3rd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Helkirk Peters	1	Jump Laser Infantry	N	
+585	3rd Platoon		Bravo Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Corporal	Tina Velasquez	3	Jump Laser Infantry	N	
+586	Command Lance		Boomer Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Captain	Greerson Holland	3	Long Tom III	N	
+587	Command Lance		Boomer Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Jason Everman	2	Long Tom III	N	
+588	Command Lance		Boomer Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Jill Creech	2	Long Tom III	N	
+589	AA Lance		Boomer Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	Lieutenant	Forrest Liesen	3	Rifleman RFL-3N	N	
+590	AA Lance		Boomer Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	-	Freeman Anderson	2	Archer ARC-2R	N	
+591	AA Lance		Boomer Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	-	James Gleason	2	Archer ARC-2R	N	
+592	AA Lance		Boomer Company		1st Armored Infantry	Mighty Mites	21st Striker	Winston's Moonrakers	-	Douglas Vehl	2	Dervish DV-6M	N	
+														
+														
+595	Command Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Colonel	Robert Fairchild	4	Stalker STK-3F	N	
+596	Command Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Thomas Bannon	3	Catapult CPLT-C1	N	
+597	Command Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	-	Elroy Jobins	3	Shadow Hawk SHD-2H	N	
+598	Command Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	-	Catherine Lurie	3	Shadow Hawk SHD-2H	N	
+599	Security Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Captain	Diane Pizler	4	Phoenix Hawk PXH-1	N	
+600	Security Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	-	Donald Shilke	3	Hunchback HBK-4G	N	
+601	Security Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	-	James Seargrave	3	Trebuchet TBT-5N	N	
+602	Security Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	-	Villiam Orstram	2	Trebuchet TBT-5N	N	
+603	Artillery Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Captain	Wilson DeNalley	4	Archer ARC-2R	N	
+604	Artillery Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Timothy Orchard	4	Long Tom III	N	
+605	Artillery Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Jessica Stewart	4	Long Tom III	N	
+606	Artillery Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Michael Busselie	4	Long Tom III	N	
+607	Artillery Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Marilyn Fithian	3	Long Tom III	N	
+608	Artillery Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Fuastino Heller	4	Long Tom III	N	
+609	Artillery Lance		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Mitch Walter	3	Long Tom III	N	
+610	1st Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Lars Eighner	4	Motorized MG Infantry	N	XO Sergeant "Tungsten" O'Malley
+611	1st Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Corporal	Pierre Cuisinier	3	Motorized MG Infantry	N	
+612	1st Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Corporal	Jackie Fritscher	3	Motorized MG Infantry	N	
+613	1st Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Corporal	Herbert Koelbl	3	Motorized MG Infantry	N	
+614	2nd Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Lieutenant	Suzanne Sarnoff	4	Motorized Flamer Infantry	N	XO Sergeant  Kimberly Sarnoff
+615	2nd Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Corporal	Jerry Coriolan	4	Motorized Flamer Infantry	N	
+616	2nd Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Corporal	Pohl James	4	Motorized Flamer Infantry	N	
+617	2nd Motorized Infantry Platoon		Command Company	Fairchild's Guards	-		151st Light Horse	Dark Horse Regiment	Corporal	Bars Newman	4	Motorized Flamer Infantry	N	
+														
+619	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Major	Simon Kroger Jr	4	BattleMaster BLR-1G	N	
+620	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Filly Hegel	3	Marauder MAD-3R	N	
+621	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Stephen Kagwane	4	Warhammer WHM-6R	N	
+622	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Ted Hauschel	3	Marauder MAD-3R	N	
+623	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Bill Gherna	4	Long Tom III	N	
+624	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Alex Olunder	3	Long Tom III	N	
+625	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Mitchell Mix	4	Motorized Laser Infantry	N	XO Lawrence Oppenheimer
+626	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Gene Henderson	2	Motorized Laser Infantry	N	
+627	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Rolf Edwards	2	Motorized Laser Infantry	N	
+628	Command Lance	Kroger's Own	-		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Gertrude Bateman	2	Motorized Laser Infantry	N	
+629	Command Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Captain	Kenneth Jolgreen	4	Dervish DV-6M	N	
+630	Command Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Eno Miyasota	4	Enforcer ENF-4R	N	
+631	Command Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Darlene Olsen	3	Phoenix Hawk PXH-1	N	
+632	Command Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Merle Pribbernow	3	Phoenix Hawk PXH-1	N	
+633	Strike Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Deane Rochon	4	Valkyrie VLK-QA	N	
+634	Strike Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Gwendolyn Snedicor	4	Spider SDR-5V	N	
+635	Strike Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Augusta Tackett	3	Stinger STG-3R	N	
+636	Strike Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Colin Entch	4	Commando COM-2D	N	
+637	Support Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Helen Helmet	3	Galleon GAL-100	N	
+638	Support Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Clark Jinsrude	3	Galleon GAL-100	N	
+639	Support Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Harvey Taleman	3	Galleon GAL-100	N	
+640	Support Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Richard Piunti	3	Galleon GAL-100	N	
+641	Air Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Cruz Campana	4	Sparrowhawk SPR-H5	N	
+642	Air Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Gene Knox	3	Sparrowhawk SPR-H5	N	
+643	Recon Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Francis Millen	4	Locust LCT-1V	N	
+644	Recon Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Kevin Bledsoe	4	Swiftwind	N	
+645	Recon Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Robert Geraci	4	Packrat PKR-T5	N	
+646	Recon Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Hammer Billings	3	Packrat PKR-T5	N	
+647	Recon Lance		1st Recon	Hawkeyes	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	C.R. Lovatch	3	Packrat PKR-T5	N	
+648	Command Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Captain	Deborah Ganadan	4	Cyclops CP-10-Z	N	
+649	Command Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Edgar Aikman	4	Stalker STK-3F	N	
+650	Command Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Delbert Posona	3	Vindicator VND-1R	N	
+651	Command Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Xuong Luong	4	Awesome AWS-8Q	N	
+652	7th Motorized Infantry Platoon		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Peter Haley	3	Motorized Flamer Infantry	N	XO Sergeant Yves Zelkerd
+653	7th Motorized Infantry Platoon		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Gerry Von Dermere	4	Motorized Flamer Infantry	N	
+654	7th Motorized Infantry Platoon		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Kellan Senner	2	Motorized Flamer Infantry	N	
+655	7th Motorized Infantry Platoon		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Reginald Edwards	2	Motorized Flamer Infantry	N	
+656	Strike Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Denneta Delay	4	BattleMaster BLR-1G	N	
+657	Strike Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Jonathan Edick	3	Orion ON1-K	N	
+658	Strike Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Neil Fraser	4	Grasshopper GHR-5H	N	
+659	Strike Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Carole Jean Holmaas	3	Archer ARC-2R	N	
+660	Strike Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Richard Houle	3	Manticore	N	
+661	Strike Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Thomas Gedders	3	Manticore	N	
+662	Strike Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Wally Dance	3	Manticore	N	
+663	Recon Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Agate Houpt	4	Grasshopper GHR-5H	N	
+664	Recon Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	John Ezzell	3	Thunderbolt TDR-5S	N	
+665	Recon Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Clarence Gronley	4	Phoenix Hawk PXH-1	N	
+666	Recon Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Terry Tilberg	4	Hermes II HER-2S	N	
+667	Air Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Norvals Rieken	4	Chippewa CHP-W5	N	
+668	Air Lance		1st Heavy Assault	Ganadan's Company	50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Arthur LaMonica	3	Chippewa CHP-W5	N	
+669	Command Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Captain	Larcen Mitchell	4	Atlas AS7-D	N	
+670	Command Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Gordon Gaumintz	4	Banshee BNC-3E	N	
+671	Command Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Jem Carrea	3	Victor VTR-9B	N	
+672	Command Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Kent Fairfax Jr	3	Goliath GOL-1H	N	
+673	4th Motorized Infantry Platoon		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Brenda Raleigh	4	Motorized Laser Infantry	N	XO Sergeant Grisholm Karls
+674	4th Motorized Infantry Platoon		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Felan Fuller	2	Motorized Laser Infantry	N	
+675	4th Motorized Infantry Platoon		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Etienne Weimer	2	Motorized Laser Infantry	N	
+676	4th Motorized Infantry Platoon		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Corporal	Werner Genbert	2	Motorized Laser Infantry	N	
+677	Strike Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Soimone Silverdale	4	BattleMaster BLR-1G	N	
+678	Strike Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Randy Pudelko	3	Awesome AWS-8Q	N	
+679	Strike Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Arvon Plato	4	Grasshopper GHR-5H	N	
+680	Strike Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Ivan Rekow	4	Marauder MAD-3R	N	
+681	Strike Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Joseph McCall	3	Von Luckner VNL-K65N	N	
+682	Strike Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Ralph Mastel	3	Von Luckner VNL-K65N	N	
+683	Strike Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Rose Martinson	3	Von Luckner VNL-K65N	N	
+684	Recon Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	Lieutenant	Christopher Reopelle	4	JagerMech JM6-S	N	
+685	Recon Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Andrea Suraci	3	Crusader CRD-3R	N	
+686	Recon Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Susan Templeton	4	Wolverine WVR-6R	N	
+687	Recon Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Lloyd Valley	3	Wolverine WVR-6R	N	
+688	Recon Lance		3rd Heavy Assault		50th Heavy Cavalry	Bloody Half-Hundred	151st Light Horse	Dark Horse Regiment	-	Simon Testroy	4	Chippewa CHP-W5	N	
+														
+690	Command Lance		-		8th Recon		151st Light Horse	Dark Horse Regiment	Major	Anthony Gasca	4	Warhammer WHM-6R	N	
+691	Command Lance		-		8th Recon		151st Light Horse	Dark Horse Regiment	-	Rosemane Artz	3	Thunderbolt TDR-5S	N	
+692	Command Lance		-		8th Recon		151st Light Horse	Dark Horse Regiment	-	Sigard Sorenson	3	Ostsol OTL-4D	N	
+693	Command Lance		-		8th Recon		151st Light Horse	Dark Horse Regiment	-	Lela Ottenbein	3	Wolverine WVR-6R	N	
+694	Command Lance		-		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Ivan Elkson	3	Sniper Artillery	N	
+695	Command Lance		-		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Ralph Yukon	3	Sniper Artillery	N	
+696	Command Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Captain	Kraig Stedman	4	Griffin GRF-1N	N	
+697	Command Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Abrahim Ibn Faud	4	Phoenix Hawk LAM PHX-HK2	N	
+698	Command Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Jacqueline Lukin	3	Enforcer ENF-4R	N	
+699	Command Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Gunvald Rusco	4	Clint CLNT-2-3T	N	
+700	Strike Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Seth Pritzos	4	Valkyrie VLK-QA	N	
+701	Strike Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Ivan Stevica	3	Dervish DV-6M	N	
+702	Strike Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Jonathan Vebron	3	Wasp WSP-1A	N	
+703	Strike Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Jerry Walion	4	Wasp WSP-1A	N	
+704	Strike Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Henry Van Johnson	3	Manticore	N	
+705	Strike Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Peter Underwood	3	Galleon GAL-100	N	
+706	Strike Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Eddie Immel	3	Galleon GAL-100	N	
+707	Air Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Virginia Teace	4	Slayer SL-15	N	
+708	Air Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Marvin Hoodenpile	3	Slayer SL-15	N	
+709	Recon Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Lieutenant Michael Fels	4	Ostscout OTT-7J	N	
+710	Recon Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	James Lazdowski	4	Skulker	N	
+711	Recon Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Olson Reginald	4	Packrat PKR-T5	N	
+712	Recon Lance		5th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Sergeant	Harold Strunk	3	Jump Rifle Infantry	N	
+713	Command Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Captain	Captain Kanaya Barber	4	Trebuchet TBT-5N	N	
+714	Command Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Mia Messerschm(dt	3	Wolverine WVR-6R	N	
+715	Command Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Jenni Complitta	4	Whitworth WTH-1	N	
+716	Command Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Wallace Denman	3	Commando COM-2D	N	
+717	Strike Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Milo Godfrey	4	Panther PNT-9R	N	
+718	Strike Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Hervert Bybee	3	Panther PNT-9R	N	
+719	Strike Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	David Hemrison	3	Wasp WSP-1A	N	
+720	Strike Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Harold Kooleson	3	Wasp WSP-1A	N	
+721	Strike Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Kate Jellum	3	Striker	N	
+722	Strike Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Carl Buschaw	4	Galleon GAL-100	N	
+723	Strike Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Michelle Mayesky	3	Striker	N	
+724	Air Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Salvatore Ogren	4	Corsair CSR-V12	N	
+725	Air Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Helen Fravel	3	Corsair CSR-V12	N	
+726	Recon Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Charlotte Anderson	3	Stinger STG-3R	N	
+727	Recon Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Julie Sunseon	4	Swiftwind	N	
+728	Recon Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Samuel Blairham	4	Packrat PKR-T5	N	
+729	Recon Lance		6th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Sergeant	Ralph Duncan	3	Jump MG Infantry	N	
+730	Command Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Captain	Gary Werent	4	Wolverine WVR-6R	N	
+731	Command Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Gladwin Furu	3	Hunchback HBK-4G	N	
+732	Command Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Wayne Keasaio	4	Hunchback HBK-4G	N	
+733	Command Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Beverly Jana	3	Blackjack BJ-1	N	
+734	Strike Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Ryan Hixen	4	Griffin GRF-1N	N	
+735	Strike Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Victoria Gegdahl	3	Stinger STG-3R	N	
+736	Strike Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	P.J. Hortzon	3	Commando COM-2D	N	
+737	Strike Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	William "Wildman" Orion	4	Locust LCT-1V	N	
+738	Strike Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Beth Duncan	3	Von Luckner VNL-K65N	N	
+739	Strike Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Albin Hearts	3	Galleon GAL-100	N	
+740	Strike Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Holly Genstead	3	Galleon GAL-100	N	
+741	Air Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Ivos Budleson	4	Transit TR-10	N	
+742	Air Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Moran Mover	3	Transit TR-10	N	
+743	Recon Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Lieutenant	Patrico Saludo	4	Locust LCT-1V	N	
+744	Recon Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Michelle Lillywall	4	Darter	N	
+745	Recon Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	Peter Jangaard	4	Packrat PKR-T5	N	
+746	Recon Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	-	William Ange	3	Packrat PKR-T5	N	
+747	Recon Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Sergeant	Kathleen Lamm	4	Jump Rifle Infantry	N	
+748	Recon Lance		9th Recon		8th Recon		151st Light Horse	Dark Horse Regiment	Corporal	Chester Bortherton	4	Jump Rifle Infantry	N	
+														
+750	Command Lance	Stimson's Guards	-		6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Major	Edward Stimson	4	Valkyrie VLK-QA	N	
+751	Command Lance	Stimson's Guards	-		6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Gary Milgard	4	Valkyrie VLK-QA	N	
+752	Command Lance	Stimson's Guards	-		6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Wilbur Houpt	3	Stinger STG-3R	N	
+753	Command Lance	Stimson's Guards	-		6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	JoJo Reprean	4	Spider SDR-5V	N	
+754	Command Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Captain	Raymond Allwine	4	Wolverine WVR-6R	N	
+755	Command Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Jack Finsrud	3	Vulcan VL-2T	N	
+756	Command Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Terry Lyttle	4	Enforcer ENF-4R	N	
+757	Command Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Barbara Mosely	3	Phoenix Hawk PXH-1	N	
+758	Strike Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Lickin Graspkopf	4	Ostscout OTT-7J	N	
+759	Strike Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Rupert Cl1ntmore	4	Valkyrie VLK-QA	N	
+760	Strike Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Ferrucc1o Poorliss	3	Stinger STG-3R	N	
+761	Strike Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Lyle Wilson	4	Wasp WSP-1A	N	
+762	Support Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Wesley Grovers, Jr.	4	Galleon GAL-100	N	
+763	Support Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Wesley "Greybeard" Grovers	3	Galleon GAL-100	N	
+764	Support Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Patrick lnnesfree	3	Galleon GAL-100	N	
+765	Support Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Taylor Richardson	3	Galleon GAL-100	N	
+766	Air Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Lieutenant Gus Avery	3	Eagle EGL-R6	N	
+767	Air Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Pater Erickson	2	Eagle EGL-R6	N	
+768	Recon Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Virgil Gaughan	4	Stinger STG-3R	N	
+769	Recon Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Eddie Calvo	4	Darter	N	
+770	Recon Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Sid Eloy	4	Packrat PKR-T5	N	
+771	Recon Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Tommy "Indian" Redclouds	3	Packrat PKR-T5	N	
+772	Recon Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Sergeant	Clifford Hemrock	4	Jump Rifle Infantry	N	
+773	Recon Lance		2nd Recon	Nightcrawlers	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Corporal	Sandy Ericson	3	Jump Rifle Infantry	N	
+774	Command Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Captain	Gordon Eliseuson	4	Panther PNT-9R	N	
+775	Command Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Fay Fetters	4	Commando COM-2D	N	
+776	Command Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Lidwine Hesselgesser	3	Javelin JVN-10N	N	
+777	Command Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Harley Kanyon	3	Phoenix Hawk PXH-1	N	
+778	Strike Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Clarence Lotus	4	Jenner JR7-D	N	
+779	Strike Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Kelly O'Bienes	2	Locust LCT-1V	N	
+780	Strike Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Arthur Ritchie	4	Valkyrie VLK-QA	N	
+781	Strike Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Ingrid Sefort	3	Stinger STG-3R	N	
+782	Support Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Fred Counters	3	Von Luckner VNL-K65N	N	
+783	Support Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Edwin Serra	3	Manticore	N	
+784	Support Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Gustav Lucken	3	Manticore	N	
+785	Support Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Ruben Hayes	3	Galleon GAL-100	N	
+786	Air Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Carla Snyder	4	Seydlitz SYD-21	N	
+787	Air Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Christian Reopelle	3	Seydlitz SYD-21	N	
+788	Recon Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Mabel Stritar	4	Locust LCT-1V	N	
+789	Recon Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Augusta Swanson	4	Swiftwind	N	
+790	Recon Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Patrico Verton	3	Packrat PKR-T5	N	
+791	Recon Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Sergeant	Tom Haynes	3	Jump Rifle Infantry	N	
+792	Recon Lance		4th Recon	Sneaky Devils	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Henry Brooks	3	Galleon GAL-100	N	
+793	Command Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Captain	"Sycamore" Sydney Harrison	4	Enforcer ENF-4R	N	
+794	Command Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Atillon Momsen	4	Jenner JR7-D	N	
+795	Command Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Thelma McCarahan	3	Hunchback HBK-4G	N	
+796	Command Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Arnold Sola	4	Phoenix Hawk PXH-1	N	
+797	Strike Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Jerome Strittmatter	4	Trebuchet TBT-5N	N	
+798	Strike Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Corinne Ulanx	3	Spider SDR-5V	N	
+799	Strike Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Harry Vandevermal	4	Locust LCT-1V	N	
+800	Strike Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Yoto Sun	4	Wasp WSP-1A	N	
+801	Support Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Todd Frently	4	Scorpion Light Tank	N	
+802	Support Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Sergeant	Cyril Gonters	4	Scorpion Light Tank	N	
+803	Support Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Corporal	Susan Tredwells	3	Scorpion Light Tank	N	
+804	Support Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Corporal	Lomar Yentra	3	Scorpion Light Tank	N	
+805	Air Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Joan Simodo	4	Sparrowhawk SPR-H5	N	
+806	Air Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Jonatha Almira	3	Sparrowhawk SPR-H5	N	
+807	Recon Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	George Zaya	4	Stinger STG-3R	N	
+808	Recon Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Guy Arrendo	3	Centipede	N	
+809	Recon Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	-	Michael Wently	4	Packrat PKR-T5	N	
+810	Recon Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Sergeant	Dale Rivers	3	Jump Rifle Infantry	N	
+811	Recon Lance		8th Recon	Sydney's Company	6th Recon	Stimson's Stealthers	151st Light Horse	Dark Horse Regiment	Lieutenant	Fischer Velman	3	Galleon GAL-100	N	

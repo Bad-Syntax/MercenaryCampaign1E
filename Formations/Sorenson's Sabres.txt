@@ -1,0 +1,14 @@
+UnitName	Sorenson's Sabres
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Command		Sorenson's Sabres		Tarwater's			5th Sword of Light	Captain	Daniel Sorenson	3	Marauder MAD-3R	N	Piloting 4, Gunnery 3, Leadership 6, Body 7.  AC5 can only carry 10 rounds.  Roll 9+ before shooting AC5 to jam for rest of turn.  -6 Heat Sinks.  
+2	Command		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Shytel "Guts" Gutowski	2	Warhammer WHM-6R	N	Piloting 6, Gunnery 4, Body 9.  
+3	Command		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Elden "The Shark" Beradinelli	4	SL-25 Samurai	N	Piloting 0, Gunnery 5, Leadership 7, Body 9.  
+4	Command		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Izora "Izzy" Soderstrom	4	Phoenix Hawk PXH-1K	N	Piloting 5, Gunnery 0, Body 11.  
+5	Medium		Sorenson's Sabres		Tarwater's			5th Sword of Light	Lieutenant	Cedrick Sveinson	4	Longbow LGB-0W	N	Piloting 1, Gunnery 0, Body 9.  LA only 9 armor.  
+6	Medium		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Emory Wilk	3	Rifleman RFL-3N	N	Piloting 5, Gunnery 1, Leadership 2, Body 8.  RA LL is +3 heat.  LA weapons +1 as upper arm actuator destroyed.  
+7	Medium		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Sharron Burgoz	3	Trebuchet TBT-7K	N	Piloting 5, Gunnery 2, Leadership 4, Body 8.  
+8	Medium		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Albert "Gunner" Benton	4	Stinger STG-3R	N	Piloting 1, Gunnery 0, Body 7.  
+9	Pursuit		Sorenson's Sabres		Tarwater's			5th Sword of Light	Lieutenant	Dana Utsonomiya	2	Archer ARC-2K	N	Piloting 5, Gunnery 3, Body 8.  
+10	Pursuit		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Clay Moretti	4	Phoenix Hawk LAM PXH-HK2	N	Piloting 1, Gunnery 1, Piloting/Aerospace 5, Leadership 1, Body 7.  +3 to all PSR due to gyro hit, any hit destroys it.  
+11	Pursuit		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Eleanor Rubach	3	Hermes III (ost) HER-4K	N	Piloting 4, Gunnery 2, Body 6.  
+12	Pursuit		Sorenson's Sabres		Tarwater's			5th Sword of Light	MechWarrior	Vernon Marrone	2	Wasp WSP-1K	N	Piloting 3, Gunnery 5, Leadership 3, Body 11.  

@@ -1,0 +1,126 @@
+UnitName	Kell Hounds
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Regimental Command		-		-		Kell Hounds (3029+)			Colonel Morgan F. Kell	4	Archer		
+2	Regimental Command		-		-		Kell Hounds (3029+)			Captain Caitlin Shaw	4	ShadowHawk		
+3	Regimental Command		-		-		Kell Hounds (3029+)			Sergeant Cat Wilson	4	Marauder		
+4	Regimental Command		-		-		Kell Hounds (3029+)			Clifford Carney	3	Crusader		
+5	Recon		1st		1st Mech		Kell Hounds (3029+)			Captain Daniel W Allard	4	Wolfhound		
+6	Recon		1st		1st Mech		Kell Hounds (3029+)			Meredith Devlin	4	Jenner		
+7	Recon		1st		1st Mech		Kell Hounds (3029+)			Paul O'Clare	2	Panther		
+8	Recon		1st		1st Mech		Kell Hounds (3029+)			Amber Brennan	2	Panther		
+9	Strike		1st		1st Mech		Kell Hounds (3029+)			Lieutenant Don Fitzroy	4	Warhammer		
+10	Strike		1st		1st Mech		Kell Hounds (3029+)			Lance Armstrong	2	Ostsol		
+11	Strike		1st		1st Mech		Kell Hounds (3029+)			Robin Joyce	3	Griffin		
+12	Strike		1st		1st Mech		Kell Hounds (3029+)			Jack Murray	4	Dervish		
+13	Light Assault		1st		1st Mech		Kell Hounds (3029+)			Lieutenant Austin Brand	4	Commando		
+14	Light Assault		1st		1st Mech		Kell Hounds (3029+)			Sergeant Meg Lang	3	Panther		
+15	Light Assault		1st		1st Mech		Kell Hounds (3029+)			Gwyneth Murdoch	2	Panther		
+16	Light Assault		1st		1st Mech		Kell Hounds (3029+)			Eddie Baker	3	Jenner		
+17	Battalion Command		2nd		1st Mech		Kell Hounds (3029+)			Major Salome Ward	4	Wolverine		
+18	Battalion Command		2nd		1st Mech		Kell Hounds (3029+)			Lieutenant Mike Fitzhugh	4	Catapult		
+19	Battalion Command		2nd		1st Mech		Kell Hounds (3029+)			Clint Murphy	4	Quickdraw		
+20	Battalion Command		2nd		1st Mech		Kell Hounds (3029+)			Brendan O'Reilly	3	Centurion		
+21	Assault		2nd		1st Mech		Kell Hounds (3029+)			Lieutenant Anne Finn	4	Orion		
+22	Assault		2nd		1st Mech		Kell Hounds (3029+)			Brigit O'Leary	2	Marauder		
+23	Assault		2nd		1st Mech		Kell Hounds (3029+)			Roe Dolan	3	Crusader		
+24	Assault		2nd		1st Mech		Kell Hounds (3029+)			Mark Flanagan	4	Rifleman		
+25	Recon		2nd		1st Mech		Kell Hounds (3029+)			Lieutenant Harrold O'Ryan	4	Jenner		
+26	Recon		2nd		1st Mech		Kell Hounds (3029+)			William Duffy	2	Javelin		
+27	Recon		2nd		1st Mech		Kell Hounds (3029+)			Dell Thompson	3	Commando		
+28	Recon		2nd		1st Mech		Kell Hounds (3029+)			Michael Horan	2	Firestarter		
+29	Fire		2nd		1st Mech		Kell Hounds (3029+)			Lieutenant Peggy Fitzmartin	4	Crusader		
+30	Fire		2nd		1st Mech		Kell Hounds (3029+)			William Kantor	3	Griffin		
+31	Fire		2nd		1st Mech		Kell Hounds (3029+)			Serge Litvinov	4	Trebuchet		
+32	Fire		2nd		1st Mech		Kell Hounds (3029+)			Andre de Pontcing	3	Vindicator		
+33	Urban Assault Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Captain Will O'Halloran	4	Warhammer		
+34	Urban Assault Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Robert Cross	4	Enforcer		
+35	Urban Assault Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Frank Boyle	2	Scorpion		
+36	Urban Assault Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Kathleen Curtain	3	Wolverine		
+37	Urban Recon Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Lieutenant Estyn Burns	4	UrbanMech		
+38	Urban Recon Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Carol Nolan	2	Javelin		
+39	Urban Recon Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Rose Smith	3	Commando		
+40	Urban Recon Lance		3rd	Urban Warfare Specialists	1st Mech		Kell Hounds (3029+)			Matt O'Crohan	4	Firestarter		
+41	Assault		1st		2nd Mech		Kell Hounds (3029+)			Captain Sara O'Cathain	4	Crusader		
+42	Assault		1st		2nd Mech		Kell Hounds (3029+)			Michael Kiltartan	4	Warhammer		
+43	Assault		1st		2nd Mech		Kell Hounds (3029+)			Padraic Sarsfield	2	Orion		
+44	Assault		1st		2nd Mech		Kell Hounds (3029+)			Anne Richardson	2	Ostroc		
+45	Fire Support		1st		2nd Mech		Kell Hounds (3029+)			Lieutenant Maggie O'Cathain	2	Ostsol		
+46	Fire Support		1st		2nd Mech		Kell Hounds (3029+)			Ellen O'Sulhvan	3	Quickdraw		
+47	Fire Support		1st		2nd Mech		Kell Hounds (3029+)			Lee Kennedy	4	Shadow Hawk		
+48	Fire Support		1st		2nd Mech		Kell Hounds (3029+)			Art Hyde	3	Rifleman		
+49	Fire		1st		2nd Mech		Kell Hounds (3029+)			Lieutenant Brogan Casey	4	Griffin		
+50	Fire		1st		2nd Mech		Kell Hounds (3029+)			Kevin Corrigan	3	Hunchback		
+51	Fire		1st		2nd Mech		Kell Hounds (3029+)			John Galway	2	Enforcer		
+52	Fire		1st		2nd Mech		Kell Hounds (3029+)			David Hall	2	Vindicator		
+53	Battalion Command		2nd		2nd Mech		Kell Hounds (3029+)			Major Conn O'Bannon	4	Orion		
+54	Battalion Command		2nd		2nd Mech		Kell Hounds (3029+)			Lieutenant Walter de Mesnil	4	Thunderbolt		
+55	Battalion Command		2nd		2nd Mech		Kell Hounds (3029+)			Janet Cutler	3	Crusader		
+56	Battalion Command		2nd		2nd Mech		Kell Hounds (3029+)			Brian Owens	2	Catapult		
+57	Fire Support		2nd		2nd Mech		Kell Hounds (3029+)			Lieutenant Patricia O'Lochlainn	3	Catapult		
+58	Fire Support		2nd		2nd Mech		Kell Hounds (3029+)			Diana Sarsfield	2	Quickdraw		
+59	Fire Support		2nd		2nd Mech		Kell Hounds (3029+)			Rory Solomon	3	Ostsol		
+60	Fire Support		2nd		2nd Mech		Kell Hounds (3029+)			Curt Reagan	2	Dragon		
+61	Assault		2nd		2nd Mech		Kell Hounds (3029+)			Lieutenant Valentina Tereshkova	3	Centurion		
+62	Assault		2nd		2nd Mech		Kell Hounds (3029+)			Jacob Van Zyl	3	Hermes II		
+63	Assault		2nd		2nd Mech		Kell Hounds (3029+)			Victor Scaligen	3	Cicada		
+64	Assault		2nd		2nd Mech		Kell Hounds (3029+)			Luther Gratian	2	Whitworth		
+65	Recon		2nd		2nd Mech		Kell Hounds (3029+)			Lieutenant Carlos Ramirez	3	Spider		
+66	Recon		2nd		2nd Mech		Kell Hounds (3029+)			Marguerita Ramirez	2	Wasp LAM		
+67	Recon		2nd		2nd Mech		Kell Hounds (3029+)			Boris Vereker	3	Javelin		
+68	Recon		2nd		2nd Mech		Kell Hounds (3029+)			John Surtees	3	Stinger		
+69	Assault		3rd		2nd Mech		Kell Hounds (3029+)			Captain Timothy Moriarty	4	Centurion		
+70	Assault		3rd		2nd Mech		Kell Hounds (3029+)			Michael Moran	2	Blackjack		
+71	Assault		3rd		2nd Mech		Kell Hounds (3029+)			James Hartwick	3	Hatchetman		
+72	Assault		3rd		2nd Mech		Kell Hounds (3029+)			Damon Crowley	4	Phoenix Hawk		
+73	Fire		3rd		2nd Mech		Kell Hounds (3029+)			Lieutenant Rick O'Hare	3	JagerMech		
+74	Fire		3rd		2nd Mech		Kell Hounds (3029+)			Mary Wilde	2	Trebuchet		
+75	Fire		3rd		2nd Mech		Kell Hounds (3029+)			Albert Keir	3	Dervish		
+76	Fire		3rd		2nd Mech		Kell Hounds (3029+)			Karen Driscoll	3	Scorpion		
+77	Scout		3rd		2nd Mech		Kell Hounds (3029+)			Lieutenant Kevin Connor	4	Valkyrie		
+78	Scout		3rd		2nd Mech		Kell Hounds (3029+)			Susan Kelleher	2	Panther		
+79	Scout		3rd		2nd Mech		Kell Hounds (3029+)			Kate O'Toole	2	Commando		
+80	Scout		3rd		2nd Mech		Kell Hounds (3029+)			Helen Gregory	3	Jenner		
+81	Battalion Command		1st		3rd Mech		Kell Hounds (3029+)			Major Scott Bradley	4	Cyclops		
+82	Battalion Command		1st		3rd Mech		Kell Hounds (3029+)			Lieutenant Peter Watson	3	Marauder		
+83	Battalion Command		1st		3rd Mech		Kell Hounds (3029+)			Kino Hanson	2	Dragon		
+84	Battalion Command		1st		3rd Mech		Kell Hounds (3029+)			Matilda "Mattie" Drayton	3	Stalker		
+85	Attack		1st		3rd Mech		Kell Hounds (3029+)			Lieutenant Tomas Rochefort	3	Enforcer		
+86	Attack		1st		3rd Mech		Kell Hounds (3029+)			Trey Kerin	3	Vulcan		
+87	Attack		1st		3rd Mech		Kell Hounds (3029+)			Phillipa letsu	2	Cicada		
+88	Attack		1st		3rd Mech		Kell Hounds (3029+)			Booth Steflins	2	Assassin		
+89	Scout		1st		3rd Mech		Kell Hounds (3029+)			Lieutenant Carrie Payen	3	Panther		
+90	Scout		1st		3rd Mech		Kell Hounds (3029+)			Stuart Skeat	2	Spider		
+91	Scout		1st		3rd Mech		Kell Hounds (3029+)			Ayesha Aitkin	3	Javelin		
+92	Scout		1st		3rd Mech		Kell Hounds (3029+)			Howard Fraser	2	Stinger		
+93	1st Air		1st		Aerofighter		Kell Hounds (3029+)			Major Seamus Fitzpatrick	4	Shilone		
+94	1st Air		1st		Aerofighter		Kell Hounds (3029+)			Patrick McMahan	4	Shilone		
+95	2nd Air		1st		Aerofighter		Kell Hounds (3029+)			Lieutenant R.O.B. "Rob" Kirk	4	Slayer		
+96	2nd Air		1st		Aerofighter		Kell Hounds (3029+)			Kim Frost	3	Slayer		
+97	3rd Air		1st		Aerofighter		Kell Hounds (3029+)			Lieutenant Marie d'Or	4	Shilone		
+98	3rd Air		1st		Aerofighter		Kell Hounds (3029+)			William Hanrahan	4	Shilone		
+99	1st Air		2nd		Aerofighter		Kell Hounds (3029+)			Captain Adam Fox	4	Riever		
+100	1st Air		2nd		Aerofighter		Kell Hounds (3029+)			Hattie Cocrant	3	Riever		
+101	2nd Air		2nd		Aerofighter		Kell Hounds (3029+)			Lieutenant Brian Wolfson	4	Chippewa		
+102	2nd Air		2nd		Aerofighter		Kell Hounds (3029+)			Tim Branson	3	Chippewa		
+103	3rd Air		2nd		Aerofighter		Kell Hounds (3029+)			Lieutenant Matt Shaw	4	Chippewa		
+104	3rd Air		2nd		Aerofighter		Kell Hounds (3029+)			Tim Branson	3	Chippewa		
+105	1st Air		3rd		Aerofighter		Kell Hounds (3029+)			Captain Andrea Hillson	4	Slayer		
+106	1st Air		3rd		Aerofighter		Kell Hounds (3029+)			Michael Dorgan	4	Slayer		
+107	2nd Air		3rd		Aerofighter		Kell Hounds (3029+)			Lieutenant Keith Carr	3	Transgressor		
+108	2nd Air		3rd		Aerofighter		Kell Hounds (3029+)			Katya Suslov	2	Transgressor		
+109	3rd Air		3rd		Aerofighter		Kell Hounds (3029+)			Lieutenant John Carr	3	Transit		
+110	3rd Air		3rd		Aerofighter		Kell Hounds (3029+)			Kate MacDonald	2	Transit		
+111	Infantry Platoon		1st		Infantry Battalion		Kell Hounds (3029+)			Major Richard O'Cieran	3			
+112	Infantry Platoon		1st		Infantry Battalion		Kell Hounds (3029+)							
+113	Infantry Platoon		1st		Infantry Battalion		Kell Hounds (3029+)							
+114	Infantry Platoon		2nd		Infantry Battalion		Kell Hounds (3029+)							
+115	Infantry Platoon		2nd		Infantry Battalion		Kell Hounds (3029+)							
+116	Infantry Platoon		2nd		Infantry Battalion		Kell Hounds (3029+)							
+117	Infantry Platoon		3rd		Infantry Battalion		Kell Hounds (3029+)							
+118	Infantry Platoon		3rd		Infantry Battalion		Kell Hounds (3029+)							
+119	Infantry Platoon		3rd		Infantry Battalion		Kell Hounds (3029+)							
+120	Transportation Division		-		-		Kell Hounds (3029+)		Captain	Janos Vandermeer	4	Invader Jumpship	N	Name is Cucamulus
+121	Transportation Division		-		-				Captain	Danica Holstein	3	Merchant Jumpship	N	Name is Bifrost
+122	Transportation Division		-		-		Kell Hounds (3029+)		Captain	Tom Helmer	3	Overlord	N	Name is Lugh
+123	Transportation Division		-		-		Kell Hounds (3029+)		Captain	Cadel O'Brien	3	Union	N	Name is Nuada Argetlan
+124	Transportation Division		-		-		Kell Hounds (3029+)		Captain	Hugh MacCool	2	Leopard	N	Name is Manannon MacLir

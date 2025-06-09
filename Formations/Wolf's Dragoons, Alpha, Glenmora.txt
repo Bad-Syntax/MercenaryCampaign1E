@@ -1,0 +1,82 @@
+UnitName	Wolf's Dragoons
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+0	Dropship		-		-		Alpha		-	Chieftain	-	Overlord	N	
+1	Dropship		-		-		Alpha		-	Talleyrand	-	Overlord	N	
+2	Dropship		-		-		Alpha		-	Mentasta	-	Union	N	
+3	Dropship		-		-		Alpha		-	Gloire	-	Union	N	
+4	Dropship		-		-		Alpha		-	Preussen	-	Union	N	
+5	1st Motorized Infantry (Laser)		Command		-		-		Lieutenant	Austin Purlow	4	Motorized Infantry (Laser)	N	
+6	1st Motorized Infantry (Laser)		Command		-		-		Sergeant	Harold Putnam	4	Motorized Infantry (Laser)	N	
+7	1st Motorized Infantry (Laser)		Command		-		-		Corporal	Mina Iorcuzi	4	Motorized Infantry (Laser)	N	
+8	1st Motorized Infantry (Laser)		Command		-		-		Corporal	Walter Almee	3	Motorized Infantry (Laser)	N	
+9	1st Motorized Infantry (Laser)		Command		-		-		Corporal	Buddy Lee Bobob	3	Motorized Infantry (Laser)	N	
+10	2nd Motorized Infantry (Laser)		Command		-		-		Lieutenant	Jacob "Chesty" Wildmon	4	Motorized Infantry (Laser)	N	
+11	2nd Motorized Infantry (Laser)		Command		-		-		Sergeant	Darlene Char	4	Motorized Infantry (Laser)	N	
+12	2nd Motorized Infantry (Laser)		Command		-		-		Corporal	Lawrence Landro	4	Motorized Infantry (Laser)	N	
+13	2nd Motorized Infantry (Laser)		Command		-		-		Corporal	Inez Maguire	4	Motorized Infantry (Laser)	N	
+14	2nd Motorized Infantry (Laser)		Command		-		-		Corporal	Bertram Allard	3	Motorized Infantry (Laser)	N	
+15	Artillery Lance 1		Command		-		-		Lieutenant	Elizabeth Layton	3	Long Tom Artillery	N	
+16	Artillery Lance 1		Command		-		-		Lieutenant	Norton Sirelli	3	Long Tom Artillery	N	
+17	Artillery Lance 1		Command		-		-		Lieutenant	Beth Danzell	3	Long Tom Artillery	N	
+18	Artillery Lance 1		Command		-		-		Captain	Harriett Ciroz	4	Packrat	N	
+19	Artillery Lance 1		Command		-		-		Lieutenant	Marcus Brewer	3	Sniper Artillery	N	
+20	Artillery Lance 2		Command		-		-		Lieutenant	Kathy Lipscomb	4	Long Tom Artillery	N	
+21	Artillery Lance 2		Command		-		-		Captain	Fadol Fadoul	4	Packrat	N	
+22	Artillery Lance 2		Command		-		-		Lieutenant	Janice Haaken	4	Sniper Artillery	N	
+23	Artillery Lance 2		Command		-		-		Lieutenant	Brooks Gunsel	4	Sniper Artillery	N	
+24	Artillery Lance 2		Command		-		-		Lieutenant	Gene Mandamaker	3	Sniper Artillery	N	
+25	Command		Command		-		-		Colonel	Jaime Wolf	4	Archer	N	
+26	Command		Command		-		-		Captain	William Cameron	4	Hermes II	N	Took 2 months to modify Hermes II to replace the Cyclops and its important C3 systems.  Killed by DEST warrior on crossing.
+27	Command		Command		-		-		Major	Olga Kormenski	4	Marauder	N	
+28	Command		Command		-		-		Lieutenant	Hans Vordel	4	Thunderbolt	N	
+29	Command Lance		2nd Provisional Company		-		Alpha		Major	Coshasa DuKirk	4	Crusader	N	
+30	Command Lance		2nd Provisional Company		-		Alpha		Lieutenant	Vincent Timmons	4	Cyclops	N	
+31	Command Lance		2nd Provisional Company		-		Alpha		-	James Buck	3	Ostroc	N	
+32	Command Lance		2nd Provisional Company		-		Alpha		-	Leslie Grubbick	3	Ostsol	N	
+33	Fire Lance		2nd Provisional Company		-		Alpha		Sergeant	Kerry Tennler	3	Catapult	N	
+34	Fire Lance		2nd Provisional Company		-		Alpha		-	Ernest Cameron	3	Enforcer	N	
+35	Fire Lance		2nd Provisional Company		-		Alpha		Lieutenant	Roxanne Tyne	4	Griffin	N	
+36	Fire Lance		2nd Provisional Company		-		Alpha		-	Douglas Dominguez	2	Quickdraw	N	
+37	Heavy Lance		2nd Provisional Company		-		Alpha		Sergeant	Melissa "Missy" Melman	3	Enforcer	N	
+38	Heavy Lance		2nd Provisional Company		-		Alpha		-	Maurice "Tripper" Shipman	3	Hoplite	N	
+39	Heavy Lance		2nd Provisional Company		-		Alpha		-	Phillip Burrows	3	Thunderbolt	N	
+40	Heavy Lance		2nd Provisional Company		-		Alpha		Lieutenant	John McDonald	4	Warhammer	N	
+41	Command Lance		3rd Provisional Company		-		-		Major	Stanford Blake	4	Clint	N	
+42	Command Lance		3rd Provisional Company		-		Alpha		Sergeant	Thomas Dominguez	4	Firefly	N	
+43	Command Lance		3rd Provisional Company		-		Alpha		-	Hazekiah Walden	3	Falcon	N	
+44	Command Lance		3rd Provisional Company		-		Alpha		Lieutenant	Stanley "Texas" Havelock	4	Ostscout	N	
+45	Medium Lance		3rd Provisional Company		-		Alpha		Lieutenant	Miriam Rappaport	4	Hoplite	N	
+46	Medium Lance		3rd Provisional Company		-		Alpha		-	Keith Gatlin	3	Commando	N	
+47	Medium Lance		3rd Provisional Company		-		Alpha		-	Malcolm Spence	3	Cicada	N	
+48	Medium Lance		3rd Provisional Company		-		Alpha		Sergeant	Erica Caputo	3	Phoenix Hawk	N	
+49	Recon Lance		3rd Provisional Company		-		Alpha		-	James Walters	3	Firefly	N	
+50	Recon Lance		3rd Provisional Company		-		Alpha		-	Percival Rummel	3	Javelin	N	
+51	Recon Lance		3rd Provisional Company		-		Alpha		Captain	Kristen Stane	4	Phoenix Hawk	N	
+52	Recon Lance		3rd Provisional Company		-		Alpha		Lieutenant	Constantine Ellerby	3	Valkyrie	N	
+53	Fire Lance		5th Provisional Company		-		Alpha		-	Donal Cameron	3	Javelin	N	
+54	Fire Lance		5th Provisional Company		-		Alpha		-	Ramon Escalero	3	Hornet	N	
+55	Fire Lance		5th Provisional Company		-		Alpha		Lieutenant	Marlon Snyder	3	Valkyrie	N	
+56	Fire Lance		5th Provisional Company		-		Alpha		Captain	Amy Laskowski	4	Whitworth	N	
+57	Scout Lance		5th Provisional Company		-		Alpha		Captain	Douglas MacElroy	4	Firefly	N	
+58	Scout Lance		5th Provisional Company		-		Alpha		-	Jason MacAuliffe	3	Stinger	N	
+59	Scout Lance		5th Provisional Company		-		Alpha		-	Donald McDonald	3	Hornet	N	
+60	Scout Lance		5th Provisional Company		-		Alpha		Lieutenant	Rhonda Himmel	4	Wasp	N	
+61	Command Lance		5th Provisional Company		-		Alpha		Lieutenant	Candace "Tigress" Halstron	4	Quickdraw	N	"Commands Medium Lance", but no medium lance in 5th provisional company.
+62	Command Lance		5th Provisional Company		-		Alpha		Lieutenant	Jobeth Hogan	4	Hornet	N	
+63	Command Lance		5th Provisional Company		-		Alpha		Sergeant	Gina Chandler	3	Hornet	N	
+64	Command Lance		5th Provisional Company		-		Alpha		Major	Patrick Chan	4	Valkyrie	N	
+65	Fire Lance		1st Provisional Company		-		Alpha		-	Jennifer Huan	4	Clint	N	
+66	Fire Lance		1st Provisional Company		-		Alpha		-	Bradley Turlow	4	Vulcan	N	
+67	Fire Lance		1st Provisional Company		-		Alpha		Lieutenant	Ivan Druzinski	4	Wasp	N	
+68	Fire Lance		1st Provisional Company		-		Alpha		Captain	Lauren Waller	4	Wolverine	N	
+69	Command Lance		1st Provisional Company		-		Alpha		-	Kerri Tennler	3	Grasshopper	N	
+70	Command Lance		1st Provisional Company		-		Alpha		Lieutenant	Charles MacGuyver	4	Shadow Hawk	N	
+71	Command Lance		1st Provisional Company		-		Alpha		Lieutenant	Corwin Grimaldi	4	Assassin	N	
+72	Command Lance		1st Provisional Company		-		Alpha		Lieutenant	Thomas West	4	Whitworth	N	
+73	Medium Lance		1st Provisional Company		-		Alpha		Major	Kelly Yukinov	4	Phoenix Hawk	N	Originally in the command lance, but the medium lance was short a mech and the command lance overstrength by 1.
+74	Medium Lance		1st Provisional Company		-		Alpha		Sergeant	Deacon "Deke" Smith	4	Hornet	N	
+75	Medium Lance		1st Provisional Company		-		Alpha		-	Theresa Jones	3	Phoenix Hawk LAM	N	
+76	Medium Lance		1st Provisional Company		-		Alpha		-	Calvin Wakeman	3	Panther	N	
+														
+78	Command		-		-		Alpha		Captain	Dechan Fraser	4	Shadow Hawk	N	On Special Assignment
+79	Recon		-		-		Alpha		-	Jenette Rand	3	Dervish	N	On Special Assignment

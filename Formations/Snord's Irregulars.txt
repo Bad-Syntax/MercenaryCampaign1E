@@ -1,0 +1,14 @@
+UnitName	Snord's Irregular
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	
+1	Command		Snord's Irregulars						Captain	Cranston Melvin Snord	4	Archer ARC-2R	N	Leadership 5, Body 8, Piloting 1, Gunnery 2
+2	Command		Snord's Irregulars						Lieutenant	Jake Walmer	3	Warhammer WHM-6R	N	Piloting 3, Gunnery 3, Body 7
+3	Command		Snord's Irregulars						MechWarrior	Deb H'Chu	4	Thunderbolt TDR-5S	N	Piloting 2, Gunnery 1, Body 7, SRM2 destroyed.  
+4	Command		Snord's Irregulars						MechWarrior	Solomon Storm	3	Wolverine WVR-6R	N	Piloting 4, Gunnery 3, Body 10, Only 7 armor on LT.  
+5	Attack		Snord's Irregulars						Lieutenant	Bnright Thomlinson	4	Rifleman RFL-3N	N	Piloting 2, Gunnery 2, Leadership 2
+6	Attack		Snord's Irregulars						MechWarrior	Samuel "Shorty" Sneede	3	Rifleman RFL-3N "Sneede"	N	Piloting 3, Gunnery 4, Leadership 2, unique mech
+7	Attack		Snord's Irregulars						MechWarrior	Rhonda Snord	2	Shadow Hawk SHD-2H	N	Piloting 4, Gunnery 4, Body 6
+8	Attack		Snord's Irregulars						MechWarrior	Shalimar Windall	3	Crusader CRD-3R	N	Piloting 3, Gunnery 4, Body 4, 1 heat sink damaged
+9	Recon		Snord's Irregulars						Lieutenant	Terry "Trooper" Malvinson	3	Phoenix Hawk PXH-1	N	Piloting 3, Gunnery 4, Leadership 3, Only 15 armor on CT
+10	Recon		Snord's Irregulars						MechWarrior	John "Snooper" Malvinson	2	Wasp WSP-1A	N	Piloting 4, Gunnery 4, PSR if any melee/charging/kicking/punching/clubbing or fall.  
+11	Recon		Snord's Irregulars						MechWarrior	Clame McDonald	3	Wasp WSP-1A	N	Piloting 3, Gunnery 4, Body 6
+12	Recon		Snord's Irregulars						MechWarrior	Winston Nearon	2	Locust LCT-3V	N	Piloting 5, Gunnery 3, Body 5

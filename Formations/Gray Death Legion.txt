@@ -1,0 +1,14 @@
+UnitName	Gray Death Legion
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Command		Gray Death Legion		-			-	Colonel	Grayson Death Carlyle	4	Marauder MAD-3R	N	Piloting 2, Gunnery 3.  
+2	Command		Gray Death Legion		-			-	MechWarrior	Lori Kalmar	2	Shadow Hawk SHD-2H	N	Piloting 4, Gunnery 5.  LA armor 12, LT armor 10.  
+3	Command		Gray Death Legion		-			-	Sergeant	Delmar Clay	2	Wolverine WVR-6R	N	Piloting 4, Gunnery 4.  When ML is fired, roll 2d6 before, 10+ it adds 3 heat.  +1 heat.  CT armor 18.  
+4	Command		Gray Death Legion		-			-	MechWarrior	Davis McCall	2	Rifleman RFL-3N	N	Piloting 4, Gunnery 5.  LA LL rolls 2d6 before, on 10-11 it is +3 hit and on 12 it is +3 heat and no fire.  
+5	Fire Lance		Gray Death Legion		-			-	Lieutenant	Hassan Ali Khaled	2	Warhammer WHM-6R	N	Piloting 4, Gunnery 5.  Speed 4/5.  LL armor 12.  
+6	Fire Lance		Gray Death Legion		-			-	MechWarrior	Isoru Koga	2	Archer ARC-2R	N	Piloting 4, Gunnery 4.  
+7	Fire Lance		Gray Death Legion		-			-	MechWarrior	Charles Bear	2	Crusader CRD-3R	N	Piloting 4, Gunnery 4.  
+8	Fire Lance		Gray Death Legion		-			-	MechWarrior	Sharyl	2	Shadow Hawk SHD-2D	N	Piloting 4, Gunnery 4.  
+9	Recon Lance		Gray Death Legion		-			-	Lieutenant	Gomez Cristobal de Villar	2	Griffin GRF-1N	N	Piloting 5, Gunnery 3.  LA armor 8.  LT armor 15.  
+10	Recon Lance		Gray Death Legion		-			-	MechWarrior	Tracy Maxwell Kent	1	Phoenix Hawk PXH-1K	N	Piloting 6, Gunnery 5.  LA ML rolls 2d6 before firing, 10+ it is +3 heat and misses.  LA MG rolls 2d6 before firing, on 9+ ammo freezes and weapon inoperable.  LA armor 7.  
+11	Recon Lance		Gray Death Legion		-			-	MechWarrior	Randolph Blake	2	Stinger STG-3R	N	Piloting 5, Gunnery 5.  RA 2 armor.  +3 heat.  +1 PSR.  
+12	Recon Lance		Gray Death Legion		-			-	MechWarrior Apprentice	Erin Sharpley	1	Stinger STG-3R	N	Piloting 8, Gunnery 8.  RT 3 armor.  Before a jump roll 2d6, on a 9+ jump is 2.  

@@ -1,0 +1,14 @@
+UnitName	Rolling Thunder
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Command		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	Force Captain	Gerald Cameron-Jones	4	BattleMaster BLR-1G	N	Gunnery 2, Piloting 2, Leadership 4, Body 8.  
+2	Command		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	Lieutenant	Alexandra "Lexi" Cherenkov	3	Victor VTR-9B	N	Gunnery 3, Piloting 4, Leadership 3, Body 7.  
+3	Command		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	MechWarrior	Paul DeVries	1	Hunchback HBK-4G	N	Gunnery 5, Piloting 5, Body 6.  
+4	Command		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	Junior Sergeant	Peter Jansen	3	Hermes II HER-2S	N	Gunnery 3, Piloting 3, Leadership 2, Body 7.  Max head armor 8, max LL armor 10.  
+5	Fire		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	Lieutenant	Kathryn Garrick	2	Awesome AWS-8Q	N	Gunnery 4, Piloting 4, Leadership 3, Body 7.  
+6	Fire		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	MechWarrior	Lucas McCain	2	Archer ARC-2K	N	Gunnery 4, Piloting 5, Leadership 1, Body 7.  
+7	Fire		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	MechWarrior	Mikhail Cherenkov	2	Warhammer WHM-6L	N	Gunnery 4, Piloting 5, Leaderhsip 1, Body 10.  RA PPC destroyed.  RA max armor 15.  
+8	Fire		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	MechWarrior	Robert Blackwell	2	Firestarter FS9-H	N	Gunnery 4, Piloting 5, Body 7.  
+9	Attack		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	Lieutenant	Francis Canny	1	Ostsol OTL-4D	N	Gunnery 5, Piloting 5, Body 7.  Max LA armor 3.  
+10	Attack		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	MechWarrior	Esteban Rodriguez	1	Ostroc OSR-2C	N	Gunnery 6, Piloting 7, Body 7.  SRM45 destroyed.  
+11	Attack		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	MechWarrior	Jacob "Crazy Jake" Bianco	2	Shadow Hawk SHD-2H	N	Gunnery 4, Piloting 5, Body 9.  
+12	Attack		Rolling Thunder		Eastern Star Strike		1st Regulan Hussars	The Steel Hussars	Sergeant	Anton Karlevski	3	Wolverine WVR-6M	N	Gunnery 3, Piloting 4, Leadership 3, Body 10.  

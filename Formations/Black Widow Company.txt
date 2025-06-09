@@ -1,0 +1,14 @@
+UnitName	Black Widow Company
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+1	Command Lance		Black Widow Company		-			-	Captain	Natasha Kerensky "The Black Widow"	3	Warhammer WHM-6R	N	Piloting 4, Gunnery 3.  
+2	Command Lance		Black Widow Company		-			-	MechWarrior	Colin Maclaren	3	Marauder MAD-3R	N	Piloting 4, Gunnery 3.  
+3	Command Lance		Black Widow Company		-			-	MechWarrior	Lynn Sheridan	2	Crusader CRD-3R	N	Piloting 5, Gunnery 4.  Heat +2.  
+4	Command Lance		Black Widow Company		-			-	MechWarrior	John Hayes	3	Griffin GRF-1N	N	Piloting 4, Gunnery 3.  Max jump 3 with each MP moved being 2 heat.  PPC misfires on 10+.  
+5	Ikeda's Fire Lance		Black Widow Company		-			-	Lieutenant	Takiro Ikeda	3	Archer ARC-2R	N	Piloting 4, Gunnery 3.  
+6	Ikeda's Fire Lance		Black Widow Company		-			-	MechWarrior	Miklos Delius	2	Archer ARC-2R	N	Piloting 4, Gunnery 4.  -1 Heat Sink.  LL max 10 armor.  
+7	Ikeda's Fire Lance		Black Widow Company		-			-	MechWarrior	Nikolai Koniev	3	Wasp WSP-1A	N	Piloting 4, Gunnery 3.  
+8	Ikeda's Fire Lance		Black Widow Company		-			-	MechWarrior	Alex Ward	2	Stinger STG-3R	N	Piloting 5, Gunnery 3.  MP is 5/8.  
+9	Clavell's Recon Lance		Black Widow Company		-			-	Lieutenant	John "Gentleman Johnny" Clavell	3	Rifleman RFL-3N	N	Piloting 4, Gunnery 3.  
+10	Clavell's Recon Lance		Black Widow Company		-			-	MechWarrior	Piet Nichols	2	Phoenix Hawk PXH-1K	N	Piloting 5, Gunnery 4.  LA ML generates 4 heat on 10+.  
+11	Clavell's Recon Lance		Black Widow Company		-			-	MechWarrior	Simon Fraser	3	Stinger STG-3R	N	Piloting 4, Gunnery 3.  RT max armor 4.  
+12	Clavell's Recon Lance		Black Widow Company		-			-	MechWarrior	Mohammar Jahan	3	Stinger STG-3R	N	Piloting 5, Gunnery 3.  

@@ -1,0 +1,1218 @@
+UnitName	Wolf's Dragoons
+#Index	PLT_Name	PLT_Nick	CO_Name	CO_Nick	BN_Name	BN_Nick	REG_Name	REG_Nick	Rank	Name	Quality	Unit	State	Notes
+0	Command	Wolf's Guard	Command	-	-	-	-	-	Colonel	Jaime Wolf	4	Archer ARC-2W	N	
+1	Command	Wolf's Guard	Command	-	-	-	-	-	Captain	William Cameron	4	Cyclops CP-10-Q	N	Took 2 months to modify Hermes II to replace the Cyclops and its important C3 systems.  Killed by DEST warrior on crossing.
+2	Command	Wolf's Guard	Command	-	-	-	-	-	Lieutenant	Sheila Selden	4	Wasp LAM WSP-105	N	
+3	Command	Wolf's Guard	Command	-	-	-	-	-	Lieutenant	Hans Vordel	4	Victor VTR-9B	N	
+4	Command	Wolf's Guard	Command	-	-	-	-	-	Major	Stanford Blake	4	Phoenix Hawk LAM PHX-HK2	N	
+5	Command	Wolf's Guard	Command	-	-	-	-	-	Major	Olga Kormenski	4	Marauder MAD-3R	N	
+6	1st Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Corporal	Mina Iorcuzi	4	Motorized Platoon (Laser)	N	
+7	1st Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Corporal	Walter Almee	3	Motorized Platoon (Laser)	N	
+8	1st Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Corporal	Buddy Lee Bobob	3	Motorized Platoon (Laser)	N	
+9	1st Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Lieutenant	Austin Purlow	4	Motorized Platoon (Laser)	N	
+10	1st Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Sergeant	Harold Putnam	4	Motorized Platoon (Laser)	N	
+11	2nd Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Corporal	Lawrence Landro	4	Motorized Platoon (Laser)	N	
+12	2nd Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Corporal	Inez Maguire	4	Motorized Platoon (Laser)	N	
+13	2nd Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Corporal	Bertram Allard	3	Motorized Platoon (Laser)	N	
+14	2nd Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Lieutenant	Jacob "Chesty" Wildmon	4	Motorized Platoon (Laser)	N	
+15	2nd Motorized Infantry (Laser)	-	Command	-	-	-	-	-	Sergeant	Darlene Char	4	Motorized Platoon (Laser)	N	
+16	Artillery Lance 1	-	Command	-	-	-	-	-	Captain	Harriett Ciroz	4	Packrat LRPV PKR-T5	N	
+17	Artillery Lance 1	-	Command	-	-	-	-	-	Lieutenant	Elizabeth Layton	3	Mobile Long Tom Artillery LT-MOB-25	N	
+18	Artillery Lance 1	-	Command	-	-	-	-	-	Lieutenant	Norton Sirelli	3	Mobile Long Tom Artillery LT-MOB-25	N	
+19	Artillery Lance 1	-	Command	-	-	-	-	-	Lieutenant	Beth Danzell	3	Mobile Long Tom Artillery LT-MOB-25	N	
+20	Artillery Lance 1	-	Command	-	-	-	-	-	Lieutenant	Marcus Brewer	3	Sniper Artillery Tank (Standard)	N	
+21	Artillery Lance 2	-	Command	-	-	-	-	-	Captain	Fadol Fadoul	4	Packrat LRPV PKR-T5	N	
+22	Artillery Lance 2	-	Command	-	-	-	-	-	Lieutenant	Kathy Lipscomb	4	Mobile Long Tom Artillery LT-MOB-25	N	
+23	Artillery Lance 2	-	Command	-	-	-	-	-	Lieutenant	Janice Haaken	4	Sniper Artillery Tank (Standard)	N	
+24	Artillery Lance 2	-	Command	-	-	-	-	-	Lieutenant	Brooks Gunsel	4	Sniper Artillery Tank (Standard)	N	
+25	Artillery Lance 2	-	Command	-	-	-	-	-	Lieutenant	Gene Mandamaker	3	Sniper Artillery Tank (Standard)	N	
+26	Command	-	-	-	Able	Wolf's Own	Alpha	First Team	-	Michael Alan Mulroney	3	JagerMech JM6-S	N	
+27	Command	-	-	-	Able	Wolf's Own	Alpha	First Team	-	Kenneth Sohler	3	Hermes II HER-2S	N	
+28	Command	-	-	-	Able	Wolf's Own	Alpha	First Team	Captain	Aristeo Mandujano	4	Thunderbolt TDR-5S	N	
+29	Command	-	-	-	Able	Wolf's Own	Alpha	First Team	Major	Kelly Yukinov	4	Archer ARC-2W	N	
+30	Dropship	-	-	-	Able	Wolf's Own	Alpha	First Team	-	Chieftain	-	Overlord (2762)	N	
+31	Command	-	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	-	A Tai Ng	3	Catapult CPLT-C1	N	
+32	Command	-	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	-	Terry Linzer	2	Ostsol OTL-4D	N	
+33	Command	-	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	Captain	John Charleton	4	Quickdraw QKD-5A	N	
+34	Command	-	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	Lieutenant	Tammi "Doe" O'Malley	4	Crusader CRD-3R	N	
+35	Fire	The Bad Boys	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	-	Bradley Turlow	4	Vulcan VL-5T	N	
+36	Fire	The Bad Boys	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	-	Jennifer Huan	4	Clint CLNT-2-3T	N	
+37	Fire	The Bad Boys	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	Lieutenant	Carl "Cap" Zedrow	4	Rifleman RFL-3N	N	
+38	Fire	The Bad Boys	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	Sergeant	Trent Pozner	4	Phoenix Hawk PXH-1	N	
+39	Light	The Gnats	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	-	Gordon Perlman	4	Panther PNT-9R	N	
+40	Light	The Gnats	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	Lieutenant	Ivan Druzinski	4	Wasp WSP-1W	N	
+41	Light	The Gnats	Charleton's	The Silver Bears	Able	Wolf's Own	Alpha	First Team	Sergeant	Deacon "Deke" Smith	4	Hornet HNT-151	N	
+42	1st Armored Support	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Lieutenant	Mordecai Bonner	4	Von Luckner Heavy Tank (Standard)	N	
+43	1st Armored Support	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Sergeant	Phillip Darrow	4	Von Luckner Heavy Tank (Standard)	N	
+44	1st Armored Support	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Sergeant	Chang Sun Wan	3	Von Luckner Heavy Tank (Standard)	N	
+45	1st Armored Support	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Sergeant	Emis Fortescue	3	Ontos Heavy Tank (Standard)	N	
+46	1st Armored Support	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Sergeant	Zachary Bonner	3	Ontos Heavy Tank (Standard)	N	
+47	Attack	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	-	Kerri Tennler	3	Grasshopper GHR-5H	N	
+48	Attack	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	-	Arnold Morrow	2	Rifleman RFL-3N	N	
+49	Attack	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Lieutenant	Austin Lee Jennings	4	Marauder MAD-3R	N	
+50	Attack	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Sergeant	Brandy Mohammed	4	Archer ARC-2W	N	
+51	Command	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	-	Howard Lorrel	3	Zeus ZEU-6S	N	
+52	Command	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	-	Steven Barrows	3	Awesome AWS-8Q	N	
+53	Command	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Captain	Lucas Kenner	4	Marauder II MAD-4A	N	
+54	Command	-	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Lieutenant	Ariana Foster	3	Atlas AS7-D	N	
+55	Heavy	The Cataphracts	Kenner's	-	Able	Wolf's Own	Alpha	First Team	-	Drew Puller	3	Warhammer WHM-6R	N	
+56	Heavy	The Cataphracts	Kenner's	-	Able	Wolf's Own	Alpha	First Team	-	Kingsley Mennor	3	Warhammer WHM-6R	N	
+57	Heavy	The Cataphracts	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Lieutenant	Florence Milhaus	4	Battlemaster BLR-1G	N	
+58	Heavy	The Cataphracts	Kenner's	-	Able	Wolf's Own	Alpha	First Team	Sergeant	Quarrel Ghanjia	4	Stalker STK-3F	N	
+59	Armored Support	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Lieutenant	Maurice "Tripper" Tripp	4	Saracen Medium Hover Tank (Standard)	N	
+60	Armored Support	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Sergeant	Corey Shippley	4	Scimitar Medium Hover Tank (Missile)	N	
+61	Armored Support	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Sergeant	Edward Murakamo	3	Scimitar Medium Hover Tank (Standard)	N	
+62	Armored Support	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Sergeant	Kamar Breen	3	Saladin Assault Hover Tank (Standard)	N	
+63	Armored Support	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Sergeant	Renee Torianno	2	Saladin Assault Hover Tank (Standard)	N	
+64	Command	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	-	Linda Firhammi	3	Scorpion SCP-1N	N	
+65	Command	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	-	Theresa Jones	3	Phoenix Hawk LAM PHX-HK2	N	
+66	Command	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Captain	Lauren Waller	4	Wolverine WVR-6R	N	
+67	Command	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Lieutenant	Charles MacGuyver	4	Shadow Hawk SHD-2H	N	
+68	Jump Infantry Support (Flamer)	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Corporal	Howell Rizanjani	4	Jump Platoon (Flamer)	N	
+69	Jump Infantry Support (Flamer)	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Corporal	Carol Ilhano	4	Jump Platoon (Flamer)	N	
+70	Jump Infantry Support (Flamer)	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Corporal	Robert Irving	3	Jump Platoon (Flamer)	N	
+71	Jump Infantry Support (Flamer)	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Lieutenant	Coleen Saar	4	Jump Platoon (Flamer)	N	
+72	Jump Infantry Support (Flamer)	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Sergeant	Garth Gregg	4	Jump Platoon (Flamer)	N	
+73	Light	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	-	Jason MacAuliffe	3	Stinger STG-3R	N	
+74	Light	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	-	John Brett	3	Ostscout OTT-7J	N	
+75	Light	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Lieutenant	Corwin Grimaldi	4	Assassin ASN-21	N	
+76	Light	-	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Sergeant	Jean-Michael Cheval	3	Flea FLE-15	N	
+77	Recon	Swift West Wind	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	-	Ulzanna Whitehand	3	Flea FLE-15	N	
+78	Recon	Swift West Wind	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	-	Martin Cummings	3	Ostscout OTT-7J	N	
+79	Recon	Swift West Wind	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Lieutenant	Saburo Akanuki	4	Firefly FFL-4A	N	
+80	Recon	Swift West Wind	Waller's	Waller's Wailers	Able	Wolf's Own	Alpha	First Team	Sergeant	Adreana Campbell	4	Spider SDR-5V	N	
+81	Command	-	-	-	Baker	The Red Devils	Alpha	First Team	-	David Coggins	3	Dervish DV-6M	N	
+82	Command	-	-	-	Baker	The Red Devils	Alpha	First Team	-	Samuel "Silent" Kepper	3	Thunderbolt TDR-5S	N	
+83	Command	-	-	-	Baker	The Red Devils	Alpha	First Team	Captain	Eugene Durrin	4	Archer ARC-2W	N	
+84	Command	-	-	-	Baker	The Red Devils	Alpha	First Team	Major	Patrick Chan	4	Crusader CRD-3L	N	
+85	Dropship	-	-	-	Baker	The Red Devils	Alpha	First Team	-	Talleyrand	-	Overlord (2762)	N	
+86	Command	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	-	Donal Cameron	3	Javelin JVN-10N	N	
+87	Command	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	-	Donald McDonald	3	Javelin JVN-10N	N	
+88	Command	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	Captain	Dechan Fraser	4	Shadow Hawk SHD-2H	N	
+89	Command	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	Lieutenant	Maximillian Edwards	4	Whitworth WTH-1	N	
+90	Heavy	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	-	Calvin Wakeman	3	Trebuchet TBT-5N	N	
+91	Heavy	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	-	Vladimir Andrionov	3	Crusader CRD-3R	N	
+92	Heavy	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	Lieutenant	Candace "Tigress" Halstron	4	Marauder MAD-3R	N	
+93	Heavy	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	Sergeant	Marlisa Giodo	4	Catapult CPLT-C1	N	
+94	Medium	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	-	Keith Gatlin	3	Ostscout OTT-7J	N	
+95	Medium	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	-	Gilbert Ohman	2	Cicada CDA-2A	N	
+96	Medium	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	Lieutenant	Thomas West	4	Griffin GRF-1N	N	
+97	Medium	-	Fraser's	The Hackers	Baker	The Red Devils	Alpha	First Team	Sergeant	Thomas Dominguez	4	Wolverine WVR-6R	N	
+98	Aerospace	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	-	Thomas "Top Hat" Gordon	3	Thrush TR-7	N	
+99	Aerospace	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Lieutenant	Sidney "Jackrabbit" Moskowitz	4	Thrush TR-7	N	
+100	Command	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	-	Ramon Escalero	3	Hornet HNT-151	N	
+101	Command	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	-	Shaheen Muhmet	3	Stinger STG-3R	N	
+102	Command	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Captain	Amy Laskowski	4	Crusader CRD-3L	N	
+103	Command	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Lieutenant	Marlon Snyder	3	Valkyrie VLK-QA	N	
+104	Jump Infantry Support (SRM)	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Corporal	Pitney Immel	4	Jump Platoon (SRM)	N	
+105	Jump Infantry Support (SRM)	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Corporal	Astrea Rivera	4	Jump Platoon (SRM)	N	
+106	Jump Infantry Support (SRM)	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Corporal	Kip Jenkins	3	Jump Platoon (SRM)	N	
+107	Jump Infantry Support (SRM)	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Lieutenant	Reginald Camm	4	Jump Platoon (SRM)	N	
+108	Jump Infantry Support (SRM)	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Sergeant	Pieter Weiszhoffen	4	Jump Platoon (SRM)	N	
+109	Light	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	-	Hazekiah Walden	3	Wasp WSP-1A	N	
+110	Light	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	-	Lucius Blumburg	4	Hornet HNT-151	N	
+111	Light	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Lieutenant	Jobeth Hogan	4	Hornet HNT-151	N	
+112	Light	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Sergeant	Topol Ivanovoff	4	Firefly FFL-4A	N	
+113	Recon	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	-	Malcolm Spence	3	Shadow Hawk SHD-2H	N	
+114	Recon	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	-	Jenette Rand	3	Dervish DV-6M	N	
+115	Recon	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Lieutenant	Eric Fokker	4	Phoenix Hawk PXH-1	N	
+116	Recon	-	Laskowski's	The Scouts	Baker	The Red Devils	Alpha	First Team	Sergeant	Gina Chandler	3	Hornet HNT-151	N	
+117	Command	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	-	Natao Kuribiashi	4	Quickdraw QKD-5A	N	
+118	Command	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	-	Arthur Simpson	3	JagerMech JM6-S	N	
+119	Command	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	Captain	Douglas MacElroy	4	Archer ARC-2W	N	
+120	Command	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	Lieutenant	Steward Adams	4	Archer ARC-2W	N	
+121	Fire	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	-	Lance Chapel	3	Rifleman RFL-3N	N	
+122	Fire	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	-	Jessica Morton-Kane	3	Whitworth WTH-1	N	
+123	Fire	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	-	Kenneth Tremmel	2	Crusader CRD-3R	N	
+124	Fire	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	Lieutenant	Rhonda Himmel	4	Thunderbolt TDR-5S	N	
+125	Recon	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	-	David "Duke" Sheen	2	Locust LCT-1V	N	
+126	Recon	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	-	Gilbert Torelli	2	Wasp WSP-1A	N	
+127	Recon	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	Lieutenant	Jack "Jock" Viremo	4	Valkyrie VLK-QA	N	
+128	Recon	-	MacElroy's	-	Baker	The Red Devils	Alpha	First Team	Sergeant	Bonnie Ho	3	Stinger STG-3R	N	
+129	Command	-	-	-	Charlie	The Pathfinders	Alpha	First Team	-	Said Muhara	3	Warhammer WHM-6R	N	
+130	Command	-	-	-	Charlie	The Pathfinders	Alpha	First Team	-	Nora Echols	3	Shogun SHG-2E	N	
+131	Command	-	-	-	Charlie	The Pathfinders	Alpha	First Team	Captain	Craig Lucas	4	Archer ARC-2W	N	
+132	Command	-	-	-	Charlie	The Pathfinders	Alpha	First Team	Major	Coshasa DuKirk	4	Battlemaster BLR-1G	N	
+133	Dropship	-	-	-	Charlie	The Pathfinders	Alpha	First Team	-	Mentasta	-	Union (2708)	N	
+134	Dropship	-	-	-	Charlie	The Pathfinders	Alpha	First Team	-	Gloire	-	Union (2708)	N	
+135	Dropship	-	-	-	Charlie	The Pathfinders	Alpha	First Team	-	Preussen	-	Union (2708)	N	
+136	Assault	The Gurkhas	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	-	Sal Field	3	Goliath GOL-1H	N	
+137	Assault	The Gurkhas	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	-	Gordon Zedrow	3	Marauder II MAD-4A	N	Listed as Behemoth, but Herb on the CBT forums said use a Marauder II instead.
+138	Assault	The Gurkhas	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	William Fish	4	Shogun SHG-2E	N	
+139	Assault	The Gurkhas	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Demi Bannock	4	Stalker STK-3F	N	
+140	Command	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	-	Himo Mandalla	3	Marauder MAD-3R	N	
+141	Command	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	-	Charles Zukarov	3	Stalker STK-3H	N	
+142	Command	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	Captain	Theron Branson	4	Atlas AS7-D	N	
+143	Command	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Alice Sumner	3	Awesome AWS-8Q	N	
+144	Heavy	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	-	Timothy Simmons	2	Rifleman RFL-3N	N	
+145	Heavy	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	-	Ito Shukima-Garrity	2	Hoplite HOP-4C	N	
+146	Heavy	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Norman Stein	3	Battlemaster BLR-1G	N	
+147	Heavy	-	Branson's	-	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Erica Caputo	3	Warhammer WHM-6R	N	
+148	Aerospace	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Michael "Bullseye" Kyle	3	Sholagar SL-21	N	
+149	Aerospace	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Julia "Hellcat" Norton	3	Sholagar SL-21	N	
+150	Command	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Percival Rummel	3	Javelin JVN-10N	N	
+151	Command	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	James Walters	3	Firefly FFL-4A	N	
+152	Command	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Captain	Kristen Stane	4	Phoenix Hawk PXH-1	N	
+153	Command	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Constantine Ellerby	3	Valkyrie VLK-QA	N	
+154	Fire	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Earl Schweitz	2	Clint CLNT-2-3T	N	
+155	Fire	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Haskins Lawrence	2	Locust LCT-1V	N	
+156	Fire	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Stanley "Texas" Havelock	4	Ostscout OTT-7J	N	
+157	Fire	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Andrea "Mouse" Sheets	4	Stinger STG-3G	N	
+158	LAM	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Kohler Valens	3	Stinger LAM STG-A5	N	
+159	LAM	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Maurice "Tripper" Months	2	Stinger LAM STG-A5	N	
+160	LAM	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Susanna Irmoz	4	Wasp LAM WSP-105	N	
+161	LAM	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Christopher Subhar	3	Wasp LAM WSP-105	N	
+162	Recon	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Deborah Hart	2	Stinger STG-3R	N	
+163	Recon	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	-	Pala Sunim	3	Falcon FLC-4N	N	
+164	Recon	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Miriam Rappaport	4	Locust LCT-1V	N	
+165	Recon	-	Stane's	-	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Ma Prem Isabel	3	Commando COM-2D	N	
+166	Command	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	-	Leslie Grubbick	3	Ostsol OTL-4D	N	
+167	Command	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	-	James Buck	3	Ostroc OSR-2C	N	
+168	Command	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Captain	Ataru Uchimaya	4	JagerMech JM6-S	N	EXCELLENT commander, who kept all but himself alive at misery
+169	Command	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Vincent Timmons	4	Cyclops CP-10-Q	N	
+170	Fire	The Flankers	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	-	Ernest Cameron	3	Enforcer ENF-4R	N	
+171	Fire	The Flankers	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	-	Douglas Dominguez	2	Quickdraw QKD-4G	N	
+172	Fire	The Flankers	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Roxanne Tyne	4	Griffin GRF-1N	N	
+173	Fire	The Flankers	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Kerry Tennler	3	Catapult CPLT-C1	N	
+174	Heavy	The Long Rifles	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	-	Maurice "Tripper" Shipman	3	Hoplite HOP-4C	N	
+175	Heavy	The Long Rifles	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	-	Phillip Burrows	3	Thunderbolt TDR-5S	N	
+176	Heavy	The Long Rifles	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	John McDonald	4	Warhammer WHM-6R	N	
+177	Heavy	The Long Rifles	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Melissa "Missy" Melman	3	Enforcer ENF-4R	N	
+178	Jump Infantry Support (Flamer)	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Corporal	Gunther Bideau	4	Jump Platoon (Flamer)	N	
+179	Jump Infantry Support (Flamer)	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Corporal	Ray Abruzzio	3	Jump Platoon (Flamer)	N	
+180	Jump Infantry Support (Flamer)	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Corporal	Warren Robb	3	Jump Platoon (Flamer)	N	
+181	Jump Infantry Support (Flamer)	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Lieutenant	Zhubin Tzarovich	4	Jump Platoon (Flamer)	N	
+182	Jump Infantry Support (Flamer)	-	Uchimaya's	The Swarm	Charlie	The Pathfinders	Alpha	First Team	Sergeant	Tyler McKay	4	Jump Platoon (Flamer)	N	
+183	Dropship	-	-	-	-	-	Beta	-	-	Luanda	-	Fortress (2613)	N	
+184	1st Motorized Infantry (Laser)	-	Command	-	-	-	Beta	-	Corporal	Elgin Spravzoff	4	Motorized Platoon (Laser)	N	
+185	1st Motorized Infantry (Laser)	-	Command	-	-	-	Beta	-	Corporal	Scott Jannack	4	Motorized Platoon (Laser)	N	
+186	1st Motorized Infantry (Laser)	-	Command	-	-	-	Beta	-	Lieutenant	Joseph Mayer	4	Motorized Platoon (Laser)	N	
+187	1st Motorized Infantry (Laser)	-	Command	-	-	-	Beta	-	Sergeant	Hermione Shelton	4	Motorized Platoon (Laser)	N	
+188	Artillery Lance 1	-	Command	-	-	-	Beta	-	Captain	Michael Busey	4	Bandit Hovercraft Prime	N	
+189	Artillery Lance 1	-	Command	-	-	-	Beta	-	Lieutenant	Seth Foreman	4	Mobile Long Tom Artillery LT-MOB-25	N	
+190	Artillery Lance 1	-	Command	-	-	-	Beta	-	Lieutenant	Bradley Dunnevant	3	Mobile Long Tom Artillery LT-MOB-25	N	
+191	Artillery Lance 1	-	Command	-	-	-	Beta	-	Lieutenant	Sheldon "Rocky" Dreyer	4	Sniper Artillery Tank (Standard)	N	
+192	Artillery Lance 2	The Plumbers	Command	-	-	-	Beta	-	Captain	Gerald Landrey	4	Bandit Hovercraft Prime	N	
+193	Artillery Lance 2	The Plumbers	Command	-	-	-	Beta	-	Lieutenant	Austin Lee Montague	4	Sniper Artillery Tank (Standard)	N	
+194	Artillery Lance 2	The Plumbers	Command	-	-	-	Beta	-	Lieutenant	Obioha Oheato	3	Sniper Artillery Tank (Standard)	N	
+195	Artillery Lance 2	The Plumbers	Command	-	-	-	Beta	-	Lieutenant	Louis Trochia	3	Thumper Artillery Vehicle (Standard)	N	
+196	Artillery Lance 2	The Plumbers	Command	-	-	-	Beta	-	Lieutenant	Vincent Jansek	3	Thumper Artillery Vehicle (Standard)	N	
+197	Command	-	Command	-	-	-	Beta	-	-	Sean Finney	4	Warhammer WHM-6R	N	
+198	Command	-	Command	-	-	-	Beta	-	Captain	Noah Grimm	4	Dervish DV-6M	N	
+199	Command	-	Command	-	-	-	Beta	-	Colonel	Andrei Shostokovitch	4	Battlemaster BLR-1G	N	
+200	Command	-	Command	-	-	-	Beta	-	Lieutenant	Jeffrey Odoms	4	Ostsol OTL-4D	N	
+201	Fire	-	Command	-	-	-	Beta	-	-	Gerald Madeux	4	Trebuchet TBT-5N	N	
+202	Fire	-	Command	-	-	-	Beta	-	Lieutenant	Calvin Jenkins	4	Hunchback HBK-4G	N	
+203	Fire	-	Command	-	-	-	Beta	-	Sergeant	Evita "Smokey" Ibarra	4	Griffin GRF-1N	N	
+204	Command	-	-	-	Able	The Cavaliers	Beta	-	-	Julia "Hellcat" Bonet	4	Atlas AS7-D	N	
+205	Command	-	-	-	Able	The Cavaliers	Beta	-	-	Grover Thill	3	Banshee BNC-3E	N	
+206	Command	-	-	-	Able	The Cavaliers	Beta	-	Captain	Phantoulath "Phan" Thilavanh	4	Awesome AWS-8Q	N	
+207	Command	-	-	-	Able	The Cavaliers	Beta	-	Major	Alicia Fancher	4	Warhammer WHM-6R	N	
+208	Dropship	-	-	-	Able	The Cavaliers	Beta	-	-	Fitzlyon	-	Overlord (2762)	N	
+209	Armored Support	-	Bray's	-	Able	The Cavaliers	Beta	-	Lieutenant	Leotta Aizeolla	4	Pegasus Scout Hover Tank (Standard)	N	
+210	Armored Support	-	Bray's	-	Able	The Cavaliers	Beta	-	Sergeant	Waler Seid	4	Pegasus Scout Hover Tank (Standard)	N	
+211	Armored Support	-	Bray's	-	Able	The Cavaliers	Beta	-	Sergeant	Eugene Segren	4	Pegasus Scout Hover Tank (Standard)	N	
+212	Armored Support	-	Bray's	-	Able	The Cavaliers	Beta	-	Sergeant	Scott Weese	3	J. Edgar Light Hover Tank (Standard)	N	
+213	Armored Support	-	Bray's	-	Able	The Cavaliers	Beta	-	Sergeant	Anthony Grazier	2	J. Edgar Light Hover Tank (Standard)	N	
+214	Command	-	Bray's	-	Able	The Cavaliers	Beta	-	-	Lilith Lang	4	Hermes II HER-2S	N	
+215	Command	-	Bray's	-	Able	The Cavaliers	Beta	-	-	Nicholas Wrigley-Cross	3	Wolfhound WLF-1	N	
+216	Command	-	Bray's	-	Able	The Cavaliers	Beta	-	Captain	Gene Bray	4	Thunderbolt TDR-5S	N	
+217	Command	-	Bray's	-	Able	The Cavaliers	Beta	-	Lieutenant	Perry Norton	4	Crusader CRD-3R	N	
+218	Light	The Rainmakers	Bray's	-	Able	The Cavaliers	Beta	-	-	Mehraban Jazzabi	3	Wasp WSP-1A	N	
+219	Light	The Rainmakers	Bray's	-	Able	The Cavaliers	Beta	-	-	Henry Callahan	3	Stinger STG-3R	N	
+220	Light	The Rainmakers	Bray's	-	Able	The Cavaliers	Beta	-	Lieutenant	Wyatt "Kansas" Kenyon	4	Phoenix Hawk PXH-1	N	
+221	Light	The Rainmakers	Bray's	-	Able	The Cavaliers	Beta	-	Sergeant	Shannon "Peak" Vernon	4	Firefly FFL-4A	N	
+222	Recon	-	Bray's	-	Able	The Cavaliers	Beta	-	-	Jim Theiss	4	Javelin JVN-10F "Fire Javelin"	N	
+223	Recon	-	Bray's	-	Able	The Cavaliers	Beta	-	-	Grignar Elcord	3	Wasp WSP-1A	N	
+224	Recon	-	Bray's	-	Able	The Cavaliers	Beta	-	Lieutenant	Elton Zuroffo	4	Wasp WSP-1W	N	
+225	Recon	-	Bray's	-	Able	The Cavaliers	Beta	-	Sergeant	Ariel Myslavski	4	Spider SDR-5V	N	
+226	Aerospace	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	-	Richard "Bear" Stark	3	Transit TR-10	N	
+227	Aerospace	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	Lieutenant	Warren "Viper" Windsor	4	Transit TR-10	N	
+228	Command	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	-	Zebulon Gross	3	Ostsol OTL-4D	N	
+229	Command	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	-	Fionna Brinn	3	Hoplite HOP-4C	N	
+230	Command	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	Captain	Ward St. John	4	Marauder MAD-3R	N	
+231	Command	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	Lieutenant	Braha Mudavi	4	Archer ARC-2W	N	
+232	Fire	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	-	Darnell Winningham	3	Enforcer ENF-4R	N	
+233	Fire	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	-	Irving Graley	3	Archer ARC-2R	N	
+234	Fire	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	Lieutenant	Val Conner	4	Griffin GRF-1N	N	
+235	Fire	-	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	Sergeant	Adam Striker	3	Shadow Hawk SHD-2H	N	
+236	Medium	The Woodchucks	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	-	Jex Farnam	3	Phoenix Hawk PXH-1	N	
+237	Medium	The Woodchucks	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	-	Andrew Natal	3	Phoenix Hawk PXH-1	N	
+238	Medium	The Woodchucks	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	Lieutenant	Chad Blackstone	4	Ostroc OSR-2C	N	
+239	Medium	The Woodchucks	St. John's	The Snow Leopards	Able	The Cavaliers	Beta	-	Sergeant	Jumo Konanama	4	Wolverine WVR-6R	N	
+240	1st Armored Support	The Deathtracks	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Lieutenant	Joan "Dancer" Ford	4	SturmFeur Heavy Tank (Standard)	N	
+241	1st Armored Support	The Deathtracks	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Yi Kow Song	4	SturmFeur Heavy Tank (Standard)	N	
+242	1st Armored Support	The Deathtracks	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Lynn-Marie Halwell	3	SturmFeur Heavy Tank (Standard)	N	
+243	1st Armored Support	The Deathtracks	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Pamela Dekker	4	Schrek PPC Carrier (Standard)	N	
+244	1st Armored Support	The Deathtracks	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Gil Tarnower	3	Schrek PPC Carrier (Standard)	N	
+245	2nd Armored Support	Eagle's Eagles	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Lieutenant	Johnny Eagle	4	Behemoth Heavy Tank (Standard)	N	
+246	2nd Armored Support	Eagle's Eagles	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Thran Van Tsiu	4	Behemoth Heavy Tank (Standard)	N	
+247	2nd Armored Support	Eagle's Eagles	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Anna Trowell	3	Behemoth Heavy Tank (Standard)	N	
+248	2nd Armored Support	Eagle's Eagles	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Emil Zandt	4	Demolisher Heavy Tank (Standard, Mk. II)	N	
+249	2nd Armored Support	Eagle's Eagles	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Salvador Juarez	3	Demolisher Heavy Tank (Standard, Mk. II)	N	
+250	Command	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	-	Zedra Hall	4	Imp IMP-2E	N	
+251	Command	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	-	Charles Pitney-Johnson	3	Zeus ZEU-6S	N	
+252	Command	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Captain	John Umaio	4	Battlemaster BLR-1G	N	
+253	Command	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Lieutenant	Richard "Clop" Clopton	4	Goliath GOL-1H	N	
+254	Fire	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	-	Clive "London" Tanner	4	Warhammer WHM-6R	N	
+255	Fire	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	-	Victor MacLane	2	Rifleman RFL-3N	N	
+256	Fire	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Lieutenant	Danielle Montclair	4	Shogun SHG-2E	N	
+257	Fire	-	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Ivan Dvirovitch	4	Catapult CPLT-C1	N	
+258	Heavy	The Headsmen	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	-	Meryl O'Calahan	3	Annihilator ANH-2A	N	
+259	Heavy	The Headsmen	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	-	Tom Peterson	3	Crusader CRD-3R	N	
+260	Heavy	The Headsmen	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Lieutenant	Frima "Wishbone" Kawanala	4	Marauder MAD-3R	N	
+261	Heavy	The Headsmen	Umaio's	The Reapers	Able	The Cavaliers	Beta	-	Sergeant	Robert Rivinni	4	Archer ARC-2W	N	
+262	Command	-	-	-	Baker	The Heartbreakers	Beta	-	-	Milo Ramsay	3	Hoplite HOP-4C	N	
+263	Command	-	-	-	Baker	The Heartbreakers	Beta	-	-	Barney Vanelli	3	Ostroc OSR-2C	N	
+264	Command	-	-	-	Baker	The Heartbreakers	Beta	-	Captain	Andrea Dugan	4	Griffin GRF-1N	N	
+265	Command	-	-	-	Baker	The Heartbreakers	Beta	-	Major	Michael Hart	4	Archer ARC-2W	N	
+266	Dropship	-	-	-	Baker	The Heartbreakers	Beta	-	-	Kursk	-	Overlord (2762)	N	
+267	Command	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	-	David Thurston	4	Annihilator ANH-2A	N	
+268	Command	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	-	Fouad ibn Fasha	3	Crusader CRD-3R	N	
+269	Command	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	Captain	Susanna Flandrey	4	Thunderbolt TDR-5S	N	
+270	Command	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Torvald Feller	4	Archer ARC-2W	N	
+271	Fire	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	-	Jed Snyder	4	Catapult CPLT-C1	N	
+272	Fire	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	-	Eileen Hatter	3	Crusader CRD-3R	N	
+273	Fire	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	-	Coleen Hansen	4	Rifleman RFL-3N	N	
+274	Fire	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Elwin Hawke	4	Archer ARC-2W	N	
+275	Recon	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	-	Claudia Gersbach	3	Falcon FLC-4N	N	
+276	Recon	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	-	Michael Huhndorff	4	Wasp WSP-1W	N	
+277	Recon	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Joseph Ochs	4	Commando COM-2D	N	
+278	Recon	-	Flandrey's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Danielle Hyatt	4	Wasp WSP-1W	N	
+279	Armored Support	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Calzona Oldham	4	Striker Light Tank (SRM)	N	
+280	Armored Support	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Tom Anctow	4	Striker Light Tank (SRM)	N	
+281	Armored Support	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Gleen Manning	4	Striker Light Tank (SRM)	N	
+282	Armored Support	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Carolynn Defazio	4	Hetzer Wheeled Assault Gun (Standard)	N	
+283	Armored Support	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Samho Evers	3	Hetzer Wheeled Assault Gun (Standard)	N	
+284	Command	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	-	Michael Gallagher	4	Flea FLE-15	N	
+285	Command	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	-	Oriella Muheem	3	Commando COM-2D	N	
+286	Command	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Captain	Ramon Magdaleno	4	Phoenix Hawk PXH-1	N	
+287	Command	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Drew "Easy Lanier	4	Locust LCT-1V	N	
+288	Jump Infantry Support (Flamer)	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Corporal	Patrick Emmerson	4	Jump Platoon (Flamer)	N	
+289	Jump Infantry Support (Flamer)	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Corporal	Kirk Johansen	3	Jump Platoon (Flamer)	N	
+290	Jump Infantry Support (Flamer)	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Corporal	Sarah Honer	3	Jump Platoon (Flamer)	N	
+291	Jump Infantry Support (Flamer)	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Dom "Junction" Silvers	4	Jump Platoon (Flamer)	N	
+292	Jump Infantry Support (Flamer)	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Oscar Vrun	4	Jump Platoon (Flamer)	N	
+293	Light	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	-	Piter Durst	3	Jenner JR7-D	N	
+294	Light	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	-	Darna Falurian	4	Locust LCT-1V	N	
+295	Light	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Susanna Forhill	4	Jenner JR7-D	N	
+296	Light	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Hei Pon	4	Wasp WSP-1W	N	
+297	Recon	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	-	Ira Kindrick	4	Stinger STG-3G	N	
+298	Recon	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	-	Zelda Hueusinkvald	2	Valkyrie VLK-QA	N	
+299	Recon	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	-	Kurt Brunner	4	Stinger LAM STG-A5	N	
+300	Recon	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Lester Malawsky	4	Firefly FFL-4A	N	
+301	Recon	-	Magdaleno's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Gordon "Buck" Manney	4	Wasp WSP-1W	N	
+302	Command	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	-	Wynona Twopine	3	Rifleman RFL-3N	N	
+303	Command	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	-	Maurice Hickey	3	Thunderbolt TDR-5S	N	
+304	Command	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	Captain	Michael Vanduesen	4	Commando COM-2D	N	
+305	Command	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Jenny Tyler	4	Marauder MAD-3R	N	
+306	Fire	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	-	Menam Sabra	3	Crusader CRD-3R	N	
+307	Fire	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	-	Paul Orville	2	Crusader CRD-3R	N	
+308	Fire	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Horace Tapp	3	Battlemaster BLR-1G	N	
+309	Fire	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Angus MacTavish	3	Marauder MAD-3R	N	
+310	Recon	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	-	Milo Maddox	2	Wolfhound WLF-1	N	
+311	Recon	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	-	Herbert Carp	3	Wasp WSP-1A	N	
+312	Recon	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	Lieutenant	Robert Goldin	4	Commando COM-2D	N	
+313	Recon	-	Vanduesen's	-	Baker	The Heartbreakers	Beta	-	Sergeant	Grieg Selivanov	4	Panther PNT-9R	N	
+314	Command	-	-	-	Charlie	The Red Guard	Beta	-	-	Glen Waters	3	Warhammer WHM-6R	N	
+315	Command	-	-	-	Charlie	The Red Guard	Beta	-	Captain	Loan Bassura	4	Archer ARC-2W	N	
+316	Command	-	-	-	Charlie	The Red Guard	Beta	-	Lieutenant	Bradford Sealeyham	4	Archer ARC-2W	N	
+317	Command	-	-	-	Charlie	The Red Guard	Beta	-	Major	Anton Ivanovitch	4	Marauder II MAD-4A	N	
+318	Dropship	-	-	-	Charlie	The Red Guard	Beta	-	-	Duke Torgal	-	Overlord (2762)	N	
+319	Armored Support	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Lieutenant	Emmett Quincey	4	Partisan Air Defense Tank (Standard)	N	
+320	Armored Support	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Sergeant	Clayton Banner	3	Partisan Air Defense Tank (Standard)	N	
+321	Armored Support	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Sergeant	LeAnn Durrell	3	Partisan Air Defense Tank (Standard)	N	
+322	Armored Support	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Sergeant	Donald Blessings	3	Ontos Heavy Tank (Standard)	N	
+323	Armored Support	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Sergeant	Zubin Martell	3	Ontos Heavy Tank (Standard)	N	
+324	Command	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	-	Vudo Kamazawe	3	Stalker STK-3H	N	
+325	Command	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	-	Eno Pollet	3	Marauder MAD-3R	N	
+326	Command	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Captain	Daniella Rondema	4	Atlas AS7-D	N	
+327	Command	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Lieutenant	Madelaine Dubrowski	4	Imp IMP-2E	N	
+328	Fire	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	-	Judge McKay	2	Shogun SHG-2E	N	
+329	Fire	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	-	Bali Tollman	2	Shadow Hawk SHD-2H	N	
+330	Fire	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Lieutenant	Nabila Baydarra	4	Hoplite HOP-4B	N	
+331	Fire	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Sergeant	Simon Peset	3	Hoplite HOP-4C	N	
+332	Heavy	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	-	Mirikova Aldman	3	Ostroc OSR-2C	N	
+333	Heavy	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	-	Wesley Bryan	3	Ostsol OTL-4D	N	
+334	Heavy	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Lieutenant	Dmitri "Borzoi" Speletnikov	4	Grasshopper GHR-5H	N	
+335	Heavy	-	Rondema's	Rondema's Roughnecks	Charlie	The Red Guard	Beta	-	Sergeant	Homer Vozol	4	Dragon DRG-1N	N	
+336	Aerospace	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	-	Rubin "Switchblade" Norris	4	Cheetah F-10	N	
+337	Aerospace	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	Lieutenant	Clarence "Sweep" Lamond	4	Cheetah F-10	N	
+338	Command	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	-	Leslie Grubbick	3	Ostsol OTL-4D	N	
+339	Command	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	-	James Buck	3	Ostroc OSR-2C	N	
+340	Command	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	Captain	Rick Stoner	4	Orion ON1-K	N	
+341	Command	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	Lieutenant	Vincent Timmons	4	Dragon DRG-1N	N	
+342	Fire	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	-	Andrea Jones	3	Centurion CN9-A	N	
+343	Fire	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	-	Graham Quiller	3	Trebuchet TBT-5N	N	
+344	Fire	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	Lieutenant	Gordon Stock	4	Whitworth WTH-1	N	
+345	Fire	-	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	Sergeant	Ned Woller	3	Vindicator VND-1R	N	
+346	Recon	The Flashers	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	-	Andrew Koll	2	Locust LCT-1V	N	
+347	Recon	The Flashers	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	-	Zebulon Potts	1	Wasp WSP-1A	N	
+348	Recon	The Flashers	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	Lieutenant	Sun Kinney	3	Ostscout OTT-7J	N	
+349	Recon	The Flashers	Stoner's	The Rolling Stones	Charlie	The Red Guard	Beta	-	Sergeant	Jessie Webb	3	Javelin JVN-10N	N	
+350	Armored Support	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Lieutenant	Katherine Hilman	4	Saladin Assault Hover Tank (Armor)	N	
+351	Armored Support	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Sergeant	Ossian Verdugo	4	Saladin Assault Hover Tank (Armor)	N	
+352	Armored Support	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Sergeant	Birdwell "Bird" Dunningan	3	Scimitar Medium Hover Tank (Standard)	N	
+353	Armored Support	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Sergeant	Maurice Chelm	3	Scimitar Medium Hover Tank (Standard)	N	
+354	Armored Support	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Sergeant	Peter Black	3	Scimitar Medium Hover Tank (Standard)	N	
+355	Command	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	-	Walter Light	3	Whitworth WTH-1	N	
+356	Command	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	-	Gregg "Blues" Korian	3	Cicada CDA-2A	N	
+357	Command	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Captain	Tony Ziulkovski	4	Hoplite HOP-4B	N	
+358	Command	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Lieutenant	Oliver Hozell	4	Assassin ASN-21	N	
+359	Fire	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	-	Wendy Hayes	2	Trebuchet TBT-5N	N	
+360	Fire	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	-	Arnold "Lucky" Starr	3	Enforcer ENF-4R	N	
+361	Fire	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Lieutenant	Harold Butler	4	Whitworth WTH-1	N	
+362	Fire	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Sergeant	Robert "Doneval Bob" Suarez	4	Centurion CN9-A	N	
+363	Jump Infantry Support (Flamer)	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Corporal	Kathy Kiomura	4	Jump Platoon (Flamer)	N	
+364	Jump Infantry Support (Flamer)	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Corporal	Peter Schulberg	3	Jump Platoon (Flamer)	N	
+365	Jump Infantry Support (Flamer)	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Corporal	Katherine "Babushka" Norton	4	Jump Platoon (Flamer)	N	
+366	Jump Infantry Support (Flamer)	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Lieutenant	Lloyd Anderson	4	Jump Platoon (Flamer)	N	
+367	Jump Infantry Support (Flamer)	-	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Sergeant	John Tuttle	4	Jump Platoon (Flamer)	N	
+368	Recon	The In-and-Out Gang	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	-	Sean Murphy	3	Panther PNT-9R	N	
+369	Recon	The In-and-Out Gang	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	-	Paul Larch	3	Vulcan VL-2T	N	
+370	Recon	The In-and-Out Gang	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Lieutenant	Alan Delaney	4	Ostscout OTT-7J	N	
+371	Recon	The In-and-Out Gang	Ziulkovski's	-	Charlie	The Red Guard	Beta	-	Sergeant	John Hodges	3	Jenner JR7-D	N	
+372	Dropship	-	-	-	-	-	Gamma	-	-	Orca	-	Intruder (2655)	N	
+373	1st Jump Infantry	-	Command	-	-	-	Gamma	-	Corporal	Edward Fletch	4	Jump Platoon (Laser)	N	
+374	1st Jump Infantry	-	Command	-	-	-	Gamma	-	Corporal	Jolene Pelz	4	Jump Platoon (Laser)	N	
+375	1st Jump Infantry	-	Command	-	-	-	Gamma	-	Corporal	Calvin "Vermont" Innis	3	Jump Platoon (SRM)	N	
+376	1st Jump Infantry	-	Command	-	-	-	Gamma	-	Lieutenant	Mitchell Bondarowicz	4	Jump Platoon (SRM)	N	
+377	1st Jump Infantry	-	Command	-	-	-	Gamma	-	Sergeant	Ikaio Suboff	4	Jump Platoon (Laser)	N	
+378	Artillery Lance 1	-	Command	-	-	-	Gamma	-	Captain	Theodore Toles	4	Bandit Hovercraft Prime	N	
+379	Artillery Lance 1	-	Command	-	-	-	Gamma	-	Lieutenant	Casey Starr	4	Mobile Long Tom Artillery LT-MOB-25	N	
+380	Artillery Lance 1	-	Command	-	-	-	Gamma	-	Lieutenant	Robert Fader	3	Mobile Long Tom Artillery LT-MOB-25	N	
+381	Artillery Lance 1	-	Command	-	-	-	Gamma	-	Lieutenant	Geraldo Morriconi	4	Mobile Long Tom Artillery LT-MOB-25	N	
+382	Artillery Lance 1	-	Command	-	-	-	Gamma	-	Lieutenant	Aldous Michael	3	Mobile Long Tom Artillery LT-MOB-25	N	
+383	Artillery Lance 2	-	Command	-	-	-	Gamma	-	Captain	Susanne Arthur	4	Bandit Hovercraft Prime	N	
+384	Artillery Lance 2	-	Command	-	-	-	Gamma	-	Lieutenant	Luther Biddle	4	Sniper Artillery Tank (Standard)	N	
+385	Artillery Lance 2	-	Command	-	-	-	Gamma	-	Lieutenant	Simon Creech	3	Sniper Artillery Tank (Standard)	N	
+386	Artillery Lance 2	-	Command	-	-	-	Gamma	-	Lieutenant	John Van Troyer	3	Thumper Artillery Vehicle (Standard)	N	
+387	Artillery Lance 2	-	Command	-	-	-	Gamma	-	Lieutenant	Dorothy Powell	2	Thumper Artillery Vehicle (Standard)	N	
+388	Command	-	Command	-	-	-	Gamma	-	-	Hyun Kyu	4	Hoplite HOP-4B	N	
+389	Command	-	Command	-	-	-	Gamma	-	Captain	Francis Burrows	4	Warhammer WHM-6R	N	
+390	Command	-	Command	-	-	-	Gamma	-	Colonel	Wilhelmina Korsht	4	Warhammer WHM-6R	N	
+391	Command	-	Command	-	-	-	Gamma	-	Sergeant	Zelia Cornell	4	Dragon DRG-1N	N	
+392	Medium	-	Command	-	-	-	Gamma	-	-	Omar Fazio	3	Wolverine WVR-6R	N	
+393	Medium	-	Command	-	-	-	Gamma	-	-	Andre Stroczek	3	Enforcer ENF-4R	N	
+394	Medium	-	Command	-	-	-	Gamma	-	Lieutenant	Jeremy Barron	4	Griffin GRF-1N	N	
+395	Medium	-	Command	-	-	-	Gamma	-	Sergeant	Theodora Del Floro	4	Phoenix Hawk PXH-1	N	
+396	Command	-	-	-	Able	Swift Lightning	Gamma	-	-	Conrad Crispwell	4	Catapult CPLT-C1	N	
+397	Command	-	-	-	Able	Swift Lightning	Gamma	-	-	Peter Scowell	3	Shadow Hawk SHD-2H	N	
+398	Command	-	-	-	Able	Swift Lightning	Gamma	-	Captain	Richard Heutzenroeder	4	Shogun SHG-2E	N	
+399	Command	-	-	-	Able	Swift Lightning	Gamma	-	Major	Ikeo Takashima	4	Marauder II MAD-4A	N	
+400	Command	-	Booth's	-	Able	Swift Lightning	Gamma	-	-	Ashara Hummali	4	Victor VTR-9B	N	
+401	Command	-	Booth's	-	Able	Swift Lightning	Gamma	-	-	Chester "Red" Fontaine	3	Catapult CPLT-C1	N	
+402	Command	-	Booth's	-	Able	Swift Lightning	Gamma	-	Captain	Mina Booth	4	Archer ARC-2W	N	
+403	Command	-	Booth's	-	Able	Swift Lightning	Gamma	-	Lieutenant	Stanley Seleen	4	Warhammer WHM-6R	N	
+404	Fire	-	Booth's	-	Able	Swift Lightning	Gamma	-	-	Gordon Shelley	3	Archer ARC-2R	N	
+405	Fire	-	Booth's	-	Able	Swift Lightning	Gamma	-	-	Otis Jackson	3	Thunderbolt TDR-5S	N	
+406	Fire	-	Booth's	-	Able	Swift Lightning	Gamma	-	Lieutenant	Seth Bowie	4	Stalker STK-3F	N	
+407	Fire	-	Booth's	-	Able	Swift Lightning	Gamma	-	Sergeant	Irwin Tyrell	4	Wolverine WVR-6R	N	
+408	Heavy	-	Booth's	-	Able	Swift Lightning	Gamma	-	-	Mary Tesser	3	Centurion CN9-A	N	
+409	Heavy	-	Booth's	-	Able	Swift Lightning	Gamma	-	-	Brester "Blue" Swann	3	Vindicator VND-1R	N	
+410	Heavy	-	Booth's	-	Able	Swift Lightning	Gamma	-	Lieutenant	Raymond Forzey	4	Shadow Hawk SHD-2H	N	
+411	Heavy	-	Booth's	-	Able	Swift Lightning	Gamma	-	Sergeant	Paul Watson	4	Scorpion SCP-1N	N	
+412	Jump Infantry Support (SMG)	-	Booth's	-	Able	Swift Lightning	Gamma	-	Corporal	Lars "Duck" LaPine	3	Jump Platoon (MG)	N	
+413	Jump Infantry Support (SMG)	-	Booth's	-	Able	Swift Lightning	Gamma	-	Corporal	Milton Apell	3	Jump Platoon (MG)	N	
+414	Jump Infantry Support (SMG)	-	Booth's	-	Able	Swift Lightning	Gamma	-	Corporal	Steven Crossley	3	Jump Platoon (MG)	N	
+415	Jump Infantry Support (SMG)	-	Booth's	-	Able	Swift Lightning	Gamma	-	Lieutenant	Heidi Rimmer	4	Jump Platoon (MG)	N	
+416	Jump Infantry Support (SMG)	-	Booth's	-	Able	Swift Lightning	Gamma	-	Sergeant	Onof Lawell	3	Jump Platoon (MG)	N	
+417	Aerospace	-	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Abdul Callahan	3	Sabre SB-27	N	
+418	Aerospace	-	Giruard's	-	Able	Swift Lightning	Gamma	-	Lieutenant	Shara Sellers	4	Sabre SB-27	N	
+419	Command	-	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Brian Swanton	3	Warhammer WHM-6R	N	
+420	Command	-	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Aggie Varro	3	Ostsol OTL-4D	N	
+421	Command	-	Giruard's	-	Able	Swift Lightning	Gamma	-	Captain	John Giruard	4	Orion ON1-K	N	
+422	Command	-	Giruard's	-	Able	Swift Lightning	Gamma	-	Lieutenant	Shad "Offender" Cleese	4	Grasshopper GHR-5H	N	
+423	Fire	-	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Sylvan Greenspan	4	Orion ON1-K	N	
+424	Fire	-	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Amal Lux	3	Crusader CRD-3R	N	
+425	Fire	-	Giruard's	-	Able	Swift Lightning	Gamma	-	Lieutenant	David Coleman	4	Archer ARC-2W	N	
+426	Fire	-	Giruard's	-	Able	Swift Lightning	Gamma	-	Sergeant	Grace Seihara	4	Firefly FFL-4A	N	
+427	Recon	Rapid Transit	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Danel Bushnell	3	Wasp WSP-1A	N	
+428	Recon	Rapid Transit	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Kenneth Lincoln	3	Wasp WSP-1A	N	
+429	Recon	Rapid Transit	Giruard's	-	Able	Swift Lightning	Gamma	-	-	Clinton Hindahl	4	Wasp LAM WSP-105	N	
+430	Recon	Rapid Transit	Giruard's	-	Able	Swift Lightning	Gamma	-	Lieutenant	Faviana Priolla	4	Stinger STG-3G	N	
+431	Recon	Rapid Transit	Giruard's	-	Able	Swift Lightning	Gamma	-	Sergeant	Ronald Laande	4	Stinger STG-3G	N	
+432	1st Armored Support	The Cossacks	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Lieutenant	Mikhail Admirov	4	Zhukov Heavy Tank (Standard)	N	
+433	1st Armored Support	The Cossacks	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	John "Guitar" Purcell	4	Zhukov Heavy Tank (Standard)	N	
+434	1st Armored Support	The Cossacks	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Louise Damon	4	Zhukov Heavy Tank (Standard)	N	
+435	1st Armored Support	The Cossacks	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Ezekiel Hamner	3	Zhukov Heavy Tank (Standard)	N	
+436	1st Armored Support	The Cossacks	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Marquid Yalov	3	Zhukov Heavy Tank (Standard)	N	
+437	2nd Armored Support	The Pikemen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Lieutenant	Marik Fangen	4	Pike Support Vehicle (Standard)	N	
+438	2nd Armored Support	The Pikemen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Brian Stafford	4	Pike Support Vehicle (Standard)	N	
+439	2nd Armored Support	The Pikemen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Sarah Finney	4	Pike Support Vehicle (Standard)	N	
+440	2nd Armored Support	The Pikemen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Krista Von Hammel	3	Pike Support Vehicle (Standard)	N	
+441	2nd Armored Support	The Pikemen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Salvador Juarez	3	Demolisher Heavy Tank (Standard, Mk. II)	N	
+442	Assault	The Yeomen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	-	Elwin Tellman	4	Awesome AWS-8Q	N	
+443	Assault	The Yeomen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	-	Alan Inoto	3	Cyclops CP-10-Q	N	
+444	Assault	The Yeomen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Lieutenant	Kent "Lobo" Levoy	4	Marauder MAD-3R	N	
+445	Assault	The Yeomen	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Nigel Morbeau	4	Atlas AS7-D	N	
+446	Command	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	-	Bryon Duval	3	Goliath GOL-1H	N	
+447	Command	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	-	Winston Mizurski	3	Cataphract CTF-1X	N	
+448	Command	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Captain	Warren Komachi	4	Stalker STK-3F	N	
+449	Command	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Lieutenant	Leslie Yoder	4	Imp IMP-2E	N	
+450	Fire	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	-	Jacob Coleson	3	Warhammer WHM-6R	N	
+451	Fire	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	-	Rick "Raccoon" Suvin	2	Archer ARC-2R	N	
+452	Fire	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Lieutenant	Hashi "Hot Stuff" Penobscott	4	Marauder MAD-3R	N	
+453	Fire	-	Komachi's	The Komachi Express	Able	Swift Lightning	Gamma	-	Sergeant	Tedra McDonnell	4	Marauder II MAD-4A	N	
+454	Dropship	-	-	-	Alpha	Swift Lightning	Gamma	-	-	Cetawayo	-	Union (2708)	N	
+455	Dropship	-	-	-	Alpha	Swift Lightning	Gamma	-	-	Bellingham	-	Union (2708)	N	
+456	Dropship	-	-	-	Alpha	Swift Lightning	Gamma	-	-	Dunnigan	-	Union (2708)	N	
+457	Command	-	-	-	Baker	-	Gamma	-	-	Alice Watson	3	Crusader CRD-3R	N	
+458	Command	-	-	-	Baker	-	Gamma	-	Captain	Arnold Shellhammer	4	Annihilator ANH-2A	N	
+459	Command	-	-	-	Baker	-	Gamma	-	Lieutenant	George Watney	3	JagerMech JM6-S	N	
+460	Command	-	-	-	Baker	-	Gamma	-	Major	Mary Campbell	4	Zeus ZEU-6S	N	
+461	Dropship	-	-	-	Baker	-	Gamma	-	-	Phoenix	-	Overlord (2762)	N	
+462	Aerospace	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	-	Stanley "Shaker" Schuler	2	Sparrowhawk SPR-H5	N	
+463	Aerospace	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Lieutenant	Robert "Dragon" Day	3	Sparrowhawk SPR-H5	N	
+464	Armored Support	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Lieutenant	Olaf Grassley	4	Plainsman Medium Hovertank (Standard)	N	
+465	Armored Support	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Sergeant	Christopher Murrow	4	Plainsman Medium Hovertank (Standard)	N	
+466	Armored Support	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Sergeant	Annabelle Pulamo	4	Plainsman Medium Hovertank (Standard)	N	
+467	Armored Support	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Sergeant	Thaddeus Demord	3	Pegasus Scout Hover Tank (Standard)	N	
+468	Armored Support	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Sergeant	Nicholas Crummelhorn	3	Pegasus Scout Hover Tank (Standard)	N	
+469	Command	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	-	Frea Thomas	3	Locust LCT-1V	N	
+470	Command	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	-	Suko Unamoza	2	Locust LCT-1V	N	
+471	Command	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Captain	Gary Abbot	4	Hermes II HER-2S	N	
+472	Command	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Lieutenant	Ashley McGill	4	Wasp WSP-1W	N	
+473	Light	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	-	Clyde Zumshusa	3	Wasp WSP-1A	N	
+474	Light	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	-	Celia Orvin	2	Wasp WSP-1A	N	
+475	Light	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Lieutenant	Montgomery Hill	4	Valkyrie VLK-QA	N	
+476	Light	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Sergeant	Ronald Murphy	4	Firestarter FS9-H	N	
+477	Recon	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	-	George Elliot	3	Wasp WSP-1A	N	
+478	Recon	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	-	Thomaso Collimoso	2	Commando COM-2D	N	
+479	Recon	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Lieutenant	John Parker	4	Jenner JR7-D	N	
+480	Recon	-	Abbot's	The Light Brigade	Baker	-	Gamma	-	Sergeant	Fran Mulroney	3	Wasp WSP-1A	N	
+481	Command	-	Raisul's	-	Baker	-	Gamma	-	-	Benito Shallup	3	Thunderbolt TDR-5S	N	
+482	Command	-	Raisul's	-	Baker	-	Gamma	-	-	Lance Kemal	2	Charger CGR-1A1	N	
+483	Command	-	Raisul's	-	Baker	-	Gamma	-	Captain	Mohammad Raisul	4	Orion ON1-K	N	
+484	Command	-	Raisul's	-	Baker	-	Gamma	-	Lieutenant	Rolf Lord	4	Archer ARC-2W	N	
+485	Jump Infantry Support (SMG)	-	Raisul's	-	Baker	-	Gamma	-	Corporal	Christopher "Ratman" Foreman	3	Jump Platoon (MG)	N	
+486	Jump Infantry Support (SMG)	-	Raisul's	-	Baker	-	Gamma	-	Corporal	Felton Zugg	3	Jump Platoon (MG)	N	
+487	Jump Infantry Support (SMG)	-	Raisul's	-	Baker	-	Gamma	-	Corporal	William Chappel	2	Jump Platoon (MG)	N	
+488	Jump Infantry Support (SMG)	-	Raisul's	-	Baker	-	Gamma	-	Lieutenant	Thomas Sangstack	4	Jump Platoon (MG)	N	
+489	Jump Infantry Support (SMG)	-	Raisul's	-	Baker	-	Gamma	-	Sergeant	Milton Paradine	4	Jump Platoon (MG)	N	
+490	Pursuit	-	Raisul's	-	Baker	-	Gamma	-	-	Janice Waibel	4	Javelin JVN-10F "Fire Javelin"	N	
+491	Pursuit	-	Raisul's	-	Baker	-	Gamma	-	-	Michael Handel	3	Wasp WSP-1A	N	
+492	Pursuit	-	Raisul's	-	Baker	-	Gamma	-	-	Indra Hashameer	2	Hornet HNT-151	N	
+493	Pursuit	-	Raisul's	-	Baker	-	Gamma	-	Lieutenant	Sven Thorgirsen	4	Valkyrie VLK-QA	N	
+494	Recon	-	Raisul's	-	Baker	-	Gamma	-	-	Mark Duley	3	Falcon FLC-4N	N	
+495	Recon	-	Raisul's	-	Baker	-	Gamma	-	-	Jobeth Shamm	2	Stinger STG-3R	N	
+496	Recon	-	Raisul's	-	Baker	-	Gamma	-	Lieutenant	Virginia Shillfield	4	Locust LCT-1V	N	
+497	Recon	-	Raisul's	-	Baker	-	Gamma	-	Sergeant	Daniel Hyatt	4	Cicada CDA-2A	N	
+498	Armored Support	-	Wisey's	-	Baker	-	Gamma	-	Lieutenant	Forrest Greene	4	Striker Light Tank (SRM)	N	
+499	Armored Support	-	Wisey's	-	Baker	-	Gamma	-	Sergeant	Michelle Cornell	4	Striker Light Tank (SRM)	N	
+500	Armored Support	-	Wisey's	-	Baker	-	Gamma	-	Sergeant	Herman Grand	3	Striker Light Tank (Standard)	N	
+501	Armored Support	-	Wisey's	-	Baker	-	Gamma	-	Sergeant	Tyrone Allman	3	Striker Light Tank (Standard)	N	
+502	Armored Support	-	Wisey's	-	Baker	-	Gamma	-	Sergeant	Armando Icetta	2	Striker Light Tank (Standard)	N	
+503	Command	-	Wisey's	-	Baker	-	Gamma	-	-	Torvald Vanney	3	Trebuchet TBT-5N	N	
+504	Command	-	Wisey's	-	Baker	-	Gamma	-	-	Hal Meskline	3	Thunderbolt TDR-5S	N	
+505	Command	-	Wisey's	-	Baker	-	Gamma	-	Captain	Edward Wisey	4	Shadow Hawk SHD-2H	N	
+506	Command	-	Wisey's	-	Baker	-	Gamma	-	Lieutenant	Norah Jane Stokes	4	Griffin GRF-1N	N	
+507	Heavy	-	Wisey's	-	Baker	-	Gamma	-	-	Wallace Chagall	3	Firefly FFL-4A	N	
+508	Heavy	-	Wisey's	-	Baker	-	Gamma	-	-	Shelton Woolrich	3	Crusader CRD-3R	N	
+509	Heavy	-	Wisey's	-	Baker	-	Gamma	-	Lieutenant	Harold Spim	4	Catapult CPLT-C1	N	
+510	Heavy	-	Wisey's	-	Baker	-	Gamma	-	Sergeant	Simon Prosser	4	Crusader CRD-3R	N	
+511	Recon	-	Wisey's	-	Baker	-	Gamma	-	-	Maurice Frenn	4	Falcon FLC-4N	N	
+512	Recon	-	Wisey's	-	Baker	-	Gamma	-	-	Ludwig Ralst	3	Wasp WSP-1A	N	
+513	Recon	-	Wisey's	-	Baker	-	Gamma	-	Lieutenant	Samantha "Misty" Ryker	4	Panther PNT-9R	N	
+514	Recon	-	Wisey's	-	Baker	-	Gamma	-	Sergeant	Gary Himmer	4	Stinger STG-3G	N	
+515	Command	-	-	-	Charlie	The Black Cats	Gamma	-	-	Hobart McCarthy	3	JagerMech JM6-S	N	
+516	Command	-	-	-	Charlie	The Black Cats	Gamma	-	Lieutenant	Leslie Kawalli	4	Marauder MAD-3R	N	
+517	Command	-	-	-	Charlie	The Black Cats	Gamma	-	Major	Arthur Dumont	4	Battlemaster BLR-1G	N	
+518	Command	-	-	-	Charlie	The Black Cats	Gamma	-	Sergeant	Terrance Truly	3	Archer ARC-2R	N	
+519	Dropship	-	-	-	Charlie	The Black Cats	Gamma	-	-	Addiscombe	-	Union (2708)	N	
+520	Dropship	-	-	-	Charlie	The Black Cats	Gamma	-	-	Bellatrix	-	Union (2708)	N	
+521	Dropship	-	-	-	Charlie	The Black Cats	Gamma	-	-	Graf Berek	-	Union (2708)	N	
+522	Armored Support	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Lieutenant	Henry Kahlani	4	Demolisher Heavy Tank (Standard, Mk. II)	N	
+523	Armored Support	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Sergeant	Phillip Exman	4	Demolisher Heavy Tank (Standard, Mk. II)	N	
+524	Armored Support	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Sergeant	Che Maguire	3	Behemoth Heavy Tank (Standard)	N	
+525	Armored Support	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Sergeant	Warren Sefton	3	Behemoth Heavy Tank (Standard)	N	
+526	Armored Support	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Sergeant	Amos Krupp	3	Ontos Heavy Tank (Standard)	N	
+527	Command	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	-	Eric Gawlick	4	Warhammer WHM-6R	N	
+528	Command	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	-	Carl Krostoffers	3	Archer ARC-2R	N	
+529	Command	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Captain	Roger Singh	4	Marauder MAD-3R	N	
+530	Command	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Lieutenant	Robert "Gallipoli" Becker	3	Marauder MAD-3R	N	
+531	Fire	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	-	Sierra Jems	3	Griffin GRF-1N	N	
+532	Fire	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	-	Adam Virozova	3	Hunchback HBK-4G	N	
+533	Fire	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Lieutenant	Scott Casabier	4	Victor VTR-9B	N	
+534	Fire	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Sergeant	Greg Kinsel	3	Blackjack BJ-1	N	
+535	Light	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	-	April January	2	Wolfhound WLF-1	N	
+536	Light	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	-	Timothy Storrs	2	Locust LCT-1V	N	
+537	Light	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Lieutenant	Andrew Perkins	3	Phoenix Hawk PXH-1	N	
+538	Light	-	Singh's	Roger's Raiders	Charlie	The Black Cats	Gamma	-	Sergeant	Dale Smith	3	Wasp WSP-1A	N	
+539	1st Armored Support	The Surgeons	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Lieutenant	Tacoma Nedwell	4	Condor Heavy Hover Tank (Standard)	N	
+540	1st Armored Support	The Surgeons	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Maurice Kennedy	4	Condor Heavy Hover Tank (Standard)	N	
+541	1st Armored Support	The Surgeons	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Dane "Slammer" Portmann	3	Scimitar Medium Hover Tank (Standard)	N	
+542	1st Armored Support	The Surgeons	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Sidney Eiger	3	Scimitar Medium Hover Tank (Standard)	N	
+543	1st Armored Support	The Surgeons	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Paula Chance	2	Scimitar Medium Hover Tank (Standard)	N	
+544	2nd Armored Support	The Rat Pack	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Lieutenant	Corland Anderson	4	Condor Heavy Hover Tank (Standard)	N	
+545	2nd Armored Support	The Rat Pack	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Rampal Eddas	3	Condor Heavy Hover Tank (Standard)	N	
+546	2nd Armored Support	The Rat Pack	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Charles Carnese	3	Saracen Medium Hover Tank (Standard)	N	
+547	2nd Armored Support	The Rat Pack	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Brian Seligmann	2	Saracen Medium Hover Tank (Standard)	N	
+548	2nd Armored Support	The Rat Pack	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Richard Runeberg	2	Saracen Medium Hover Tank (Standard)	N	
+549	Command	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	-	Pozner Grant	4	Ostsol OTL-4D	N	
+550	Command	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	-	Hal Blumberg	4	Blackjack BJ-1	N	
+551	Command	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Captain	Lisa Snyder	4	Crusader CRD-3R	N	
+552	Command	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Lieutenant	Sharon "Magic" Griffith	3	Quickdraw QKD-4H	N	
+553	Light	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	-	Karen Wilson	3	Firefly FFL-4A	N	
+554	Light	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	-	Kerry Scofield	2	Stinger STG-3R	N	
+555	Light	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Lieutenant	Charles Shackleford	4	Griffin GRF-1N	N	
+556	Light	-	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Larry Leckner	3	Locust LCT-1V	N	
+557	Recon	Fast Break	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	-	Dennis Heyne	3	Locust LCT-1V	N	
+558	Recon	Fast Break	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	-	Jon Tenney	3	Locust LCT-1V	N	
+559	Recon	Fast Break	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Lieutenant	Robert Dennison	4	Ostscout OTT-7J	N	
+560	Recon	Fast Break	Snyder's	The Hat Track Company	Charlie	The Black Cats	Gamma	-	Sergeant	Jodi Brooks	3	Locust LCT-1V	N	
+561	Command	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	-	Kathy Keegan	4	Wolverine WVR-6R	N	
+562	Command	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	-	Thor Masnyk	4	Phoenix Hawk PXH-1	N	
+563	Command	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	Captain	Frank Woomack	4	Warhammer WHM-6R	N	
+564	Command	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	Lieutenant	Michael Takata	3	Thunderbolt TDR-5S	N	
+565	Heavy	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	-	Arthur Kaneko	3	Dervish DV-6M	N	
+566	Heavy	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	-	Arnold Zoslow	2	Phoenix Hawk PXH-1	N	
+567	Heavy	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	Lieutenant	James McLean	4	Catapult CPLT-C1	N	
+568	Heavy	-	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	Sergeant	Thomas Van Zyl	3	Quickdraw QKD-4H	N	
+569	Recon	The Moving Targets	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	-	Ford Anderson	4	Whitworth WTH-1	N	
+570	Recon	The Moving Targets	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	-	Steven Geiger	4	Hatchetman HCT-3F	N	Has stinger, but lost it on the Udibi raid.
+571	Recon	The Moving Targets	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	Lieutenant	Bill "Bullseye" Target	4	Phoenix Hawk PXH-1	N	
+572	Recon	The Moving Targets	Woomack's	The Fox Hunters	Charlie	The Black Cats	Gamma	-	Sergeant	Rick Pahner	3	Shadow Hawk SHD-2H	N	
+573	Dropship	-	-	-	-	-	Delta	-	-	Loch Lomond	-	Fortress (2613)	N	
+574	1st Motorized Infantry (Flamer)	-	Command	-	-	-	Delta	-	Corporal	Zack Anderson	3	Motorized Platoon (Flamer)	N	
+575	1st Motorized Infantry (Flamer)	-	Command	-	-	-	Delta	-	Corporal	Edward Farrow	3	Motorized Platoon (Flamer)	N	
+576	1st Motorized Infantry (Flamer)	-	Command	-	-	-	Delta	-	Corporal	Frederic Reidel	3	Motorized Platoon (Flamer)	N	
+577	1st Motorized Infantry (Flamer)	-	Command	-	-	-	Delta	-	Lieutenant	Dane Cleve	4	Motorized Platoon (Flamer)	N	
+578	1st Motorized Infantry (Flamer)	-	Command	-	-	-	Delta	-	Sergeant	Janet Clark	4	Motorized Platoon (Flamer)	N	
+579	Aerospace	-	Command	-	-	-	Delta	-	-	Maria "Red Queen" Torello	3	Cheetah F-10	N	
+580	Aerospace	-	Command	-	-	-	Delta	-	Lieutenant	Dale "Beowulf" Middlehoven	4	Cheetah F-10	N	
+581	Artillery Lance 1	-	Command	-	-	-	Delta	-	Captain	Charles "Spotter" Shugart	3	Packrat LRPV PKR-T5	N	
+582	Artillery Lance 1	-	Command	-	-	-	Delta	-	Lieutenant	Drew McKay	3	Mobile Long Tom Artillery LT-MOB-25	N	
+583	Artillery Lance 1	-	Command	-	-	-	Delta	-	Lieutenant	Peter Scanlon	3	Mobile Long Tom Artillery LT-MOB-25	N	
+584	Artillery Lance 1	-	Command	-	-	-	Delta	-	Lieutenant	Kathy Shea	3	Mobile Long Tom Artillery LT-MOB-25	N	
+585	Artillery Lance 1	-	Command	-	-	-	Delta	-	Lieutenant	Scott Keller	3	Sniper Artillery Tank (Standard)	N	
+586	Artillery Lance 2	-	Command	-	-	-	Delta	-	Captain	Daryl Boland	3	Packrat LRPV PKR-T5	N	
+587	Artillery Lance 2	-	Command	-	-	-	Delta	-	Lieutenant	William Paseo	3	Mobile Long Tom Artillery LT-MOB-25	N	
+588	Artillery Lance 2	-	Command	-	-	-	Delta	-	Lieutenant	Gene Patrick	3	Mobile Long Tom Artillery LT-MOB-25	N	
+589	Artillery Lance 2	-	Command	-	-	-	Delta	-	Lieutenant	Eric Lemardia	3	Mobile Long Tom Artillery LT-MOB-25	N	
+590	Artillery Lance 2	-	Command	-	-	-	Delta	-	Lieutenant	Dana Fields	3	Sniper Artillery Tank (Standard)	N	
+591	Command	Dumont's Dragoons	Command	-	-	-	Delta	-	-	Lauren Simmons	3	Wolfhound WLF-1	N	
+592	Command	Dumont's Dragoons	Command	-	-	-	Delta	-	-	Brian Dunnivan	3	Wolverine WVR-6R	N	
+593	Command	Dumont's Dragoons	Command	-	-	-	Delta	-	Colonel	Kathleen Dumont	4	Battlemaster BLR-1G	N	
+594	Command	Dumont's Dragoons	Command	-	-	-	Delta	-	Lieutenant	Terrence Blake	3	Annihilator ANH-2A	N	
+595	Command	-	-	-	Able	The Landsknechts	Delta	-	-	John Castle	3	Crusader CRD-3R	N	
+596	Command	-	-	-	Able	The Landsknechts	Delta	-	-	Christoper Specker	3	Crusader CRD-3R	N	
+597	Command	-	-	-	Able	The Landsknechts	Delta	-	Captain	Zola Mirhova	4	Warhammer WHM-6R	N	
+598	Command	-	-	-	Able	The Landsknechts	Delta	-	Major	Benhamin Schwartzkoph	4	Marauder MAD-3R	N	
+599	Dropship	-	-	-	Able	The Landsknechts	Delta	-	-	Utah Beach	-	Overlord (2762)	N	
+600	Armored Support	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Lieutenant	Samuel "Adder" Alder	4	Saracen Medium Hover Tank (Standard)	N	
+601	Armored Support	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Sergeant	Madeline Vaughn	3	Scimitar Medium Hover Tank (Standard)	N	
+602	Armored Support	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Sergeant	Larry Whitman	2	Scimitar Medium Hover Tank (Standard)	N	
+603	Armored Support	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Sergeant	Brian Ramallio	3	Saladin Assault Hover Tank (Standard)	N	
+604	Armored Support	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Sergeant	Michelle Swenson	3	Saladin Assault Hover Tank (Standard)	N	
+605	Command		Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	-	Cyrus Imark	3	Crusader CRD-3R	N	
+606	Command		Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	-	Jeffrey Norton	3	Crusader CRD-3R	N	
+607	Command		Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Captain	Gustav Dietrick	4	Battlemaster BLR-1G	N	
+608	Command		Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Lieutenant	Jordan Scott	3	Thunderbolt TDR-5S	N	
+609	Fire	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	-	Emilio Wilder	2	Centurion CN9-A	N	
+610	Fire	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	-	Anton Renard	3	Warhammer WHM-6R	N	
+611	Fire	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Lieutenant	Josiah Olafsen	4	Crusader CRD-3R	N	
+612	Fire	-	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Sergeant	Lloyd Morton	3	Archer ARC-2R	N	
+613	Medium	The Rats	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	-	Teresa Connor	3	Whitworth WTH-1	N	
+614	Medium	The Rats	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	-	Jan Swertz	2	Wolverine WVR-6R	N	
+615	Medium	The Rats	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Lieutenant	Bertram Herbert	3	Griffin GRF-1N	N	
+616	Medium	The Rats	Dietrick's	Dietrick's Destroyers	Able	The Landsknechts	Delta	-	Sergeant	Nikal Isakahn	3	Phoenix Hawk PXH-1	N	
+617	Armored Support	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Lieutenant	Karl Weisz	4	Manticore Heavy Tank (Standard)	N	
+618	Armored Support	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Sergeant	Nell Insley	3	Schrek PPC Carrier (Standard)	N	
+619	Armored Support	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Sergeant	James Stalling	3	Schrek PPC Carrier (Standard)	N	
+620	Armored Support	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Sergeant	Louis Camalle	3	Ontos Heavy Tank (Standard)	N	
+621	Armored Support	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Sergeant	Roger O'Neil	3	Ontos Heavy Tank (Standard)	N	
+622	Assault	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	-	Paul Ziegler	3	Stalker STK-3H	N	
+623	Assault	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	-	Tobu Unameiza	3	Archer ARC-2R	N	
+624	Assault	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Lieutenant	Douglas Bidwell	4	Battlemaster BLR-1G	N	
+625	Assault	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Sergeant	Jennifer Klinghoffen	4	Goliath GOL-1H	N	
+626	Command	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	-	Cheryl Prosser	3	Marauder MAD-3R	N	
+627	Command	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	-	Thomas Okomi	3	Awesome AWS-8Q	N	
+628	Command	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Captain	Justin Holbrook	4	Atlas AS7-D	N	
+629	Command	-	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Lieutenant	Dustin "Dusty" Morelli	4	Cyclops CP-10-Q	N	
+630	Fire	The Marksmen	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	-	Trel Morkai	3	JagerMech JM6-S	N	
+631	Fire	The Marksmen	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	-	Frances Seahaven	2	Rifleman RFL-3N	N	
+632	Fire	The Marksmen	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Lieutenant	Harold "Dragonslayer" Thurston	4	Marauder MAD-3R	N	
+633	Fire	The Marksmen	Holbrook's	The Hammers	Able	The Landsknechts	Delta	-	Sergeant	Eldon Keller	3	Hunchback HBK-4G	N	
+634	2nd Motorized Infantry (Mixed)	The Mechbusters	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Corporal	Harold Lietzikov	3	Motorized Platoon (SRM)	N	
+635	2nd Motorized Infantry (Mixed)	The Mechbusters	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Corporal	Robert Sears	3	Motorized Platoon (MG)	N	
+636	2nd Motorized Infantry (Mixed)	The Mechbusters	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Corporal	Cyra Forrest	3	Motorized Platoon (MG)	N	
+637	2nd Motorized Infantry (Mixed)	The Mechbusters	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Lieutenant	Ivan Druzinski	4	Motorized Platoon (Laser)	N	
+638	2nd Motorized Infantry (Mixed)	The Mechbusters	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Sergeant	Phillip Lee	4	Motorized Platoon (Laser)	N	
+639	Aerospace	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	-	James "Dougie" Doogan	4	Stuka STU-K5	N	
+640	Aerospace	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Lieutenant	Jacques "Frenchie" L'ecurie	4	Stuka STU-K5	N	
+641	Assault	The Battleaxes	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	-	Sean Campbell	3	Atlas AS7-D	N	
+642	Assault	The Battleaxes	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	-	Tam Ngo	3	Archer ARC-2R	N	
+643	Assault	The Battleaxes	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Lieutenant	Janet "Batlteaxe" Landrum	4	Stalker STK-3F	N	
+644	Assault	The Battleaxes	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Sergeant	Gilbert Fasquillo	3	Victor VTR-9B	N	
+645	Command	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	-	Trent Morrow	3	Thunderbolt TDR-5S	N	
+646	Command	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	-	Donald Sukarno	3	Ostroc OSR-2C	N	
+647	Command	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Captain	Gerald LaSalle	4	Archer ARC-2W	N	
+648	Command	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Lieutenant	Beau "Brummel" Kamar	3	Warhammer WHM-6R	N	
+649	Fire	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	-	Douglas Sharkey	4	Hunchback HBK-4G	N	
+650	Fire	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	-	Roger Nogumo-Gordon	2	Crusader CRD-3R	N	
+651	Fire	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Lieutenant	Sarah Hamner	4	Warhammer WHM-6R	N	
+652	Fire	-	LaSalle's	The Hunters	Able	The Landsknechts	Delta	-	Sergeant	Morris Astley	3	Rifleman RFL-3N	N	
+653	Command	-	-	-	Baker	The Specters	Delta	-	-	Jesse Dekker	3	Phoenix Hawk PXH-1	N	
+654	Command	-	-	-	Baker	The Specters	Delta	-	-	Alan Horton	2	Shadow Hawk SHD-2H	N	
+655	Command	-	-	-	Baker	The Specters	Delta	-	Captain	Sanji Vargas	4	Awesome AWS-8Q	N	
+656	Command	-	-	-	Baker	The Specters	Delta	-	Major	Diane Specter	4	Battlemaster BLR-1G	N	
+657	Dropship	-	-	-	Baker	The Specters	Delta	-	-	Thermopylae	-	Overlord (2762)	N	
+658	1st Jump Infantry (Mixed)	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Corporal	Darren Hallwell	4	Jump Platoon (SRM)	N	
+659	1st Jump Infantry (Mixed)	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Corporal	Patricia Ward	3	Jump Platoon (Flamer)	N	
+660	1st Jump Infantry (Mixed)	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Corporal	Frank Couch	3	Jump Platoon (Flamer)	N	
+661	1st Jump Infantry (Mixed)	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Lieutenant	Gloria Lee Pittock	4	Jump Platoon (SRM)	N	
+662	1st Jump Infantry (Mixed)	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Sergeant	Michael Leiber	4	Jump Platoon (SRM)	N	
+663	Command	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	-	Jorge Androvich	3	Crusader CRD-3R	N	
+664	Command	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	-	John Le Mat	3	Thunderbolt TDR-5S	N	
+665	Command	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Captain	Ali Abdulaziz	4	Battlemaster BLR-1G	N	
+666	Command	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Lieutenant	Ulrich Leman	3	Catapult CPLT-C1	N	
+667	Light	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	-	Arthur Loman	3	Wolfhound WLF-1	N	
+668	Light	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	-	Andrew Hall-Vladimirov	3	Wasp WSP-1A	N	
+669	Light	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Lieutenant	Hamilton Sorrell	4	Ostscout OTT-7J	N	
+670	Light	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Sergeant	George Bradley	4	Commando COM-2D	N	
+671	Light Armored Support	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Lieutenant	Rupert Koch	4	Swift Wind Scout Car (Standard)	N	
+672	Light Armored Support	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Sergeant	Patrick Eliott	4	Swift Wind Scout Car (Standard)	N	
+673	Light Armored Support	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Sergeant	Sheila Rupell	3	Skulker Wheeled Scout Tank (Standard)	N	
+674	Light Armored Support	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Sergeant	Stuart Conner	3	Skulker Wheeled Scout Tank (Standard)	N	
+675	Light Armored Support	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Sergeant	Lawrence Zenas	3	Skulker Wheeled Scout Tank (Standard)	N	
+676	Recon	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	-	Laura Speck	3	Stinger STG-3R	N	
+677	Recon	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	-	Franz Tral	2	Locust LCT-1V	N	
+678	Recon	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Lieutenant	Richard Vallaci	3	Phoenix Hawk PXH-1	N	
+679	Recon	-	Abdulaziz's	The Black Swallows	Baker	The Specters	Delta	-	Sergeant	Daniel Portman	3	Wasp WSP-1A	N	
+680	Command	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Edgar Paulson	3	Thunderbolt TDR-5S	N	
+681	Command	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Samantha Norman	3	Dragon DRG-1N	N	
+682	Command	-	Kincaid's	-	Baker	The Specters	Delta	-	Captain	Ralph Kincaid	4	Thunderbolt TDR-5S	N	
+683	Command	-	Kincaid's	-	Baker	The Specters	Delta	-	Lieutenant	Theodore Relman	4	Archer ARC-2W	N	
+684	Fire	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Jai Rodrigues	3	Catapult CPLT-C1	N	
+685	Fire	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Jason Ikumo	3	JagerMech JM6-S	N	
+686	Fire	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Michael Kincaid	2	Crusader CRD-3R	N	
+687	Fire	-	Kincaid's	-	Baker	The Specters	Delta	-	Lieutenant	Anabel Royce	3	Marauder MAD-3R	N	
+688	LAM	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Richard Smith	3	Stinger LAM STG-A5	N	
+689	LAM	-	Kincaid's	-	Baker	The Specters	Delta	-	Lieutenant	Voicek Bronkowski	4	Phoenix Hawk LAM PHX-HK2	N	
+690	LAM	-	Kincaid's	-	Baker	The Specters	Delta	-	Sergeant	Burgess Heller	4	Stinger LAM STG-A5	N	
+691	Recon	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Mary Jenkins	3	Spider SDR-5V	N	
+692	Recon	-	Kincaid's	-	Baker	The Specters	Delta	-	-	Howard Caroen	2	Wasp WSP-1A	N	
+693	Recon	-	Kincaid's	-	Baker	The Specters	Delta	-	Lieutenant	William Isaacson	4	Stinger STG-3G	N	
+694	Recon	-	Kincaid's	-	Baker	The Specters	Delta	-	Sergeant	Rena McCoy	3	Firefly FFL-4A	N	
+695	Command	-	Lean's	-	Baker	The Specters	Delta	-	-	Lucas Kent	3	Orion ON1-K	N	
+696	Command	-	Lean's	-	Baker	The Specters	Delta	-	-	James Pieschel	3	Quickdraw QKD-4H	N	
+697	Command	-	Lean's	-	Baker	The Specters	Delta	-	Captain	Susan Lean	4	Archer ARC-2W	N	
+698	Command	-	Lean's	-	Baker	The Specters	Delta	-	Lieutenant	Hermann Olafson	3	Thunderbolt TDR-5S	N	
+699	Fire	-	Lean's	-	Baker	The Specters	Delta	-	-	Yuri Petrovitch	2	Crusader CRD-3R	N	
+700	Fire	-	Lean's	-	Baker	The Specters	Delta	-	-	Bruce Jason	2	Rifleman RFL-3N	N	
+701	Fire	-	Lean's	-	Baker	The Specters	Delta	-	Lieutenant	Vernon Scholl	4	Warhammer WHM-6R	N	
+702	Fire	-	Lean's	-	Baker	The Specters	Delta	-	Sergeant	Naoto Kurakami	3	Crusader CRD-3R	N	
+703	Recon	-	Lean's	-	Baker	The Specters	Delta	-	-	Sheldon Harker	3	Wasp WSP-1A	N	
+704	Recon	-	Lean's	-	Baker	The Specters	Delta	-	-	Darren Oak	3	Ostscout OTT-7J	N	
+705	Recon	-	Lean's	-	Baker	The Specters	Delta	-	Lieutenant	Ellis Eire	4	Hornet HNT-151	N	
+706	Recon	-	Lean's	-	Baker	The Specters	Delta	-	Sergeant	Tandy Magruder	3	Stinger STG-3R	N	
+707	Command	-	-	-	Charlie	-	Delta	-	-	Emily Drake	4	Crusader CRD-3R	N	
+708	Command	-	-	-	Charlie	-	Delta	-	-	Matthew Lanier	3	Shadow Hawk SHD-2H	N	
+709	Command	-	-	-	Charlie	-	Delta	-	Captain	Fletcher Considine	4	Archer ARC-2W	N	
+710	Command	-	-	-	Charlie	-	Delta	-	Major	Neil Parella	4	Marauder MAD-3R	N	
+711	Dropship	-	-	-	Charlie	-	Delta	-	-	Juan Carlos	-	Overlord (2762)	N	
+712	Assault	The Cutting Crew	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	-	Phillip Akamo	2	Zeus ZEU-6S	N	
+713	Assault	The Cutting Crew	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	-	Russel Nam	3	Goliath GOL-1H	N	
+714	Assault	The Cutting Crew	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	Lieutenant	Shannon "Cutter" O'Donnell	4	Marauder MAD-3R	N	
+715	Assault	The Cutting Crew	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	Sergeant	Gary Telsa	3	Atlas AS7-D	N	
+716	Command	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	-	Ernest Sifton	3	Hoplite HOP-4C	N	
+717	Command	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	-	Dhira Mugabe	4	Crusader CRD-3R	N	
+718	Command	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	Captain	James MacGregor	4	Archer ARC-2W	N	
+719	Command	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	Lieutenant	Nancy Baker	4	Warhammer WHM-6R	N	
+720	Fire	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	-	Aki Whitman	2	Firefly FFL-4A	N	
+721	Fire	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	-	Simon Moore	2	Thunderbolt TDR-5S	N	
+722	Fire	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	Lieutenant	David Barron	4	Rifleman RFL-3N	N	
+723	Fire	-	MacGregor's	MacGregor's Grenadiers	Charlie	-	Delta	-	Sergeant	Donna McCarthy	3	Crusader CRD-3R	N	
+724	Command	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	-	Ronald Torrence	3	Crusader CRD-3R	N	
+725	Command	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	-	Michael Gambrelli	3	Firefly FFL-4A	N	
+726	Command	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	Captain	Ben Paxon	4	Battlemaster BLR-1G	N	
+727	Command	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	Lieutenant	Mara Khan	4	Warhammer WHM-6R	N	
+728	Fire	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	-	Hima Fural	4	Wolverine WVR-6R	N	
+729	Fire	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	-	Khyl	4	Quickdraw QKD-5A	N	
+730	Fire	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	Lieutenant	Mohammaed Rasul	4	Catapult CPLT-C1	N	
+731	Fire	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	Sergeant	Lawrence Thomas	3	Griffin GRF-1N	N	
+732	Recon	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	-	Pirotika Kureem	3	Wasp WSP-1A	N	
+733	Recon	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	-	Ernest Volm	1	Stinger STG-3R	N	
+734	Recon	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	Lieutenant	Burl Steed	4	Cicada CDA-2A	N	
+735	Recon	-	Paxon's	Paxon's Lancers	Charlie	-	Delta	-	Sergeant	Jena Crum	4	Locust LCT-1V	N	
+736	Aerospace	-	Summer's	-	Charlie	-	Delta	-	-	Charlene "Gunner" Durant	4	Stingray F-90	N	
+737	Aerospace	-	Summer's	-	Charlie	-	Delta	-	Lieutenant	Ole "Snowman" Karlsen	4	Stingray F-90	N	
+738	Command	-	Summer's	-	Charlie	-	Delta	-	-	Celia Minnow	4	Rifleman RFL-3N	N	
+739	Command	-	Summer's	-	Charlie	-	Delta	-	-	Jesse Phil	3	Phoenix Hawk PXH-1	N	
+740	Command	-	Summer's	-	Charlie	-	Delta	-	Captain	Morgan Summers	4	Marauder MAD-3R	N	
+741	Command	-	Summer's	-	Charlie	-	Delta	-	Lieutenant	Frank Trent	3	Thunderbolt TDR-5S	N	
+742	Fire	-	Summer's	-	Charlie	-	Delta	-	-	Thomas Grant	4	Rifleman RFL-3N	N	
+743	Fire	-	Summer's	-	Charlie	-	Delta	-	-	Corey Vincenzelli	4	Catapult CPLT-C1	N	
+744	Fire	-	Summer's	-	Charlie	-	Delta	-	Lieutenant	Henry Dana	4	Warhammer WHM-6R	N	
+745	Fire	-	Summer's	-	Charlie	-	Delta	-	Sergeant	Craig Scanlon	3	Hunchback HBK-4G	N	
+746	Recon	The Bugs	Summer's	-	Charlie	-	Delta	-	-	Darla Mulroney	3	Wasp WSP-1A	N	
+747	Recon	The Bugs	Summer's	-	Charlie	-	Delta	-	-	Andrew Carrow	2	Spider SDR-5V	N	
+748	Recon	The Bugs	Summer's	-	Charlie	-	Delta	-	Lieutenant	Virgil Manning	4	Firefly FFL-4A	N	
+749	Recon	The Bugs	Summer's	-	Charlie	-	Delta	-	Sergeant	Andrew Shelley	3	Hornet HNT-151	N	
+750	Dropship	-	-	-	-	-	Epsilon	-	-	Otsu		Fortress (2613)	N	
+751	Artillery Lance 1	-	Command	-	-	-	Epsilon	-	Captain	Bary Sumo	4	Packrat LRPV PKR-T5	N	
+752	Artillery Lance 1	-	Command	-	-	-	Epsilon	-	Lieutenant	Wayne Gesselle	4	Mobile Long Tom Artillery LT-MOB-25	N	
+753	Artillery Lance 1	-	Command	-	-	-	Epsilon	-	Lieutenant	Theodore Vandel	4	Mobile Long Tom Artillery LT-MOB-25	N	
+754	Artillery Lance 1	-	Command	-	-	-	Epsilon	-	Lieutenant	Michael Peiko	3	Mobile Long Tom Artillery LT-MOB-25	N	
+755	Artillery Lance 1	-	Command	-	-	-	Epsilon	-	Lieutenant	Arnold "Sureshot" Jass	4	Sniper Artillery Tank (Standard)	N	
+756	Artillery Lance 2	-	Command	-	-	-	Epsilon	-	Captain	Lester Subarov	4	Packrat LRPV PKR-T5	N	
+757	Artillery Lance 2	-	Command	-	-	-	Epsilon	-	Lieutenant	Cheryl Spurlin	4	Mobile Long Tom Artillery LT-MOB-25	N	
+758	Artillery Lance 2	-	Command	-	-	-	Epsilon	-	Lieutenant	Ronald Beckett	3	Mobile Long Tom Artillery LT-MOB-25	N	
+759	Artillery Lance 2	-	Command	-	-	-	Epsilon	-	Lieutenant	Phillip Gaglia	2	Thumper Artillery Vehicle (Standard)	N	
+760	Artillery Lance 2	-	Command	-	-	-	Epsilon	-	Lieutenant	Sharon Ullman	2	Thumper Artillery Vehicle (Standard)	N	
+761	Assault	-	Command	-	-	-	Epsilon	-	-	Jennifer Archoski	3	Imp IMP-2E	N	
+762	Assault	-	Command	-	-	-	Epsilon	-	-	Stuart McCloud	4	Victor VTR-9B	N	
+763	Assault	-	Command	-	-	-	Epsilon	-	Lieutenant	Benton Bailey	4	Stalker STK-3F	N	
+764	Assault	-	Command	-	-	-	Epsilon	-	Sergeant	John Marlowe	4	Zeus ZEU-6S	N	
+765	Command	-	Command	-	-	-	Epsilon	-	Captain	Olivia Scalone	4	Griffin GRF-1N	N	
+766	Command	-	Command	-	-	-	Epsilon	-	Colonel	Baxter Arbuthnot	4	Archer ARC-2W	N	
+767	Command	-	Command	-	-	-	Epsilon	-	Lieutenant	Benedict Goldman	4	Firefly FFL-4A	N	
+768	Command	-	Command	-	-	-	Epsilon	-	Lieutenant	Kamasu Ede	3	JagerMech JM6-S	N	
+769	Motorized Infantry	-	Command	-	-	-	Epsilon	-	Corporal	Peabody Hicks	4	Motorized Platoon (MG)	N	
+770	Motorized Infantry	-	Command	-	-	-	Epsilon	-	Corporal	Keith Nexis	3	Motorized Platoon (MG)	N	
+771	Motorized Infantry	-	Command	-	-	-	Epsilon	-	Corporal	Corrine Buddas	4	Motorized Platoon (SRM)	N	
+772	Motorized Infantry	-	Command	-	-	-	Epsilon	-	Lieutenant	Kim Sundt	4	Motorized Platoon (SRM)	N	
+773	Motorized Infantry	-	Command	-	-	-	Epsilon	-	Sergeant	Farid Durrani	4	Motorized Platoon (MG)	N	
+774	Command	-	-	-	Able	-	Epsilon	-	-	Burton Chambers	4	Shogun SHG-2E	N	
+775	Command	-	-	-	Able	-	Epsilon	-	Lieutenant	James Riker	4	Imp IMP-2E	N	
+776	Command	-	-	-	Able	-	Epsilon	-	Major	Stuart Fields	4	Battlemaster BLR-1G	N	
+777	Command	-	-	-	Able	-	Epsilon	-	Sergeant	Vikham Komthouvong	4	Stalker STK-3F	N	
+778	Dropship	-	-	-	Able	-	Epsilon	-	-	Hawken		Overlord (2762)	N	
+779	Command	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	-	Paul Sayers	4	Warhammer WHM-6R	N	
+780	Command	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	-	Shawn O'Neil	3	Crusader CRD-3R	N	
+781	Command	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Captain	Charles Jager	4	JagerMech JM6-S	N	
+782	Command	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Lieutenant	Kimberly Dixon	4	Hoplite HOP-4B	N	
+783	Fire	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	-	Dennis Carter	3	Thunderbolt TDR-5S	N	
+784	Fire	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	-	Del Hesse	2	Scorpion SCP-1N	N	
+785	Fire	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Lieutenant	Rolf Schmidt	4	Archer ARC-2W	N	
+786	Fire	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Sergeant	Doyle Jarvix	4	Thunderbolt TDR-5S	N	
+787	Heavy	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	-	Zdislaw Wawrzynczak	4	Shadow Hawk SHD-2H	N	
+788	Heavy	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	-	John Smith	3	Vindicator VND-1R	N	
+789	Heavy	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Lieutenant	Ford Holgate	4	Centurion CN9-A	N	
+790	Heavy	-	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Sergeant	Vince Snyder	4	Thunderbolt TDR-5S	N	
+791	Jump Infantry Support	The Flying Tigers	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Lieutenant	Henry "Tiger Man" Kane	4	Jump Platoon (Flamer)	N	
+792	Jump Infantry Support	The Flying Tigers	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Sergeant	Karla Coplin	4	Jump Platoon (MG)	N	
+793	Jump Infantry Support	The Flying Tigers	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Sergeant	Jordan "Frog" Ling	3	Jump Platoon (MG)	N	
+794	Jump Infantry Support	The Flying Tigers	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Sergeant	Donald Terwilliger	4	Jump Platoon (Flamer)	N	
+795	Jump Infantry Support	The Flying Tigers	Jager's	The Hunting Tigers	Able	-	Epsilon	-	Sergeant	Helena Luckenbaugh	3	Jump Platoon (Flamer)	N	
+796	Armored Support	-	Sun's	-	Able	-	Epsilon	-	Lieutenant	James Lafferty	4	Plainsman Medium Hovertank (Standard)	N	
+797	Armored Support	-	Sun's	-	Able	-	Epsilon	-	Sergeant	Michael Bird	4	Plainsman Medium Hovertank (Standard)	N	
+798	Armored Support	-	Sun's	-	Able	-	Epsilon	-	Sergeant	Susan Holmere	3	Plainsman Medium Hovertank (Standard)	N	
+799	Armored Support	-	Sun's	-	Able	-	Epsilon	-	Sergeant	Scott Uma	4	Pegasus Scout Hover Tank (Standard)	N	
+800	Armored Support	-	Sun's	-	Able	-	Epsilon	-	Sergeant	Anne Oosterhoff	3	Pegasus Scout Hover Tank (Standard)	N	
+801	Command	-	Sun's	-	Able	-	Epsilon	-	-	Peter Divisadero	3	Panther PNT-9R	N	
+802	Command	-	Sun's	-	Able	-	Epsilon	-	-	Caridad Santa Teresa	3	Jenner JR7-D	N	
+803	Command	-	Sun's	-	Able	-	Epsilon	-	Captain	Sun Cho	4	Phoenix Hawk PXH-1	N	
+804	Command	-	Sun's	-	Able	-	Epsilon	-	Lieutenant	Diana "Eight Ball" Standord	4	Locust LCT-1V	N	
+805	Fire	-	Sun's	-	Able	-	Epsilon	-	-	Martin Dietrick	3	Panther PNT-9R	N	
+806	Fire	-	Sun's	-	Able	-	Epsilon	-	-	Augusto Melis	2	Commando COM-2D	N	
+807	Fire	-	Sun's	-	Able	-	Epsilon	-	Lieutenant	Karl "Delta" LeMat	4	Valkyrie VLK-QA	N	
+808	Fire	-	Sun's	-	Able	-	Epsilon	-	Sergeant	Jennie Gerald	4	Jenner JR7-D	N	
+809	Recon	-	Sun's	-	Able	-	Epsilon	-	-	Warren Kujalla	3	Assassin ASN-21	N	
+810	Recon	-	Sun's	-	Able	-	Epsilon	-	-	Edward Jennhunnen	3	Wasp WSP-1A	N	
+811	Recon	-	Sun's	-	Able	-	Epsilon	-	Lieutenant	Marik Winterhawk	4	Locust LCT-1V	N	
+812	Recon	-	Sun's	-	Able	-	Epsilon	-	Sergeant	Austin Bell	4	Firefly FFL-4A	N	
+813	Command	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	-	Jayson Givan	3	Goliath GOL-1H	N	
+814	Command	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	-	Kenneth Mitari	2	Banshee BNC-3E	N	
+815	Command	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	Captain	Julie Sunstrom	4	Victor VTR-9B	N	
+816	Command	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	Lieutenant	Spiro Killasis	4	Battlemaster BLR-1G	N	
+817	Fire	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	-	Thomas Salvesi	3	Archer ARC-2R	N	
+818	Fire	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	-	Walter Samodurov	3	Ostsol OTL-4D	N	
+819	Fire	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	Lieutenant	Kosho Kokuba	4	Marauder MAD-3R	N	
+820	Fire	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	Sergeant	Octavio Finaldi	4	Archer ARC-2W	N	
+821	Heavy	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	-	Vincent Casca	4	Thunderbolt TDR-5S	N	
+822	Heavy	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	-	Axel Svensson	2	Dragon DRG-1N	N	
+823	Heavy	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	Lieutenant	Frank Lundell	4	Orion ON1-K	N	
+824	Heavy	-	Sunstrom's	The Cuirassiers	Able	-	Epsilon	-	Sergeant	Cu Ha	4	Warhammer WHM-6R	N	
+825	Command	-	-	-	Baker	Jarrett's Lancers	Epsilon	-	-	Patrick Finnegan	4	Ostsol OTL-4D	N	
+826	Command	-	-	-	Baker	Jarrett's Lancers	Epsilon	-	-	Sheila Cadbury	3	Ostroc OSR-2C	N	
+827	Command	-	-	-	Baker	Jarrett's Lancers	Epsilon	-	Captain	Morton Duggan	4	Warhammer WHM-6R	N	
+828	Command	-	-	-	Baker	Jarrett's Lancers	Epsilon	-	Major	Richard Jarrett	4	Archer ARC-2W	N	
+829	Dropship	-	-	-	Baker	Jarrett's Lancers	Epsilon	-	-	Ise		Overlord (2762)	N	
+830	Aerospace	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	-	Joanne Pelletiere	2	Hellcat HCT-213	N	
+831	Aerospace	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Vogel Pearson	4	Hellcat HCT-213	N	
+832	Armored Support	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Ala Prosser	4	Bulldog Medium Tank (Standard)	N	
+833	Armored Support	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Gregg Jarmer	4	Bulldog Medium Tank (Standard)	N	
+834	Armored Support	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Russel Davis	2	Bulldog Medium Tank (Standard)	N	
+835	Armored Support	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Cedric Speckner	3	Bulldog Medium Tank (Standard)	N	
+836	Armored Support	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Jan "Concrete" Koopman	2	Goblin Infantry Support Vehicle (Standard)	N	
+837	Command	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	-	Carey Torrance	4	Hoplite HOP-4B	N	
+838	Command	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	-	Manfred Zysk	3	Thunderbolt TDR-5S	N	
+839	Command	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Captain	Patrick Gordon	4	Warhammer WHM-6R	N	
+840	Command	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Mary Kirby	4	Crusader CRD-3R	N	
+841	Fire	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	-	Glenn Minshall	3	Griffin GRF-1N	N	
+842	Fire	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	-	Mercy Stengel	2	Crusader CRD-3R	N	
+843	Fire	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Delore Lutgen	4	Archer ARC-2W	N	
+844	Fire	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Douglas Arno	3	Archer ARC-2R	N	
+845	Heavy	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	-	Eugene Arguelles	3	Shadow Hawk SHD-2H	N	
+846	Heavy	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	-	Sridhar Lyengar	2	Phoenix Hawk PXH-1	N	
+847	Heavy	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	William Finzer	4	Trebuchet TBT-5N	N	
+848	Heavy	-	Gordon's	Gordon's Highlanders	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Marcia Norris	4	Griffin GRF-1N	N	
+849	Aerospace	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	-	Scott "Swede" Anderson	3	Centurion CNT-1D	N	
+850	Aerospace	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	William "Trigger" Fitch	4	Centurion CNT-1D	N	
+851	Command	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	-	Jackson "Kicker" Chun	3	Griffin GRF-1N	N	
+852	Command	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	-	Carry Makoi	3	Hermes II HER-2S	N	
+853	Command	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	Captain	Kirk Hoff	4	Rifleman RFL-3N	N	
+854	Command	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Arthur Figgis	4	Dervish DV-6M	N	
+855	Fire	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	-	Raymond Jatos	3	Panther PNT-9R	N	
+856	Fire	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	-	Chan Thabong Maknarakham	3	Trebuchet TBT-5N	N	
+857	Fire	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Aira Enfield	4	Archer ARC-2W	N	
+858	Fire	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Christine Knott	4	Hunchback HBK-4G	N	
+859	Medium	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	-	Dale "Penguin" Horowitz	3	Clint CLNT-2-3T	N	
+860	Medium	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	-	Clarence Grogan	3	Cicada CDA-2A	N	
+861	Medium	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	George Fillis	4	Griffin GRF-1N	N	
+862	Medium	-	Hoff's	Firewalkers	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Paul Sandino	4	Firestarter FS9-H	N	
+863	Command	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	-	Wilson Smullen	4	Shogun SHG-2E	N	
+864	Command	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	-	Basil Farnham	3	Marauder II MAD-4A	N	
+865	Command	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Captain	Michael Mercier	4	Battlemaster BLR-1G	N	
+866	Command	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Kristine Yedinak	4	Archer ARC-2W	N	
+867	Fire	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	-	Henry Bolan	4	Scorpion SCP-1N	N	
+868	Fire	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	-	Anton Emery	3	Quickdraw QKD-4H	N	
+869	Fire	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	John "Rally" Porseth	4	Catapult CPLT-C1	N	
+870	Fire	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Steven Hess	4	Shadow Hawk SHD-2H	N	
+871	Jump Infantry Support	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Corporal	Donald Dumas	3	Jump Platoon (MG)	N	
+872	Jump Infantry Support	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Corporal	Wendy Riggs	3	Jump Platoon (MG)	N	
+873	Jump Infantry Support	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Corporal	Odam Bach	2	Jump Platoon (MG)	N	
+874	Jump Infantry Support	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Marco "Choirboy" Lavine	4	Jump Platoon (Laser)	N	
+875	Jump Infantry Support	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Trenton Spillsbury	4	Jump Platoon (Laser)	N	
+876	Recon	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	-	Jerry Hawker	3	Ostscout OTT-7J	N	
+877	Recon	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	-	Duke Easom	2	Stinger STG-3R	N	
+878	Recon	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Lieutenant	Katherine Parrott	4	Locust LCT-1V	N	
+879	Recon	-	Mercier's	-	Baker	Jarrett's Lancers	Epsilon	-	Sergeant	Samuel Yonkers	3	Jenner JR7-D	N	
+880	Command	-	-	-	Charlie	Hussein's Hussars	Epsilon	-	-	Vonda Evansich	3	Archer ARC-2R	N	
+881	Command	-	-	-	Charlie	Hussein's Hussars	Epsilon	-	Captain	Sharyn Potter	4	Marauder MAD-3R	N	
+882	Command	-	-	-	Charlie	Hussein's Hussars	Epsilon	-	Major	Hussein Tajdar	4	Stalker STK-3F	N	
+883	Command	-	-	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Richard Kossner	3	Hoplite HOP-4C	N	
+884	Dropship	-	-	-	Charlie	Hussein's Hussars	Epsilon	-	-	Sunniva		Union (2708)	N	
+885	Dropship	-	-	-	Charlie	Hussein's Hussars	Epsilon	-	-	Hebrides		Union (2708)	N	
+886	Dropship	-	-	-	Charlie	Hussein's Hussars	Epsilon	-	-	Mt. Suribachi		Union (2708)	N	
+887	Command	McGarvey's Horse	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Ted Heyden	4	Ostroc OSR-2C	N	
+888	Command	McGarvey's Horse	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Dennis Pickman	2	Archer ARC-2R	N	
+889	Command	McGarvey's Horse	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	Captain	Trenton McGarvey	4	Rifleman RFL-3N	N	
+890	Command	McGarvey's Horse	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Malcom Hyatt	3	Grasshopper GHR-5H	N	
+891	Fire	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Eleanor Thorsness	2	JagerMech JM6-S	N	
+892	Fire	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Mathias Haugen	1	Rifleman RFL-3N	N	
+893	Fire	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Eliz Ubell	3	Dragon DRG-1N	N	
+894	Fire	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Terry Hannula	3	Whitworth WTH-1	N	
+895	Medium	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Oscar Frossard	2	Griffin GRF-1N	N	
+896	Medium	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	-	ShaRee Rhone	1	Phoenix Hawk PXH-1	N	
+897	Medium	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Norton Conner	3	Wolverine WVR-6R	N	
+898	Medium	-	McGarvey's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	William Harrington	4	Shadow Hawk SHD-2H	N	
+899	Command	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Hugh Minthorne	2	Wasp WSP-1A	N	
+900	Command	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Donald Larrios	2	Crusader CRD-3R	N	
+901	Command	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Captain	Elizabeth Nichole	4	Catapult CPLT-C1	N	
+902	Command	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Gerald Buskirk	3	Phoenix Hawk PXH-1	N	
+903	Fire	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Vittorio Visteen	4	Shadow Hawk SHD-2H	N	
+904	Fire	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Rufus Denney	2	Griffin GRF-1N	N	
+905	Fire	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Peter Geffen	3	Archer ARC-2R	N	
+906	Fire	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Marjory Rayborn	4	Archer ARC-2W	N	
+907	LAM	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Sandra Bloch	3	Wasp LAM WSP-105	N	
+908	LAM	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Emanuelle Kohrman	4	Phoenix Hawk LAM PHX-HK2	N	
+909	LAM	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Curtis Lipke	3	Wasp LAM WSP-105	N	
+910	Strike	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Elvira Boswell	2	Stinger STG-3R	N	
+911	Strike	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Michala Parenteaus	2	Stinger STG-3R	N	
+912	Strike	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Carter "Broker" Trent	4	Stinger STG-3G	N	
+913	Strike	-	Nichole's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Ross Thorssen	3	Phoenix Hawk PXH-1	N	
+914	1st Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Harold Cushman	3	Pegasus Scout Hover Tank (Standard)	N	
+915	1st Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Linda Czopek	3	Pegasus Scout Hover Tank (Standard)	N	
+916	1st Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	David Malagamba	2	Pegasus Scout Hover Tank (Standard)	N	
+917	1st Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Chriistina Bilderbeck	2	Pegasus Scout Hover Tank (Standard)	N	
+918	1st Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Ahmad Parr	2	Pegasus Scout Hover Tank (Standard)	N	
+919	2nd Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Joseph McLellard	4	Drillson Heavy Hover Tank (Standard)	N	
+920	2nd Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Warren Resser	3	Drillson Heavy Hover Tank (Standard)	N	
+921	2nd Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Deborah Sutherland	3	Drillson Heavy Hover Tank (Standard)	N	
+922	2nd Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Stanley Volgas	3	Saracen Medium Hover Tank (Standard)	N	
+923	2nd Armored Support	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Leonard Carbondale	3	Saracen Medium Hover Tank (Standard)	N	
+924	Command	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Arturo Batista	2	Archer ARC-2R	N	
+925	Command	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Walter Nyland	2	Crusader CRD-3R	N	
+926	Command	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Captain	Amelia Shire	4	Warhammer WHM-6R	N	
+927	Command	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Curtis Holzgang	3	Thunderbolt TDR-5S	N	
+928	Heavy	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Charles Bruen	2	Dervish DV-6M	N	
+929	Heavy	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	-	David Rex	1	Wolverine WVR-6R	N	
+930	Heavy	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Gerhard Hannah	3	Ostroc OSR-2C	N	
+931	Heavy	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Amanda Prohaska	3	Crusader CRD-3R	N	
+932	Recon	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Mitchell Zeeman	2	Ostscout OTT-7J	N	
+933	Recon	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	-	Arnet Grossenbach	1	Locust LCT-1V	N	
+934	Recon	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Lieutenant	Surasak Rianpra	3	Valkyrie VLK-QA	N	
+935	Recon	-	Shire's	-	Charlie	Hussein's Hussars	Epsilon	-	Sergeant	Reubin Haas	2	Spider SDR-5V	N	
+936	Command	The Philly Boys	7th Kommando	-	-	-	-	-	Colonel	Griffith Nikitich	4	Motorized Platoon (Laser)	N	
+937	Command	The Philly Boys	7th Kommando	-	-	-	-	-	Major	Richard Monteif	4	Motorized Platoon (Laser)	N	Intelligence
+938	Command	The Philly Boys	7th Kommando	-	-	-	-	-	Sergeant-Major	Scott Reese	4	Motorized Platoon (Laser)	N	Security
+939	Command	The Philly Boys	7th Kommando	-	-	-	-	-	Corporal	Grant Zeff	4	Motorized Platoon (Laser)	N	
+940	Command	The Philly Boys	7th Kommando	-	-	-	-	-	Corporal	Eleanor Landsam	4	Motorized Platoon (Laser)	N	
+941	Command	The Philly Boys	7th Kommando	-	-	-	-	-	Corporal	Farley Oaken	4	Motorized Platoon (Laser)	N	
+942	1st Motorized Infantry (Laser)	Red Wolf	7th Kommando	-	-	-	-	-	Captain	R. Ian McMartin	4	Motorized Platoon (Laser)	N	
+943	1st Motorized Infantry (Laser)	Red Wolf	7th Kommando	-	-	-	-	-	Sergeant	Vance Fisher	4	Motorized Platoon (Laser)	N	
+944	1st Motorized Infantry (Laser)	Red Wolf	7th Kommando	-	-	-	-	-	Corporal	Mark Cardew	4	Motorized Platoon (Laser)	N	
+945	1st Motorized Infantry (Laser)	Red Wolf	7th Kommando	-	-	-	-	-	Corporal	Arla Jahn	4	Motorized Platoon (Laser)	N	
+946	1st Motorized Infantry (Laser)	Red Wolf	7th Kommando	-	-	-	-	-	Corporal	Neil Lusk	4	Motorized Platoon (Laser)	N	
+947	1st Motorized Infantry (Laser)	Red Wolf	7th Kommando	-	-	-	-	-	Corporal	Margarite Larocque	4	Motorized Platoon (Laser)	N	
+948	2nd Motorized Infantry (Laser)	White Wolf	7th Kommando	-	-	-	-	-	Lieutenant	Yvonne Draedin	4	Motorized Platoon (Laser)	N	
+949	2nd Motorized Infantry (Laser)	White Wolf	7th Kommando	-	-	-	-	-	Sergeant	James "Scout" Tanner-Smith	4	Motorized Platoon (Laser)	N	
+950	2nd Motorized Infantry (Laser)	White Wolf	7th Kommando	-	-	-	-	-	Corporal	Russel Nau	4	Motorized Platoon (Laser)	N	
+951	2nd Motorized Infantry (Laser)	White Wolf	7th Kommando	-	-	-	-	-	Corporal	Perry Denzman	4	Motorized Platoon (Laser)	N	
+952	2nd Motorized Infantry (Laser)	White Wolf	7th Kommando	-	-	-	-	-	Corporal	Lars Stevens	4	Motorized Platoon (Laser)	N	
+953	2nd Motorized Infantry (Laser)	White Wolf	7th Kommando	-	-	-	-	-	Corporal	Richard Cho	4	Motorized Platoon (Laser)	N	
+954	3rd Motorized Infantry (Laser)	Gray Wolf	7th Kommando	-	-	-	-	-	Lieutenant	Sean Eric Kevin	4	Motorized Platoon (Laser)	N	
+955	3rd Motorized Infantry (Laser)	Gray Wolf	7th Kommando	-	-	-	-	-	Sergeant	Ahmal "Shake Eyes" Farish	4	Motorized Platoon (Laser)	N	
+956	3rd Motorized Infantry (Laser)	Gray Wolf	7th Kommando	-	-	-	-	-	Corporal	Carlos San Ramon	4	Motorized Platoon (Laser)	N	
+957	3rd Motorized Infantry (Laser)	Gray Wolf	7th Kommando	-	-	-	-	-	Corporal	Alice Carlucci	4	Motorized Platoon (Laser)	N	
+958	3rd Motorized Infantry (Laser)	Gray Wolf	7th Kommando	-	-	-	-	-	Corporal	Marion Schellhaus	4	Motorized Platoon (Laser)	N	
+959	3rd Motorized Infantry (Laser)	Gray Wolf	7th Kommando	-	-	-	-	-	Corporal	Earnest "Frosty" Hall	4	Motorized Platoon (Laser)	N	
+960	4th Motorized Infantry (Laser)	Shadow Platoon	7th Kommando	-	-	-	-	-	Lieutenant	Anton Shadd	4	Motorized Platoon (Laser)	N	
+961	4th Motorized Infantry (Laser)	Shadow Platoon	7th Kommando	-	-	-	-	-	Sergeant	Lester "Canner" Lukas	4	Motorized Platoon (Laser)	N	
+962	4th Motorized Infantry (Laser)	Shadow Platoon	7th Kommando	-	-	-	-	-	Corporal	Sheilah Booksby	4	Motorized Platoon (Laser)	N	
+963	4th Motorized Infantry (Laser)	Shadow Platoon	7th Kommando	-	-	-	-	-	Corporal	Robert "Tool Box" Rettman	4	Motorized Platoon (Laser)	N	
+964	4th Motorized Infantry (Laser)	Shadow Platoon	7th Kommando	-	-	-	-	-	Corporal	Harold Ketel	4	Motorized Platoon (Laser)	N	
+965	4th Motorized Infantry (Laser)	Shadow Platoon	7th Kommando	-	-	-	-	-	Corporal	Todd O'Toole	4	Motorized Platoon (Laser)	N	
+966	Dropship	-	7th Kommando	-	-	-	-	-	-	Argent's Gift		Fury (2638)	N	
+967	Dropship	-	7th Kommando	-	-	-	-	-	-	Arrow		Fury (2638)	N	
+968	Dropship	-	7th Kommando	-	-	-	-	-	-	Northstar		Fury (2638)	N	
+969	Dropship	-	7th Kommando	-	-	-	-	-	-	Rio Nunzio		Fury (2638)	N	
+970	Dropship	-	7th Kommando	-	-	-	-	-	-	Sheba		Fury (2638)	N	
+971	Command	-	Black Widow	-	-	-	-	-	Captain	Natasha "Black Widow" Kerensky	4	Warhammer WHM-6R	N	
+972	Command	-	Black Widow	-	-	-	-	-	Sergeant	Colin MacLaren	4	Marauder MAD-3R	N	
+973	Command	-	Black Widow	-	-	-	-	-	-	Lynn Sheridan	4	Crusader CRD-3R	N	
+974	Command	-	Black Widow	-	-	-	-	-	-	John Hayes	3	Griffin GRF-1N	N	
+975	Fire	-	Black Widow	-	-	-	-	-	Lieutenant	Takiro Ikeda	4	Panther PNT-9R	N	
+976	Fire	-	Black Widow	-	-	-	-	-	Sergeant	Mikos Delius	4	Whitworth WTH-1	N	
+977	Fire	-	Black Widow	-	-	-	-	-	-	Nikolai Koniev	3	Firefly FFL-4A	N	
+978	Fire	-	Black Widow	-	-	-	-	-	-	Delmar Lindstrom	3	Shadow Hawk SHD-2H	N	
+979	Recon	-	Black Widow	-	-	-	-	-	Lieutenant	John "Gentleman Johnny" Clavell	4	Firefly FFL-4A	N	
+980	Recon	-	Black Widow	-	-	-	-	-	Sergeant	Piet Nichols	4	Hornet HNT-151	N	
+981	Recon	-	Black Widow	-	-	-	-	-	-	Simon Fraser	3	Stinger STG-3R	N	
+982	Recon	-	Black Widow	-	-	-	-	-	-	Mohammar Jahan	3	Stinger STG-3R	N	
+983	Dropship	-	Black Widow	-	-	-	-	-	-	Widow's Web		Union (2708)	N	
+984	Command	-	-	-	Fire Support Group	-	-	-	Major	Misha Sventnikov	4	Battlemaster BLR-1G	N	
+985	Command	-	-	-	Fire Support Group	-	-	-	Lieutenant	Jennifer Weiss	4	Archer ARC-2W	N	
+986	Command	-	-	-	Fire Support Group	-	-	-	-	Simon "Hickock" Maddox	4	Imp IMP-2E	N	
+987	Command	-	-	-	Fire Support Group	-	-	-	-	Linda Kamm	3	Griffin GRF-1N	N	
+988	Dropship	-	-	-	Fire Support Group	-	-	-	-	Wexford		Fortress (2613)	N	
+989	Command	-	Alpha	-	Fire Support Group	-	-	-	Captain	Wilford Scruggs	4	Marauder II MAD-4A	N	
+990	Command	-	Alpha	-	Fire Support Group	-	-	-	Sergeant	Roman Vanderschoff	4	Thunderbolt TDR-5S	N	
+991	Command	-	Alpha	-	Fire Support Group	-	-	-	-	Merlon Mergelos	3	Crusader CRD-3R	N	
+992	Command	-	Alpha	-	Fire Support Group	-	-	-	-	Alan Seeley	3	Crusader CRD-3R	N	
+993	Aerospace	-	Alpha	-	Fire Support Group	-	-	-	Lieutenant	Duane "Tango" Tangelli	4	Centurion CNT-1D	N	
+994	Aerospace	-	Alpha	-	Fire Support Group	-	-	-	-	Virginia "Hips" O'Hare	4	Centurion CNT-1D	N	
+995	Armored Support	-	Alpha	-	Fire Support Group	-	-	-	Lieutenant	Jordan MacMahon	4	Plainsman Medium Hovertank (Standard)	N	
+996	Armored Support	-	Alpha	-	Fire Support Group	-	-	-	Sergeant	John "Alamo" Jones	4	Plainsman Medium Hovertank (Standard)	N	
+997	Armored Support	-	Alpha	-	Fire Support Group	-	-	-	Sergeant	Grace "Tiger" Rohmer	4	Plainsman Medium Hovertank (Standard)	N	
+998	Armored Support	-	Alpha	-	Fire Support Group	-	-	-	Sergeant	Glibert Tolliver	3	Plainsman Medium Hovertank (Standard)	N	
+999	Armored Support	-	Alpha	-	Fire Support Group	-	-	-	Sergeant	Barbara Shoop	3	Plainsman Medium Hovertank (Standard)	N	
+1000	Fire	-	Alpha	-	Fire Support Group	-	-	-	Lieutenant	Rebecca Ardenauer	4	Annihilator ANH-2A	N	
+1001	Fire	-	Alpha	-	Fire Support Group	-	-	-	Sergeant	Dawn Hirriman	4	Catapult CPLT-C1	N	
+1002	Fire	-	Alpha	-	Fire Support Group	-	-	-	-	Herbert McInnis	4	Dervish DV-6M	N	
+1003	Fire	-	Alpha	-	Fire Support Group	-	-	-	-	Christopher Endre	4	Crusader CRD-3R	N	
+1004	Command	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Captain	Pauline Aigner	4	Packrat LRPV PKR-T5	N	
+1005	Command	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Lieutenant	Tertillio Euell	4	Packrat LRPV PKR-T5	N	
+1006	Command	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Micheal Timmons	3	Packrat LRPV PKR-T5	N	
+1007	Artillery Alpha	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Lieutenant	Susan Merkle	4	Packrat LRPV PKR-T5	N	
+1008	Artillery Alpha	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	William Speckler	4	Mobile Long Tom Artillery LT-MOB-25	N	
+1009	Artillery Alpha	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Clarke Amato	4	Mobile Long Tom Artillery LT-MOB-25	N	
+1010	Artillery Alpha	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Albert Bojanhower	3	Mobile Long Tom Artillery LT-MOB-25	N	
+1011	Artillery Alpha	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Somchanh Singharaj	3	Sniper Artillery Tank (Standard)	N	
+1012	Artillery Beta	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Lieutenant	Walter Tschudy	4	Packrat LRPV PKR-T5	N	
+1013	Artillery Beta	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Cuong Ton	4	Mobile Long Tom Artillery LT-MOB-25	N	
+1014	Artillery Beta	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Nicholas Venner	4	Mobile Long Tom Artillery LT-MOB-25	N	
+1015	Artillery Beta	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	David Jossi	4	Sniper Artillery Tank (Standard)	N	
+1016	Artillery Beta	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Mikiung Kao	3	Sniper Artillery Tank (Standard)	N	
+1017	Artillery Gamma	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Lieutenant	Meryl Blumenthal	4	Packrat LRPV PKR-T5	N	
+1018	Artillery Gamma	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Lars Anderson	4	Mobile Long Tom Artillery LT-MOB-25	N	
+1019	Artillery Gamma	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Alan "Striker" Aims	3	Mobile Long Tom Artillery LT-MOB-25	N	
+1020	Artillery Gamma	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Shelley Ougendahl	4	Sniper Artillery Tank (Standard)	N	
+1021	Artillery Gamma	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Camile Lulic	3	Sniper Artillery Tank (Standard)	N	
+1022	Jump Infantry Support (SMG)	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Lieutenant	Garibaldi "Baldy" Clemmons	4	Jump Platoon (MG)	N	
+1023	Jump Infantry Support (SMG)	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Sergeant	Miles Jarboe	4	Jump Platoon (MG)	N	
+1024	Jump Infantry Support (SMG)	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Corporal	Anne Cooper	4	Jump Platoon (MG)	N	
+1025	Jump Infantry Support (SMG)	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Corporal	Lawrence Frennel	4	Jump Platoon (MG)	N	
+1026	Jump Infantry Support (SMG)	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Corporal	Jeffery Foxworth	3	Jump Platoon (MG)	N	
+1027	Jump Infantry Support (SMG)	-	Beta	The Kentucky Rifles	Fire Support Group	-	-	-	Corporal	Brenda McClure	3	Jump Platoon (MG)	N	
+1028	Dropship	-	Command	-	Orbital/Aerospace Operations Group	-	-	-	Colonel	Jason Carmody	4	Leopard (2537)	N	Name of Dropship is Huscarl
+1029	Alpha	-	Command	-	Orbital/Aerospace Operations Group	-	-	-	Captain	Nathan "Starman" Charles	4	Hellcat HCT-213	N	
+1030	Alpha	-	Command	-	Orbital/Aerospace Operations Group	-	-	-	-	Evan "Rigger" Riggs	4	Hellcat HCT-213	N	
+1031	Beta	-	Command	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Georgia Torango	4	Thrush TR-7	N	
+1032	Beta	-	Command	-	Orbital/Aerospace Operations Group	-	-	-	-	Kim Sung	4	Stuka STU-K5	N	
+1033	Alpha	-	Red	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Della Nichols	4	Riever F-100	N	
+1034	Alpha	-	Red	-	Orbital/Aerospace Operations Group	-	-	-	-	Vance Tyrell	3	Riever F-100a	N	
+1035	Beta	-	Red	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Sophia Dayton	4	Transgressor TR-13	N	
+1036	Beta	-	Red	-	Orbital/Aerospace Operations Group	-	-	-	-	Maurice "Dove" LaPaloma	3	Transgressor TR-13	N	
+1037	Gamma	-	Red	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Gary "Laser" Fazer	3	Seydlitz SYD-21	N	
+1038	Gamma	-	Red	-	Orbital/Aerospace Operations Group	-	-	-	-	Steward Greene	2	Seydlitz SYD-21	N	
+1039	Dropship	-	Red	-	Orbital/Aerospace Operations Group	-	-	-	-	Akaga		Leopard CV (2581)	N	
+1040	Alpha	-	White	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Albert Larkin	4	Eagle EGL-2M	N	
+1041	Alpha	-	White	-	Orbital/Aerospace Operations Group	-	-	-	-	Daryl "Dropkick" Plunkett	3	Eagle EGL-2M	N	
+1042	Beta	-	White	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Elena "Pistol" Maguire	4	Corsair CSR-V12	N	
+1043	Beta	-	White	-	Orbital/Aerospace Operations Group	-	-	-	-	Goodman Stafford	3	Corsair CSR-V12	N	
+1044	Gamma	-	White	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Bruce Redaman	4	Thrush TR-7	N	
+1045	Gamma	-	White	-	Orbital/Aerospace Operations Group	-	-	-	-	Tony Shelton	4	Thrush TR-7	N	
+1046	Dropship	-	White	-	Orbital/Aerospace Operations Group	-	-	-	-	Peregrine		Leopard CV (2581)	N	
+1047	Alpha	-	Blue	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Hamilton Atwyl	4	Lucifer LCF-R15	N	
+1048	Alpha	-	Blue	-	Orbital/Aerospace Operations Group	-	-	-	-	Gianni Bredel	4	Lucifer LCF-R15	N	
+1049	Beta	-	Blue	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Thomas Gordon	3	Sparrowhawk SPR-H5	N	
+1050	Beta	-	Blue	-	Orbital/Aerospace Operations Group	-	-	-	-	Samuel Gordon	3	Sparrowhawk SPR-H5	N	
+1051	Gamma	-	Blue	-	Orbital/Aerospace Operations Group	-	-	-	Lieutenant	Bertrand Christian	3	Sholagar SL-21	N	
+1052	Gamma	-	Blue	-	Orbital/Aerospace Operations Group	-	-	-	-	Evelyn Larkin	3	Sholagar SL-21	N	
+1053	Dropship	-	Blue	-	Orbital/Aerospace Operations Group	-	-	-	-	Swallow		Leopard CV (2581)	N	
+1054	Command	-	-	-	Special Recon Group	-	-	-	Major	Hansen Brubaker	4	Wasp LAM WSP-105	N	
+1055	Command	-	-	-	Special Recon Group	-	-	-	Captain	Norman Scoggins	4	Wasp LAM WSP-105	N	
+1056	Command	-	-	-	Special Recon Group	-	-	-	-	Geralld Iholts	3	Stinger LAM STG-A5	N	
+1057	Command	-	-	-	Special Recon Group	-	-	-	-	Edgar Allenby	3	Stinger LAM STG-A5	N	
+1058	Dropship	-	-	-	Special Recon Group	-	-	-	-	Bowfin		Intruder (2655)	N	
+1059	Dropship	-	-	-	Special Recon Group	-	-	-	-	Peter Iredale		Leopard (2537)	N	
+1060	Dropship	-	-	-	Special Recon Group	-	-	-	-	Silkie		Leopard (2537)	N	
+1061	Dropship	-	-	-	Special Recon Group	-	-	-	-	White Rose		Leopard (2537)	N	
+1062	Aerial Recon	-	Combined Arms	-	Special Recon Group	-	-	-	Lieutenant	Victoria "Chopper" Cheyne	4	Ferret Light Scout VTOL (Standard)	N	
+1063	Aerial Recon	-	Combined Arms	-	Special Recon Group	-	-	-	-	Sogun Magus	4	Ferret Light Scout VTOL (Standard)	N	
+1064	Aerial Recon	-	Combined Arms	-	Special Recon Group	-	-	-	-	Roland Davidge	4	Ferret Light Scout VTOL (Standard)	N	
+1065	Aerial Recon	-	Combined Arms	-	Special Recon Group	-	-	-	-	Sameul Tse	4	Ferret Light Scout VTOL (Standard)	N	
+1066	Armored	-	Combined Arms	-	Special Recon Group	-	-	-	Lieutenant	Lasto Harrison	4	Pegasus Scout Hover Tank (Standard)	N	
+1067	Armored	-	Combined Arms	-	Special Recon Group	-	-	-	Sergeant	Albin Dulbier	4	Pegasus Scout Hover Tank (Standard)	N	
+1068	Armored	-	Combined Arms	-	Special Recon Group	-	-	-	Sergeant	Leahman Sexton	4	Pegasus Scout Hover Tank (Standard)	N	
+1069	Armored	-	Combined Arms	-	Special Recon Group	-	-	-	Sergeant	LeRoy "Briar" Shaw	4	Pegasus Scout Hover Tank (Standard)	N	
+1070	Armored	-	Combined Arms	-	Special Recon Group	-	-	-	Sergeant	Nina Darnell	4	Pegasus Scout Hover Tank (Standard)	N	
+1071	Jump Infantry	-	Combined Arms	-	Special Recon Group	-	-	-	Lieutenant	Bethany Sigler	4	Jump Platoon (Laser)	N	
+1072	Jump Infantry	-	Combined Arms	-	Special Recon Group	-	-	-	Sergeant	Skip Wells	4	Jump Platoon (Laser)	N	
+1073	Jump Infantry	-	Combined Arms	-	Special Recon Group	-	-	-	Corporal	Dean Pagano	4	Jump Platoon (Laser)	N	
+1074	Jump Infantry	-	Combined Arms	-	Special Recon Group	-	-	-	Corporal	Dominic Damiani	4	Jump Platoon (Laser)	N	
+1075	Jump Infantry	-	Combined Arms	-	Special Recon Group	-	-	-	Corporal	Hoku Laptook	3	Jump Platoon (Laser)	N	
+1076	Jump Infantry	-	Combined Arms	-	Special Recon Group	-	-	-	Corporal	Richard Prosser	3	Jump Platoon (Laser)	N	
+1077	Lance 1	-	Graham's	The Night Owls	Special Recon Group	-	-	-	Captain	Steven Graham	4	Locust LCT-1V	N	
+1078	Lance 1	-	Graham's	The Night Owls	Special Recon Group	-	-	-	Sergeant	Davina Michaud	4	Wasp WSP-1W	N	
+1079	Lance 1	-	Graham's	The Night Owls	Special Recon Group	-	-	-	-	Serena Vanderwerff	3	Ostscout OTT-7J	N	
+1080	Lance 1	-	Graham's	The Night Owls	Special Recon Group	-	-	-	-	Roy Roehmer	3	Flea FLE-15	N	
+1081	Lance 2	-	Graham's	The Night Owls	Special Recon Group	-	-	-	Lieutenant	Vince Howell	4	Firefly FFL-4A	N	
+1082	Lance 2	-	Graham's	The Night Owls	Special Recon Group	-	-	-	Sergeant	Karla Davanzano	4	Jenner JR7-D	N	
+1083	Lance 2	-	Graham's	The Night Owls	Special Recon Group	-	-	-	-	Ferenc Gavor	4	Wasp WSP-1W	N	
+1084	Lance 2	-	Graham's	The Night Owls	Special Recon Group	-	-	-	-	Janice Hildens	3	Hornet HNT-151	N	
+1085	Lance 3	-	Graham's	The Night Owls	Special Recon Group	-	-	-	Lieutenant	Andrea Savage	4	Falcon FLC-4N	N	
+1086	Lance 3	-	Graham's	The Night Owls	Special Recon Group	-	-	-	Sergeant	Minh Hua	4	Stinger STG-3G	N	
+1087	Lance 3	-	Graham's	The Night Owls	Special Recon Group	-	-	-	-	Jeremy L. Lewis	4	Spider SDR-5V	N	
+1088	Lance 3	-	Graham's	The Night Owls	Special Recon Group	-	-	-	-	Carmen Larossa	3	Raven RVN-1X	N	
+1089	Command	-	-	-	Support	-	-	-	Colonel	Karl Verhoffen	4	Condor Heavy Hover Tank (Standard)	N	
+1090	Command	-	-	-	Support	-	-	-	Lieutenant	Arnelle Sealeyham	4	Pegasus Scout Hover Tank (Standard)	N	
+1091	Command	-	-	-	Support	-	-	-	-	Dack Mullaney	4	Pegasus Scout Hover Tank (Standard)	N	
+1092	Command	-	-	-	Support	-	-	-	-	Oliver Brett	3	Pegasus Scout Hover Tank (Standard)	N	
+1093	Dropship	-	-	-	Support	-	-	-		Jeb Stuart		Gazelle (2531)	N	
+1094	Dropship	-	-	-	Support	-	-	-		Marshal Ney		Gazelle (2531)	N	
+1095	Dropship	-	-	-	Support	-	-	-		Jordan "Frog" Ling		Fury (2638)	N	
+1096	Dropship	-	-	-	Support	-	-	-		Heron		Leopard CV (2581)	N	
+1097	Alpha	Command	Grazier's	-	Support	-	-	-	Captain	Edna Grazier	4	Saracen Medium Hover Tank (Standard)	N	
+1098	Alpha	Command	Grazier's	-	Support	-	-	-	Lieutenant	Steve Illias	4	Saracen Medium Hover Tank (Standard)	N	
+1099	Alpha	Command	Grazier's	-	Support	-	-	-	Sergeant	Norman Watkins	4	Ontos Heavy Tank (Standard)	N	
+1100	Alpha	Command	Grazier's	-	Support	-	-	-	Sergeant	Theodore Piggott	3	Ontos Heavy Tank (Standard)	N	
+1101	Alpha	Command	Grazier's	-	Support	-	-	-	Sergeant	Joselyn Thrankov	3	Partisan Air Defense Tank (Standard)	N	
+1102	Alpha	Command	Grazier's	-	Support	-	-	-	Sergeant	Richard antoso	3	Partisan Air Defense Tank (Standard)	N	
+1103	Beta	-	Grazier's	-	Support	-	-	-	Lieutenant	Kenneth "Gravel" Kiu	4	Saracen Medium Hover Tank (Standard)	N	
+1104	Beta	-	Grazier's	-	Support	-	-	-	Sergeant	Earnest McWhorter	4	Manticore Heavy Tank (Standard)	N	
+1105	Beta	-	Grazier's	-	Support	-	-	-	Sergeant	Charles "Cleaner" Lazarro	3	Manticore Heavy Tank (Standard)	N	
+1106	Beta	-	Grazier's	-	Support	-	-	-	Sergeant	Jonathan Eggar	3	Schrek PPC Carrier (Standard)	N	
+1107	Beta	-	Grazier's	-	Support	-	-	-	Sergeant	Faramaz Jahouni	3	Schrek PPC Carrier (Standard)	N	
+1108	Delta	Recon	Grazier's	-	Support	-	-	-	Lieutenant	Andrew Gambrelli	4	Pegasus Scout Hover Tank (Standard)	N	
+1109	Delta	Recon	Grazier's	-	Support	-	-	-	Sergeant	Vance Stewart	4	Hi-Scout Drone Carrier (Standard)	N	
+1110	Delta	Recon	Grazier's	-	Support	-	-	-	Sergeant	Briuzilio Safuz	4	Hi-Scout Drone Carrier (Standard)	N	
+1111	Delta	Recon	Grazier's	-	Support	-	-	-	Sergeant	William Denzell	3	Hi-Scout Drone Carrier (Standard)	N	
+1112	Gamma	-	Grazier's	-	Support	-	-	-	Lieutenant	Ian Danner	4	Saladin Assault Hover Tank (Armor)	N	
+1113	Gamma	-	Grazier's	-	Support	-	-	-	Sergeant	Reba Millichope	4	Saracen Medium Hover Tank (Standard)	N	
+1114	Gamma	-	Grazier's	-	Support	-	-	-	Sergeant	Richard Hunt	4	Saracen Medium Hover Tank (Standard)	N	
+1115	Gamma	-	Grazier's	-	Support	-	-	-	Sergeant	William Groener	3	Scimitar Medium Hover Tank (Standard)	N	
+1116	Gamma	-	Grazier's	-	Support	-	-	-	Sergeant	Rosario Lamon	3	Scimitar Medium Hover Tank (Standard)	N	
+1117	Alpha	Command	Hibbard's	-	Support	-	-	-	Captain	Samuel Hibbard	4	Peregrine Attack VTOL (Standard)	N	
+1118	Alpha	Command	Hibbard's	-	Support	-	-	-	Lieutenant	Bard Milhaus	4	Peregrine Attack VTOL (Standard)	N	
+1119	Alpha	Command	Hibbard's	-	Support	-	-	-	-	Talma "Downtown" Ingarajh	3	Peregrine Attack VTOL (Standard)	N	
+1120	Alpha	Command	Hibbard's	-	Support	-	-	-	-	Irving Nasau	2	Peregrine Attack VTOL (Standard)	N	
+1121	Beta	-	Hibbard's	-	Support	-	-	-	Lieutenant	Peter "Swayback" Manning	4	Peregrine Attack VTOL (Standard)	N	
+1122	Beta	-	Hibbard's	-	Support	-	-	-	-	Mavra Shi	4	Peregrine Attack VTOL (Standard)	N	
+1123	Beta	-	Hibbard's	-	Support	-	-	-	-	Curtis Coldridge	3	Peregrine Attack VTOL (Standard)	N	
+1124	Beta	-	Hibbard's	-	Support	-	-	-	-	Laurence Doner	3	Peregrine Attack VTOL (Standard)	N	
+1125	Gamma	-	Hibbard's	-	Support	-	-	-	Lieutenant	Lloyd Ryan	4	Warrior Attack Helicopter H-7C	N	
+1126	Gamma	-	Hibbard's	-	Support	-	-	-	-	Gene "Rockheart" Miller	4	Warrior Attack Helicopter H-7C	N	
+1127	Gamma	-	Hibbard's	-	Support	-	-	-	-	Van Seber	3	Warrior Attack Helicopter H-7A	N	
+1128	Gamma	-	Hibbard's	-	Support	-	-	-	-	Ulua Macombe	3	Warrior Attack Helicopter H-7	N	
+1129	Red	-	McGonnigal's	-	Support	-	-	-	Captain	Mark "Rabbit" McGonnigal	4	Chippewa CHP-W5	N	
+1130	Red	-	McGonnigal's	-	Support	-	-	-	Lieutenant	Drew "Red Dog" Smith	3	Chippewa CHP-W5	N	
+1131	White	-	McGonnigal's	-	Support	-	-	-	Lieutenant	Amanda "Bunny" Bordman	3	Shilone SL-17	N	
+1132	White	-	McGonnigal's	-	Support	-	-	-	-	Curtis "Fireman" Heller	2	Shilone SL-17	N	
+1133	Blue	-	McGonnigal's	-	Support	-	-	-	Lieutenant	Sylvester "Rusty" Madder	3	Cheetah F-10	N	
+1134	Blue	-	McGonnigal's	-	Support	-	-	-	-	Walter "Streak" Chase	3	Cheetah F-10	N	
+1135	Alpha	-	Piper's	The Long Riders	Support	-	-	-	Captain	Douglas Piper	4	Saracen Medium Hover Tank (Standard)	N	
+1136	Alpha	-	Piper's	The Long Riders	Support	-	-	-	Lieutenant	Craig Ashley	4	Saracen Medium Hover Tank (Standard)	N	
+1137	Alpha	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Chelsea Marris	4	SRM Carrier (Standard)	N	Dagger SRM Carrier
+1138	Alpha	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Mark Ribideau	3	SRM Carrier (Standard)	N	Dagger SRM Carrier
+1139	Alpha	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Franklin Underwood	3	SRM Carrier (Standard)	N	Dagger SRM Carrier
+1140	Alpha	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Laurie Gilette	3	SRM Carrier (Standard)	N	Dagger SRM Carrier
+1141	Beta	-	Piper's	The Long Riders	Support	-	-	-	Lieutenant	Robert Patterson	4	Saracen Medium Hover Tank (Standard)	N	
+1142	Beta	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Lawrence Berg	4	LRM Carrier (Standard)	N	Yeoman LRM Carrier
+1143	Beta	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Rita Rossetti	4	LRM Carrier (Standard)	N	Yeoman LRM Carrier
+1144	Beta	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Alexander Spidelle	3	LRM Carrier (Standard)	N	Yeoman LRM Carrier
+1145	Beta	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Brian Johansen	3	LRM Carrier (Standard)	N	Yeoman LRM Carrier
+1146	Gamma	-	Piper's	The Long Riders	Support	-	-	-	Lieutenant	Bennet Curtis	4	Saladin Assault Hover Tank (Armor)	N	
+1147	Gamma	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Maurice McClellan	4	Saladin Assault Hover Tank (Armor)	N	
+1148	Gamma	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Lila Bonner	4	Saracen Medium Hover Tank (Standard)	N	
+1149	Gamma	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Howell Prakash	3	Saracen Medium Hover Tank (Standard)	N	
+1150	Gamma	-	Piper's	The Long Riders	Support	-	-	-	Sergeant	Raymond Bergstrom	4	Scimitar Medium Hover Tank (Missile)	N	
+1151	Alpha	Command	Sindh's Infantry	The Chain Gang	Support	-	-	-	Captain	Jamad Sindh	4	Motorized Platoon (MG)	N	
+1152	Alpha	Command	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Dale Vandewegh	4	Motorized Platoon (MG)	N	
+1153	Alpha	Command	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Louise Tarkington	3	Motorized Platoon (MG)	N	
+1154	Alpha	Command	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Edwin Haldeman	3	Motorized Platoon (MG)	N	
+1155	Alpha	Command	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Sabella Daikoro	3	Motorized Platoon (MG)	N	
+1156	Alpha	Command	Sindh's Infantry	The Chain Gang	Support	-	-	-	Sergeant	Thomas Del Rio	4	Motorized Platoon (MG)	N	
+1157	Beta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Val Tanner	3	Motorized Platoon (MG)	N	
+1158	Beta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Sylvia Atiyeh	2	Motorized Platoon (MG)	N	
+1159	Beta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Christopher Pazeotopolous	2	Motorized Platoon (MG)	N	
+1160	Beta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Stewart East	2	Motorized Platoon (MG)	N	
+1161	Beta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Lieutenant	Jass Diers	4	Motorized Platoon (MG)	N	
+1162	Beta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Sergeant	Robert Nghiem	4	Motorized Platoon (MG)	N	
+1163	Delta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Dean Roberts	4	Jump Platoon (Laser)	N	
+1164	Delta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Lynn Kindred	4	Jump Platoon (Laser)	N	
+1165	Delta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Sakura Mushasi	3	Jump Platoon (Laser)	N	
+1166	Delta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Munroe Denham	3	Jump Platoon (Laser)	N	
+1167	Delta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Lieutenant	Alvin Lake	4	Jump Platoon (Laser)	N	
+1168	Delta	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Sergeant	Cherie Hummel	4	Jump Platoon (Laser)	N	
+1169	Gamma	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Leland Selkirk	3	Motorized Platoon (Flamer)	N	
+1170	Gamma	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Mel Bendix	3	Motorized Platoon (Flamer)	N	
+1171	Gamma	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Chad "Curly" Gorman	2	Motorized Platoon (Flamer)	N	
+1172	Gamma	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Corporal	Warren Finch	2	Motorized Platoon (Flamer)	N	
+1173	Gamma	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Lieutenant	Gordon "Moon" Insley	4	Motorized Platoon (Flamer)	N	
+1174	Gamma	-	Sindh's Infantry	The Chain Gang	Support	-	-	-	Sergeant	Mick Fairweather	3	Motorized Platoon (Flamer)	N	
+1175	Command	-	-	-	Zeta	-	-	-	Colonel	J. Elliot Jamison	4	Stalker STK-3F	N	
+1176	Command	-	-	-	Zeta	-	-	-	Lieutenant	Jesse "Wedge" Connor	4	Imp IMP-2E	N	
+1177	Command	-	-	-	Zeta	-	-	-	-	Dahlia "China" Bassman	4	Zeus ZEU-6S	N	
+1178	Command	-	-	-	Zeta	-	-	-	-	Nedo Zobrist	4	Atlas AS7-D	N	
+1179	Dropship	-	-	-	Zeta	-	-	-	-	Hecate		Overlord (2762)	N	
+1180	Command	-	Lucas's	Red	Zeta	-	-	-	Captain	Tara Lucas	4	Stalker STK-3F	N	
+1181	Command	-	Lucas's	Red	Zeta	-	-	-	Sergeant	Jerid Mesa	4	Annihilator ANH-2A	N	
+1182	Command	-	Lucas's	Red	Zeta	-	-	-	-	Reg Hegstrom	4	Atlas AS7-D	N	
+1183	Command	-	Lucas's	Red	Zeta	-	-	-	-	Emily Plackett	3	Awesome AWS-8Q	N	
+1184	Assault 1	-	Lucas's	Red	Zeta	-	-	-	Lieutenant	Margot Felter	4	Marauder MAD-3R	N	
+1185	Assault 1	-	Lucas's	Red	Zeta	-	-	-	Sergeant	Emma Sheen	4	Atlas AS7-D	N	
+1186	Assault 1	-	Lucas's	Red	Zeta	-	-	-	-	Audrey "Crazed" Bronson	4	Annihilator ANH-2A	N	
+1187	Assault 1	-	Lucas's	Red	Zeta	-	-	-	-	Harold Albright	3	Imp IMP-2E	N	
+1188	Assault 2	-	Lucas's	Red	Zeta	-	-	-	Lieutenant	Hayato Kobiyashi	4	Annihilator ANH-2A	N	
+1189	Assault 2	-	Lucas's	Red	Zeta	-	-	-	Sergeant	Pierce Drenner	4	Stalker STK-3F	N	
+1190	Assault 2	-	Lucas's	Red	Zeta	-	-	-	-	Albin "Scirocco" Bernadie	4	Shogun SHG-2E	N	
+1191	Assault 2	-	Lucas's	Red	Zeta	-	-	-	-	Carla Melhase	3	Atlas AS7-D	N	
+1192	Command	-	Srisubadh's	White	Zeta	-	-	-	Captain	Noi Srisubadh	4	Stalker STK-3F	N	
+1193	Command	-	Srisubadh's	White	Zeta	-	-	-	Sergeant	Maia Kwong	4	Imp IMP-2E	N	
+1194	Command	-	Srisubadh's	White	Zeta	-	-	-	-	Leta Gordon	4	Awesome AWS-8Q	N	
+1195	Command	-	Srisubadh's	White	Zeta	-	-	-	-	Urban Williams	4	Shogun SHG-2E	N	
+1196	Assault 1	-	Srisubadh's	White	Zeta	-	-	-	Lieutenant	Char Aznable	4	Battlemaster BLR-1G	N	
+1197	Assault 1	-	Srisubadh's	White	Zeta	-	-	-	Sergeant	Theo Mason	4	Stalker STK-3F	N	
+1198	Assault 1	-	Srisubadh's	White	Zeta	-	-	-	-	Madeline Jennings	3	Imp IMP-2E	N	
+1199	Assault 1	-	Srisubadh's	White	Zeta	-	-	-	-	Jorge Muller	3	Annihilator ANH-2A	N	
+1200	Assault 2	-	Srisubadh's	White	Zeta	-	-	-	Lieutenant	Lester Crawford	4	Shogun SHG-2E	N	
+1201	Assault 2	-	Srisubadh's	White	Zeta	-	-	-	Sergeant	Douglas Ross	4	Atlas AS7-D	N	
+1202	Assault 2	-	Srisubadh's	White	Zeta	-	-	-	-	Rima Toff	4	Stalker STK-3F	N	
+1203	Assault 2	-	Srisubadh's	White	Zeta	-	-	-	-	Steven Fujimi	3	Marauder II MAD-4A	N	
+1204	Command	-	Garrett's	Blue	Zeta	-	-	-	Captain	Arthur Garrett	4	Battlemaster BLR-1G	N	
+1205	Command	-	Garrett's	Blue	Zeta	-	-	-	Sergeant	Sveng Ngov	4	Marauder II MAD-4A	N	
+1206	Command	-	Garrett's	Blue	Zeta	-	-	-	-	Alexander Schwindt	4	Marauder II MAD-4A	N	
+1207	Command	-	Garrett's	Blue	Zeta	-	-	-	-	Norris Knutson	3	Annihilator ANH-2A	N	
+1208	Fire	-	Garrett's	Blue	Zeta	-	-	-	Lieutenant	Hunter MacDonald	4	Awesome AWS-8Q	N	
+1209	Fire	-	Garrett's	Blue	Zeta	-	-	-	Sergeant	Maurice Neyman	4	Hunchback HBK-4G	N	
+1210	Fire	-	Garrett's	Blue	Zeta	-	-	-	-	Daniel Shav	4	Archer ARC-2W	N	
+1211	Fire	-	Garrett's	Blue	Zeta	-	-	-	-	Sally Tisdale	3	Whitworth WTH-1	N	
+1212	Heavy	-	Garrett's	Blue	Zeta	-	-	-	Lieutenant	Tammy Markham	4	Marauder MAD-3R	N	
+1213	Heavy	-	Garrett's	Blue	Zeta	-	-	-	Sergeant	Aurelius "Caesar" Cunningham	4	Awesome AWS-8Q	N	
+1214	Heavy	-	Garrett's	Blue	Zeta	-	-	-	-	James Knister	4	Stalker STK-3F	N	
+1215	Heavy	-	Garrett's	Blue	Zeta	-	-	-	-	Banjamin Hugh	3	Orion ON1-K	N	
